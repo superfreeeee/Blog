@@ -23,7 +23,7 @@
 <table>
     <tr>
         <td>ts 官方文檔</td>
-        <td><a>https://www.typescriptlang.org/docs/home.html</a></td>
+        <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
 </table>
 

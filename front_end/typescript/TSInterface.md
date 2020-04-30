@@ -29,7 +29,7 @@ Interface 是 TS 中非常重要的特性，相當於定義對象的每個詳細
 <table>
     <tr>
         <td>ts 官方文檔</td>
-        <td><a>https://www.typescriptlang.org/docs/home.html</a></td>
+        <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
 </table>
 
