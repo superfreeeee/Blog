@@ -13,16 +13,16 @@
         <td>ts</td>
         <td>TSBasic</td>
         <td>ts 官方文檔</td>
-        <td><a>https://www.typescriptlang.org/docs/home.html</a></td>
+        <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
         <td rowspan="2">js</td>
         <td rowspan="2">ObjectDefineProperty</td>
         <td>MDN web docs</td>
-        <td><a>https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
+        <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
     </tr>
     </tr>
         <td>Property Descriptor</td>
-        <td><a>https://www.jianshu.com/p/f0d9a0ca98f4</a></td>
+        <td><a href="https://www.jianshu.com/p/f0d9a0ca98f4">https://www.jianshu.com/p/f0d9a0ca98f4</a></td>
     </tr>
 </table>
