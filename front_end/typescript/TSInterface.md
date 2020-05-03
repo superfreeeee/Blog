@@ -1,8 +1,8 @@
-# Interface 接口
+# TS: Interface 接口
 
 <!-- TOC -->
 
-- [Interface 接口](#interface-接口)
+- [TS: Interface 接口](#ts-interface-接口)
     - [簡介](#簡介)
     - [參考](#參考)
 - [正文](#正文)

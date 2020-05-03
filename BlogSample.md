@@ -17,7 +17,7 @@
 <table>
     <tr>
         <td></td>
-        <td><a></a></td>
+        <td><a href=""></a></td>
     </tr>
 </table>
 
