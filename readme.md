@@ -1,6 +1,6 @@
 # 超悠閒 的 博客
 
-以博客的形式記錄學習路徑，每篇專注在一個小主題上
+每日一博客，記錄學習路徑
 
 ## Reference 參考
 
@@ -16,7 +16,7 @@
         <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
-        <td rowspan="6">js</td>
+        <td rowspan="7">js</td>
         <td rowspan="2">ObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -43,5 +43,10 @@
         <td>ES6DestructuringAssignment</td>
         <td>ES6 变量的解构赋值</td>
         <td><a href="http://caibaojian.com/es6/destructuring.html">http://caibaojian.com/es6/destructuring.html</a></td>
+    </tr>
+    <tr>
+        <td>ES6Set&Map</td>
+        <td>ES6 set和map数据结构</td>
+        <td><a href="http://caibaojian.com/es6/set-map.html">http://caibaojian.com/es6/set-map.html</a></td>
     </tr>
 </table>

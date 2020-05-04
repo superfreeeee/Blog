@@ -1,5 +1,7 @@
 # Title
 
+@[TOC](文章目錄)
+
 <!-- TOC -->
 
 - [Title](#title)
