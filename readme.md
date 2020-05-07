@@ -59,4 +59,10 @@
         <td>MDN CSS彈性盒子用法</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes">https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes</a></td>
     </tr>
+    <tr>
+        <td>design_pattern</td>
+        <td>StrategyPattern</td>
+        <td>Strategy Design Pattern in Java – Example Tutorial</td>
+        <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
+    </tr>
 </table>
