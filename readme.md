@@ -1,6 +1,6 @@
 # 超悠閒 的 博客
 
-每日一博客，記錄學習路徑
+每日一博客，記錄學習路徑和技術細節
 
 ## Reference 參考
 
@@ -31,7 +31,7 @@
         <td><a href="https://medium.com/@nlfernando11/object-freeze-vs-object-seal-vs-object-preventextensions-251ee99d0c47">https://medium.com/@nlfernando11/object-freeze-vs-object-seal-vs-object-preventextensions-251ee99d0c47</a></td>
     </tr>
     <tr>
-        <td rowspan="7">es6</td>
+        <td rowspan="9">es6</td>
         <td rowspan="2">ES6ArrowFunction</td>
         <td>Arrow Function</td>
         <td><a href="https://pjchender.blogspot.com/2017/01/es6-arrow-function.html">https://pjchender.blogspot.com/2017/01/es6-arrow-function.html</a></td>
@@ -61,6 +61,15 @@
     <tr>
         <td>ES6 promise对象</td>
         <td><a href="http://caibaojian.com/es6/promise.html">http://caibaojian.com/es6/promise.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">ES6Symbol</td>
+        <td>ES6 symbol</td>
+        <td><a href="http://caibaojian.com/es6/symbol.html">http://caibaojian.com/es6/symbol.html</a></td>
+    </tr>
+    <tr>
+        <td>ES6 中的元编程</td>
+        <td><a href="https://juejin.im/post/5a0e65c1f265da430702d6b9">https://juejin.im/post/5a0e65c1f265da430702d6b9</a></td>
     </tr>
     <tr>
         <td rowspan="2">css</td>
