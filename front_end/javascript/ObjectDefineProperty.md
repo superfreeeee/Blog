@@ -1,4 +1,4 @@
-# Object.defineProperty
+# JS基礎：Object.defineProperty
 
 <!-- TOC -->
 

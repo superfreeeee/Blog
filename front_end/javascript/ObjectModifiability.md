@@ -1,8 +1,8 @@
-# `Object.freeze()` vs `Object.seal()` vs `Object.preventExtensions()`
+#  JS基礎：`Object.freeze()` vs `Object.seal()` vs `Object.preventExtensions()`
 
 <!-- TOC -->
 
-- [`Object.freeze()` vs `Object.seal()` vs `Object.preventExtensions()`](#objectfreeze-vs-objectseal-vs-objectpreventextensions)
+- [JS基礎：`Object.freeze()` vs `Object.seal()` vs `Object.preventExtensions()`](#js基礎objectfreeze-vs-objectseal-vs-objectpreventextensions)
     - [簡介](#簡介)
     - [參考](#參考)
 - [正文](#正文)

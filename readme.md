@@ -78,4 +78,20 @@
         <td>Strategy Design Pattern in Java – Example Tutorial</td>
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
+    <tr>
+        <td rowspan="2">fe_others</td>
+        <td rowspan="2">axios</td>
+        <td>Jquery ajax, Axios, Fetch區別之我見</td>
+        <td><a href="https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/">https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/</a></td>
+    </tr>
+    <tr>
+        <td>axios</td>
+        <td><a href="http://www.axios-js.com/docs/">http://www.axios-js.com/docs/</a></td>
+    </tr>
+    <tr>
+        <td>spring</td>
+        <td>SpringBootCreate</td>
+        <td>Getting Started</td>
+        <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
+    </tr>
 </table>
