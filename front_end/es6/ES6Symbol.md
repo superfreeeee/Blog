@@ -186,19 +186,19 @@ stack.top = -1 // Stack { '0': 1, '1': 2, '2': 3, [Symbol()]: 2, 'top': -1 }
 
 ES6 總共添加了 11 種內置 Symbol 值，有點像是 Symbol 類的靜態類型，取代字符串作為方法名，便能將這些特殊的方法與一般方法區隔開來，同時許多 JS 內置方法也將調用以 Symbol 值為名的方法。透過這些 Symbol 內置值，程序員開始能夠介入一些內置方法的操作而不用再透過多餘的方法調用。
 
-| Values                    | About                      |
-| ------------------------- | -------------------------- |
-| Symbol.hasInstance        | instanceof 運算符          |
-| Symbol.isConcatSpreadable | Array.prototype.concat()   |
+| Values                    | About                       |
+| ------------------------- | --------------------------- |
+| Symbol.hasInstance        | instanceof 運算符           |
+| Symbol.isConcatSpreadable | Array.prototype.concat()    |
 | Symbol.species            |
-| Symbol.match              | String.prototype.match()   |
-| Symbol.replace            | String.prototype.replace() |
-| Symbol.search             |
-| Symbol.split              |
-| Symbol.iterator           |
-| Symbol.toPrimitive        |
-| Symbol.toStringTag        |
-| Symbol.unscopables        |
+| Symbol.match              | String.prototype.match()    |
+| Symbol.replace            | String.prototype.replace()  |
+| Symbol.search             | String.prototype.search()   |
+| Symbol.split              | String.prototype.split()    |
+| Symbol.iterator           | for...of                    |
+| Symbol.toPrimitive        | Number(), String()          |
+| Symbol.toStringTag        | Object.prototype.toString() |
+| Symbol.unscopables        | with(obj)                   |
 
 ### Symbol.hasInstance
 
