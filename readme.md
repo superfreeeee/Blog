@@ -31,7 +31,7 @@
         <td><a href="https://medium.com/@nlfernando11/object-freeze-vs-object-seal-vs-object-preventextensions-251ee99d0c47">https://medium.com/@nlfernando11/object-freeze-vs-object-seal-vs-object-preventextensions-251ee99d0c47</a></td>
     </tr>
     <tr>
-        <td rowspan="9">es6</td>
+        <td rowspan="10">es6</td>
         <td rowspan="2">ES6ArrowFunction</td>
         <td>Arrow Function</td>
         <td><a href="https://pjchender.blogspot.com/2017/01/es6-arrow-function.html">https://pjchender.blogspot.com/2017/01/es6-arrow-function.html</a></td>
@@ -70,6 +70,11 @@
     <tr>
         <td>ES6 中的元编程</td>
         <td><a href="https://juejin.im/post/5a0e65c1f265da430702d6b9">https://juejin.im/post/5a0e65c1f265da430702d6b9</a></td>
+    </tr>
+    <tr>
+        <td>ES6Generator</td>
+        <td>Generator 函数</td>
+        <td><a href="http://caibaojian.com/es6/generator.html">http://caibaojian.com/es6/generator.html</a></td>
     </tr>
     <tr>
         <td rowspan="2">css</td>
