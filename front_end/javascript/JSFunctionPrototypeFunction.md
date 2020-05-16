@@ -1,4 +1,4 @@
-# JS 基礎：Function.prototype 三大方法
+# JS基礎：Function.prototype 三大方法
 
 @[TOC](文章目錄)
 
