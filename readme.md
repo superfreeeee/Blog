@@ -16,8 +16,8 @@
         <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
-        <td rowspan="5">js</td>
-        <td rowspan="2">ObjectDefineProperty</td>
+        <td rowspan="9">js</td>
+        <td rowspan="2">JSObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
     </tr>
@@ -26,18 +26,35 @@
         <td><a href="https://www.jianshu.com/p/f0d9a0ca98f4">https://www.jianshu.com/p/f0d9a0ca98f4</a></td>
     </tr>
     <tr>
-        <td>ObjectModifiability</td>
+        <td>JSObjectModifiability</td>
         <td>Object.freeze() vs Object.seal() vs Object. preventExtensions()</td>
         <td><a href="https://medium.com/@nlfernando11/object-freeze-vs-object-seal-vs-object-preventextensions-251ee99d0c47">https://medium.com/@nlfernando11/object-freeze-vs-object-seal-vs-object-preventextensions-251ee99d0c47</a></td>
     </tr>
     <tr>
-        <td rowspan="2">FunctionPrototypeFunction</td>
+        <td rowspan="2">JSFunctionPrototypeFunction</td>
         <td>函數原型最實用的 3 個方法 — call、apply、bind</td>
         <td><a href="https://medium.com/@realdennis/javascript-%E8%81%8A%E8%81%8Acall-apply-bind%E7%9A%84%E5%B7%AE%E7%95%B0%E8%88%87%E7%9B%B8%E4%BC%BC%E4%B9%8B%E8%99%95-2f82a4b4dd66">https://medium.com/@realdennis/javascript-%E8%81%8A%E8%81%8Acall-apply-bind%E7%9A%84%E5%B7%AE%E7%95%B0%E8%88%87%E7%9B%B8%E4%BC%BC%E4%B9%8B%E8%99%95-2f82a4b4dd66</a></td>
     </tr>
     <tr>
         <td>Function.prototype</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">JSDOM&BOM</td>
+        <td>Window-MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/API/Window">https://developer.mozilla.org/zh-TW/docs/Web/API/Window</a></td>
+    </tr>
+    <tr>
+        <td>Documnet-MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/API/Document">https://developer.mozilla.org/zh-TW/docs/Web/API/Document</a></td>
+    </tr>
+    <tr>
+        <td>JavaScript入門系列：BOM和DOM筆記</td>
+        <td><a href="https://www.happycoding.today/posts/43">https://www.happycoding.today/posts/43</a></td>
+    </tr>
+    <tr>
+        <td>最全的DOM和BOM的解释分析</td>
+        <td><a href="https://juejin.im/post/5d7677b06fb9a06afd662d20">https://juejin.im/post/5d7677b06fb9a06afd662d20</a></td>
     </tr>
     <tr>
         <td rowspan="10">es6</td>
@@ -121,16 +138,14 @@
 
 ## unsolved links
 
-| title                                         | link                                                                                                                                                             |
-| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pointfree 编程风格指南                        | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                                                                                                           |
-| Pointfree Javascript                          | http://lucasmreis.github.io/blog/pointfree-javascript/                                                                                                           |
-| Favoring Curry                                | https://fr.umio.us/favoring-curry/                                                                                                                               |
-| Curry and Function Composition                | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983                                                                                  |
-| JavaScript 入門系列：BOM 和 DOM 筆記          | https://www.happycoding.today/posts/43                                                                                                                           |
-| 最全的 DOM 和 BOM 的解释分析                  | https://juejin.im/post/5d7677b06fb9a06afd662d20                                                                                                                  |
-| Thunk                                         | https://en.wikipedia.org/wiki/Thunk                                                                                                                              |
-| Javascript 的 Event Loop                      | https://medium.com/hobo-engineer/ricky%E7%AD%86%E8%A8%98-javascript-%E7%9A%84-event-loop-c17a0a49d6e4                                                            |
-|                                               |
-|                                               |
-|                                               |
+| title                          | link                                                                                                  |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Pointfree 编程风格指南         | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                                                |
+| Pointfree Javascript           | http://lucasmreis.github.io/blog/pointfree-javascript/                                                |
+| Favoring Curry                 | https://fr.umio.us/favoring-curry/                                                                    |
+| Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983                       |
+| Thunk                          | https://en.wikipedia.org/wiki/Thunk                                                                   |
+| Javascript 的 Event Loop       | https://medium.com/hobo-engineer/ricky%E7%AD%86%E8%A8%98-javascript-%E7%9A%84-event-loop-c17a0a49d6e4 |
+|                                |
+|                                |
+|                                |
