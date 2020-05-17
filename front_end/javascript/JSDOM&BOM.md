@@ -58,7 +58,7 @@
 1. BOM(Browser Object Model)
 2. DOM(Document Object Model)
 
-![](../../asset/bom&dom/bom&dom_model.png)
+![](https://wtfhhh.oss-cn-beijing.aliyuncs.com/bom&dom_model.png)
 
 ## BOM(Browser Object Model)
 
