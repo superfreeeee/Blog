@@ -1,25 +1,25 @@
-# JS基礎：Object.defineProperty
+# JS 基礎：Object.defineProperty
 
 <!-- TOC -->
 
-- [Object.defineProperty](#objectdefineproperty)
-    - [簡介](#簡介)
-    - [參考](#參考)
+- [JS 基礎：Object.defineProperty](#js-基礎objectdefineproperty)
+  - [簡介](#簡介)
+  - [參考](#參考)
 - [正文](#正文)
-    - [語法](#語法)
-        - [參數說明](#參數說明)
-        - [查詢屬性描述](#查詢屬性描述)
-    - [Property Descriptor 屬性描述](#property-descriptor-屬性描述)
-        - [configurable 可配置性](#configurable-可配置性)
-            - [Sample](#sample)
-        - [enumerable 可枚舉性](#enumerable-可枚舉性)
-            - [Sample](#sample-1)
-        - [value 值](#value-值)
-            - [Sample](#sample-2)
-        - [writable 可修改性](#writable-可修改性)
-            - [Sample](#sample-3)
-        - [Accessor Properties 屬性訪問器(getter/setter)](#accessor-properties-屬性訪問器gettersetter)
-        - [Sample](#sample-4)
+  - [語法](#語法)
+    - [參數說明](#參數說明)
+    - [查詢屬性描述](#查詢屬性描述)
+  - [Property Descriptor 屬性描述](#property-descriptor-屬性描述)
+    - [configurable 可配置性](#configurable-可配置性)
+      - [Sample](#sample)
+    - [enumerable 可枚舉性](#enumerable-可枚舉性)
+      - [Sample](#sample-1)
+    - [value 值](#value-值)
+      - [Sample](#sample-2)
+    - [writable 可修改性](#writable-可修改性)
+      - [Sample](#sample-3)
+    - [Accessor Properties 屬性訪問器(getter/setter)](#accessor-properties-屬性訪問器gettersetter)
+    - [Sample](#sample-4)
 - [結語](#結語)
 
 <!-- /TOC -->

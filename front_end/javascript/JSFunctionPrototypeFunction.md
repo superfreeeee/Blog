@@ -1,24 +1,24 @@
-# JS基礎：Function.prototype 三大方法
+# JS 基礎：Function.prototype 三大方法
 
 @[TOC](文章目錄)
 
 <!-- TOC -->
 
 - [JS 基礎：Function.prototype 三大方法](#js-基礎functionprototype-三大方法)
-    - [簡介](#簡介)
-    - [參考](#參考)
+  - [簡介](#簡介)
+  - [參考](#參考)
 - [正文](#正文)
-    - [目的](#目的)
-    - [`Function.prototype.call` & `Function.prototype.apply`](#functionprototypecall--functionprototypeapply)
-        - [call & apply 語法](#call--apply-語法)
-        - [call & apply Sample](#call--apply-sample)
-    - [`Function.prototype.bind`](#functionprototypebind)
-        - [bind 語法](#bind-語法)
-        - [bind Sample](#bind-sample)
-    - [應用](#應用)
-        - [self 替換](#self-替換)
-        - [bind 函數](#bind-函數)
-        - [arrow function 箭頭函數](#arrow-function-箭頭函數)
+  - [目的](#目的)
+  - [`Function.prototype.call` & `Function.prototype.apply`](#functionprototypecall--functionprototypeapply)
+    - [call & apply 語法](#call--apply-語法)
+    - [call & apply Sample](#call--apply-sample)
+  - [`Function.prototype.bind`](#functionprototypebind)
+    - [bind 語法](#bind-語法)
+    - [bind Sample](#bind-sample)
+  - [應用](#應用)
+    - [self 替換](#self-替換)
+    - [bind 函數](#bind-函數)
+    - [arrow function 箭頭函數](#arrow-function-箭頭函數)
 - [結語](#結語)
 
 <!-- /TOC -->

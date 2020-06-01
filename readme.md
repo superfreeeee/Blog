@@ -161,15 +161,11 @@
 
 ## unsolved links
 
-| title                                              | link                                                                                                  |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Pointfree 编程风格指南                             | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                                                |
-| Pointfree Javascript                               | http://lucasmreis.github.io/blog/pointfree-javascript/                                                |
-| Favoring Curry                                     | https://fr.umio.us/favoring-curry/                                                                    |
-| Curry and Function Composition                     | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983                       |
-| Thunk                                              | https://en.wikipedia.org/wiki/Thunk                                                                   |
-| Javascript 的 Event Loop                           | https://medium.com/hobo-engineer/ricky%E7%AD%86%E8%A8%98-javascript-%E7%9A%84-event-loop-c17a0a49d6e4 |
-| 浏览器渲染引擎「内核」                             | https://github.com/zwwill/blog/issues/2                                                               |
-| 理解 JavaScript 中的事件循環、堆疊、佇列和併發模式 | https://pjchender.blogspot.com/2017/08/javascript-learn-event-loop-stack-queue.html                   |
-| Event Loop 運行機制解析 - 瀏覽器篇                 | https://yu-jack.github.io/2020/02/03/javascript-runtime-event-loop-browser/                           |
-| Event Queue & Event Loop 、Event Table             | https://ithelp.ithome.com.tw/articles/10221944                                                        |
+| title                          | link                                                                            |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| Pointfree 编程风格指南         | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
+| Pointfree Javascript           | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
+| Favoring Curry                 | https://fr.umio.us/favoring-curry/                                              |
+| Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
+| Thunk                          | https://en.wikipedia.org/wiki/Thunk                                             |
+| 浏览器渲染引擎「内核」         | https://github.com/zwwill/blog/issues/2                                         |
