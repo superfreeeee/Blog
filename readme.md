@@ -119,7 +119,7 @@
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="2">fe_others</td>
+        <td rowspan="4">fe_others</td>
         <td rowspan="2">axios</td>
         <td>Jquery ajax, Axios, Fetch區別之我見</td>
         <td><a href="https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/">https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/</a></td>
@@ -127,6 +127,15 @@
     <tr>
         <td>axios</td>
         <td><a href="http://www.axios-js.com/docs/">http://www.axios-js.com/docs/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">js-cookie</td>
+        <td>輕量級JS Cookie外掛js-cookie的使用方法</td>
+        <td><a href="https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/204962/">https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/204962/</a></td>
+    </tr>
+    <tr>
+        <td>js-cookie github</td>
+        <td><a href="https://github.com/js-cookie/js-cookie">https://github.com/js-cookie/js-cookie</a></td>
     </tr>
     <tr>
         <td>spring</td>
