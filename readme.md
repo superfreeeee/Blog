@@ -119,7 +119,7 @@
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="4">fe_others</td>
+        <td rowspan="5">fe_others</td>
         <td rowspan="2">axios</td>
         <td>Jquery ajax, Axios, Fetch區別之我見</td>
         <td><a href="https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/">https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/</a></td>
@@ -136,6 +136,11 @@
     <tr>
         <td>js-cookie github</td>
         <td><a href="https://github.com/js-cookie/js-cookie">https://github.com/js-cookie/js-cookie</a></td>
+    </tr>
+    <tr>
+        <td>nprogress</td>
+        <td>nprogress github</td>
+        <td><a href="https://github.com/rstacruz/nprogress">https://github.com/rstacruz/nprogress</a></td>
     </tr>
     <tr>
         <td>spring</td>

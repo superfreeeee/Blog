@@ -1,10 +1,10 @@
-# js-cookie：轻量级 cookie 框架
+# js-cookie：輕量級 cookie 框架
 
 @[TOC](文章目錄)
 
 <!-- TOC -->
 
-- [js-cookie：轻量级 cookie 框架](#js-cookie轻量级-cookie-框架)
+- [js-cookie：輕量級 cookie 框架](#js-cookie輕量級-cookie-框架)
   - [簡介](#簡介)
   - [參考](#參考)
 - [正文](#正文)
