@@ -63,7 +63,7 @@
 
 我們先來看一下 JS 引擎執行 JavaScript 代碼的抽象結構：
 
-![](../../asset/eventloop/eventloop_main.png)
+![](https://wtfhhh.oss-cn-beijing.aliyuncs.com/eventloop_main.png)
 
 ### Stack 棧
 

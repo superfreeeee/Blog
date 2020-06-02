@@ -16,7 +16,7 @@
         <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
-        <td rowspan="11">js</td>
+        <td rowspan="13">js</td>
         <td rowspan="2">JSObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -64,6 +64,15 @@
     <tr>
         <td>Javascript 的 Event Loop</td>
         <td><a href="https://medium.com/hobo-engineer/ricky%E7%AD%86%E8%A8%98-javascript-%E7%9A%84-event-loop-c17a0a49d6e4">https://medium.com/hobo-engineer/ricky%E7%AD%86%E8%A8%98-javascript-%E7%9A%84-event-loop-c17a0a49d6e4</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JSEventTrigger</td>
+        <td>EventTarget MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/API/EventTarget">https://developer.mozilla.org/zh-TW/docs/Web/API/EventTarget</a></td>
+    </tr>
+    <tr>
+        <td>事件 (Event) 的註冊、觸發與傳遞</td>
+        <td><a href="https://medium.com/@realdennis/javascript-%E4%BA%8B%E4%BB%B6-event-da8104c5c98c">https://medium.com/@realdennis/javascript-%E4%BA%8B%E4%BB%B6-event-da8104c5c98c</a></td>
     </tr>
     <tr>
         <td rowspan="10">es6</td>
