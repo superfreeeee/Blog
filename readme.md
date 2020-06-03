@@ -131,7 +131,7 @@
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes">https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes</a></td>
     </tr>
     <tr>
-        <td rowspan="5">fe_others</td>
+        <td rowspan="6">fe_others</td>
         <td rowspan="2">axios</td>
         <td>Jquery ajax, Axios, Fetch區別之我見</td>
         <td><a href="https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/">https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/</a></td>
@@ -153,6 +153,11 @@
         <td>nprogress</td>
         <td>nprogress github</td>
         <td><a href="https://github.com/rstacruz/nprogress">https://github.com/rstacruz/nprogress</a></td>
+    </tr>
+    <tr>
+        <td>Clipboard</td>
+        <td>clipboard.js</td>
+        <td><a href="https://clipboardjs.com/">https://clipboardjs.com/</a></td>
     </tr>
     <tr>
         <td>vue</td>
