@@ -131,12 +131,6 @@
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes">https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes</a></td>
     </tr>
     <tr>
-        <td>design_pattern</td>
-        <td>StrategyPattern</td>
-        <td>Strategy Design Pattern in Java – Example Tutorial</td>
-        <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
-    </tr>
-    <tr>
         <td rowspan="5">fe_others</td>
         <td rowspan="2">axios</td>
         <td>Jquery ajax, Axios, Fetch區別之我見</td>
@@ -161,10 +155,32 @@
         <td><a href="https://github.com/rstacruz/nprogress">https://github.com/rstacruz/nprogress</a></td>
     </tr>
     <tr>
+        <td>vue</td>
+        <td>VueCreate</td>
+        <td>Vue 官網介紹</td>
+        <td><a href="https://cn.vuejs.org/v2/guide/">https://cn.vuejs.org/v2/guide/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">react</td>
+        <td rowspan="2">ReactCreate</td>
+        <td>React 官方</td>
+        <td><a href="https://zh-hans.reactjs.org/">https://zh-hans.reactjs.org/</a></td>
+    </tr>
+    <tr>
+        <td>Create React App</td>
+        <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
+    </tr>
+    <tr>
         <td>spring</td>
         <td>SpringBootCreate</td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
+    </tr>
+    <tr>
+        <td>design_pattern</td>
+        <td>StrategyPattern</td>
+        <td>Strategy Design Pattern in Java – Example Tutorial</td>
+        <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
 </table>
 
