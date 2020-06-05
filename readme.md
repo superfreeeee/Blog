@@ -33,7 +33,7 @@
     <tr>
         <td rowspan="2">JSFunctionPrototypeFunction</td>
         <td>函數原型最實用的 3 個方法 — call、apply、bind</td>
-        <td><a href="https://medium.com/@realdennis/javascript-%E8%81%8A%E8%81%8Acall-apply-bind%E7%9A%84%E5%B7%AE%E7%95%B0%E8%88%87%E7%9B%B8%E4%BC%BC%E4%B9%8B%E8%99%95-2f82a4b4dd66">https://medium.com/@realdennis/javascript-%E8%81%8A%E8%81%8Acall-apply-bind%E7%9A%84%E5%B7%AE%E7%95%B0%E8%88%87%E7%9B%B8%E4%BC%BC%E4%B9%8B%E8%99%95-2f82a4b4dd66</a></td>
+        <td><a href="https://medium.com/@realdennis/2f82a4b4dd66">https://medium.com/@realdennis/2f82a4b4dd66</a></td>
     </tr>
     <tr>
         <td>Function.prototype</td>
@@ -173,6 +173,16 @@
         <td><a href="https://clipboardjs.com/">https://clipboardjs.com/</a></td>
     </tr>
     <tr>
+        <td rowspan="2">fe_tools</td>
+        <td rowspan="2">BabelBasic</td>
+        <td>babel 官方</td>
+        <td><a href="https://www.babeljs.cn/">https://www.babeljs.cn/</a></td>
+    </tr>
+    <tr>
+        <td>Babel 設定</td>
+        <td><a href="https://ithelp.ithome.com.tw/articles/10200299">https://ithelp.ithome.com.tw/articles/10200299</a></td>
+    </tr>
+    <tr>
         <td>vue</td>
         <td>VueCreate</td>
         <td>Vue 官網介紹</td>
@@ -214,3 +224,13 @@
 | 浏览器渲染引擎「内核」               | https://github.com/zwwill/blog/issues/2                                         |
 | 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388                    |
 | 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                                     |
+| 前端构建工具之争——Webpack vs Gulp    | https://juejin.im/entry/5a4470f85188252b145b5742                                |
+| 在開始寫 Code 之前？                 | https://medium.com/i-am-mike/662b3a2debe8                                       |
+| parcel 官方                          | https://parceljs.org/                                                           |
+| webpack 官方                         | https://webpack.docschina.org/                                                  |
+|                                      |
+|                                      |
+|                                      |
+|                                      |
+|                                      |
+|                                      |
