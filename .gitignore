@@ -1,2 +1,10 @@
+# 靜態資源
 asset/
 code/
+
+# Spring / Maven
+
+# Mybatis
+
+# Others
+.DS_Store
