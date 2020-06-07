@@ -219,23 +219,62 @@
 
 ## unsolved links
 
-| title                                     | link                                                                            |
-| ----------------------------------------- | ------------------------------------------------------------------------------- |
-| Pointfree 编程风格指南                    | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
-| Pointfree Javascript                      | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
-| Favoring Curry                            | https://fr.umio.us/favoring-curry/                                              |
-| Curry and Function Composition            | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
-| Thunk                                     | https://en.wikipedia.org/wiki/Thunk                                             |
-| 浏览器渲染引擎「内核」                    | https://github.com/zwwill/blog/issues/2                                         |
-| 徹底理解 UI 及 Web 的尺寸單位             | https://medium.com/uxabc/understanding-ui-units-8acdc0575388                    |
-| 網頁和行動裝置介面設計的尺寸單位(三)      | https://medium.com/@syuemingyu/b1324feff907                                     |
-| 前端构建工具之争——Webpack vs Gulp         | https://juejin.im/entry/5a4470f85188252b145b5742                                |
-| 在開始寫 Code 之前？                      | https://medium.com/i-am-mike/662b3a2debe8                                       |
-| parcel 官方                               | https://parceljs.org/                                                           |
-| webpack 官方                              | https://webpack.docschina.org/                                                  |
-| Git-了解分支&分支(建立、切換、刪除、回復) | https://ithelp.ithome.com.tw/articles/10211790                                  |
-| Git-合併分支                              | https://ithelp.ithome.com.tw/articles/10211791                                  |
-| Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792                                  |
-| Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795                                  |
-|                                           |
-|                                           |
+| title                          | link                                                                            |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| Pointfree 编程风格指南         | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
+| Pointfree Javascript           | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
+| Favoring Curry                 | https://fr.umio.us/favoring-curry/                                              |
+| Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
+| Thunk                          | https://en.wikipedia.org/wiki/Thunk                                             |
+| 浏览器渲染引擎「内核」         | https://github.com/zwwill/blog/issues/2                                         |
+
+## blog in plan
+
+### template
+
+| title | link |
+| ----- | ---- |
+
+
+### css lenght
+
+| title                                | link                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388 |
+| 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                  |
+
+### css media query
+
+| title                      | link                                                             |
+| -------------------------- | ---------------------------------------------------------------- |
+| CSS Media Queries 詳細介紹 | https://www.oxxostudio.tw/articles/201810/css-media-queries.html |
+
+### git conflict
+
+| title                                     | link                                           |
+| ----------------------------------------- | ---------------------------------------------- |
+| Git-了解分支&分支(建立、切換、刪除、回復) | https://ithelp.ithome.com.tw/articles/10211790 |
+| Git-合併分支                              | https://ithelp.ithome.com.tw/articles/10211791 |
+| Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792 |
+| Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795 |
+
+### webpack
+
+| title                             | link                                             |
+| --------------------------------- | ------------------------------------------------ |
+| 前端构建工具之争——Webpack vs Gulp | https://juejin.im/entry/5a4470f85188252b145b5742 |
+| 在開始寫 Code 之前？              | https://medium.com/i-am-mike/662b3a2debe8        |
+| webpack 官方                      | https://webpack.docschina.org/                   |
+| parcel 官方                       | https://parceljs.org/                            |
+
+### css transition
+
+| title    | link                                                             |
+| -------- | ---------------------------------------------------------------- |
+| CSS 变换 | https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Transitions |
+
+### css animation
+
+| title          | link                                                            |
+| -------------- | --------------------------------------------------------------- |
+| CSS Animations | https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Animations |
