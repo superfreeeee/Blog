@@ -121,7 +121,7 @@
         <td><a href="http://caibaojian.com/es6/generator.html">http://caibaojian.com/es6/generator.html</a></td>
     </tr>
     <tr>
-        <td rowspan="5">css</td>
+        <td rowspan="6">css</td>
         <td rowspan="2">CSSFlex</td>
         <td>圖解：CSS Flex 屬性一點也不難</td>
         <td><a href="https://wcc723.github.io/css/2017/07/21/css-flex/">https://wcc723.github.io/css/2017/07/21/css-flex/</a></td>
@@ -142,6 +142,11 @@
     <tr>
         <td>鐵人賽：網頁設計常用格線系統(上)</td>
         <td><a href="https://wcc723.github.io/design/2018/10/18/grid-system/">https://wcc723.github.io/design/2018/10/18/grid-system/</a></td>
+    </tr>
+    <tr>
+        <td>CSSSelector</td>
+        <td>CSS Selectors MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Selectors">https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Selectors</a></td>
     </tr>
     <tr>
         <td rowspan="6">fe_others</td>
@@ -214,23 +219,23 @@
 
 ## unsolved links
 
-| title                                | link                                                                            |
-| ------------------------------------ | ------------------------------------------------------------------------------- |
-| Pointfree 编程风格指南               | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
-| Pointfree Javascript                 | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
-| Favoring Curry                       | https://fr.umio.us/favoring-curry/                                              |
-| Curry and Function Composition       | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
-| Thunk                                | https://en.wikipedia.org/wiki/Thunk                                             |
-| 浏览器渲染引擎「内核」               | https://github.com/zwwill/blog/issues/2                                         |
-| 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388                    |
-| 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                                     |
-| 前端构建工具之争——Webpack vs Gulp    | https://juejin.im/entry/5a4470f85188252b145b5742                                |
-| 在開始寫 Code 之前？                 | https://medium.com/i-am-mike/662b3a2debe8                                       |
-| parcel 官方                          | https://parceljs.org/                                                           |
-| webpack 官方                         | https://webpack.docschina.org/                                                  |
-|                                      |
-|                                      |
-|                                      |
-|                                      |
-|                                      |
-|                                      |
+| title                                     | link                                                                            |
+| ----------------------------------------- | ------------------------------------------------------------------------------- |
+| Pointfree 编程风格指南                    | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
+| Pointfree Javascript                      | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
+| Favoring Curry                            | https://fr.umio.us/favoring-curry/                                              |
+| Curry and Function Composition            | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
+| Thunk                                     | https://en.wikipedia.org/wiki/Thunk                                             |
+| 浏览器渲染引擎「内核」                    | https://github.com/zwwill/blog/issues/2                                         |
+| 徹底理解 UI 及 Web 的尺寸單位             | https://medium.com/uxabc/understanding-ui-units-8acdc0575388                    |
+| 網頁和行動裝置介面設計的尺寸單位(三)      | https://medium.com/@syuemingyu/b1324feff907                                     |
+| 前端构建工具之争——Webpack vs Gulp         | https://juejin.im/entry/5a4470f85188252b145b5742                                |
+| 在開始寫 Code 之前？                      | https://medium.com/i-am-mike/662b3a2debe8                                       |
+| parcel 官方                               | https://parceljs.org/                                                           |
+| webpack 官方                              | https://webpack.docschina.org/                                                  |
+| Git-了解分支&分支(建立、切換、刪除、回復) | https://ithelp.ithome.com.tw/articles/10211790                                  |
+| Git-合併分支                              | https://ithelp.ithome.com.tw/articles/10211791                                  |
+| Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792                                  |
+| Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795                                  |
+|                                           |
+|                                           |
