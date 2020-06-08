@@ -10,13 +10,7 @@
     <th align="left">Title</th>
     <th align="left">url</th>
     <tr>
-        <td>ts</td>
-        <td>TSBasic</td>
-        <td>ts 官方文檔</td>
-        <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
-    </tr>
-    <tr>
-        <td rowspan="13">js</td>
+        <td rowspan="15">js</td>
         <td rowspan="2">JSObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -73,6 +67,21 @@
     <tr>
         <td>事件 (Event) 的註冊、觸發與傳遞</td>
         <td><a href="https://medium.com/@realdennis/javascript-%E4%BA%8B%E4%BB%B6-event-da8104c5c98c">https://medium.com/@realdennis/javascript-%E4%BA%8B%E4%BB%B6-event-da8104c5c98c</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JSVoid</td>
+        <td>JS 冷知識: 你所不知道的 void</td>
+        <td><a href="https://kuro.tw/posts/2019/08/04/JS-%E5%86%B7%E7%9F%A5%E8%AD%98-%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-void/">https://kuro.tw/posts/2019/08/04/JS-%E5%86%B7%E7%9F%A5%E8%AD%98-%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-void/</a></td>
+    </tr>
+    <tr>
+        <td>void 运算符</td>
+        <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/void">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/void</a></td>
+    </tr>
+    <tr>
+        <td>ts</td>
+        <td>TSBasic</td>
+        <td>ts 官方文檔</td>
+        <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
         <td rowspan="11">es6</td>
@@ -230,7 +239,7 @@
 | ----- | ---- |
 
 
-### css lenght
+### css length
 
 | title                                | link                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
