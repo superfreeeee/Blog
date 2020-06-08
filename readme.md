@@ -75,7 +75,7 @@
         <td><a href="https://medium.com/@realdennis/javascript-%E4%BA%8B%E4%BB%B6-event-da8104c5c98c">https://medium.com/@realdennis/javascript-%E4%BA%8B%E4%BB%B6-event-da8104c5c98c</a></td>
     </tr>
     <tr>
-        <td rowspan="10">es6</td>
+        <td rowspan="11">es6</td>
         <td rowspan="2">ES6ArrowFunction</td>
         <td>Arrow Function</td>
         <td><a href="https://pjchender.blogspot.com/2017/01/es6-arrow-function.html">https://pjchender.blogspot.com/2017/01/es6-arrow-function.html</a></td>
@@ -119,6 +119,11 @@
         <td>ES6Generator</td>
         <td>Generator 函数</td>
         <td><a href="http://caibaojian.com/es6/generator.html">http://caibaojian.com/es6/generator.html</a></td>
+    </tr>
+    <tr>
+        <td>ES6Module</td>
+        <td>ES6 module</td>
+        <td><a href="http://caibaojian.com/es6/module.html">http://caibaojian.com/es6/module.html</a></td>
     </tr>
     <tr>
         <td rowspan="6">css</td>
@@ -217,18 +222,7 @@
     </tr>
 </table>
 
-## unsolved links
-
-| title                          | link                                                                            |
-| ------------------------------ | ------------------------------------------------------------------------------- |
-| Pointfree 编程风格指南         | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
-| Pointfree Javascript           | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
-| Favoring Curry                 | https://fr.umio.us/favoring-curry/                                              |
-| Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
-| Thunk                          | https://en.wikipedia.org/wiki/Thunk                                             |
-| 浏览器渲染引擎「内核」         | https://github.com/zwwill/blog/issues/2                                         |
-
-## blog in plan
+## On agenda
 
 ### template
 
@@ -278,3 +272,14 @@
 | title          | link                                                            |
 | -------------- | --------------------------------------------------------------- |
 | CSS Animations | https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Animations |
+
+## unsolved links
+
+| title                          | link                                                                            |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| Pointfree 编程风格指南         | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
+| Pointfree Javascript           | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
+| Favoring Curry                 | https://fr.umio.us/favoring-curry/                                              |
+| Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
+| Thunk                          | https://en.wikipedia.org/wiki/Thunk                                             |
+| 浏览器渲染引擎「内核」         | https://github.com/zwwill/blog/issues/2                                         |
