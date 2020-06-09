@@ -135,7 +135,7 @@
         <td><a href="http://caibaojian.com/es6/module.html">http://caibaojian.com/es6/module.html</a></td>
     </tr>
     <tr>
-        <td rowspan="8">css</td>
+        <td rowspan="10">css</td>
         <td rowspan="2">CSSFlex</td>
         <td>圖解：CSS Flex 屬性一點也不難</td>
         <td><a href="https://wcc723.github.io/css/2017/07/21/css-flex/">https://wcc723.github.io/css/2017/07/21/css-flex/</a></td>
@@ -170,6 +170,15 @@
     <tr>
         <td>优先级</td>
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity">https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">CSSMediaQuery</td>
+        <td>CSS Media Queries 詳細介紹</td>
+        <td><a href="https://www.oxxostudio.tw/articles/201810/css-media-queries.html">https://www.oxxostudio.tw/articles/201810/css-media-queries.html</a></td>
+    </tr>
+    <tr>
+        <td>CSS @media Rule-w3school</td>
+        <td><a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.asp">https://www.w3schools.com/cssref/css3_pr_mediaquery.asp</a></td>
     </tr>
     <tr>
         <td rowspan="6">fe_others</td>
@@ -254,12 +263,6 @@
 | ------------------------------------ | ------------------------------------------------------------ |
 | 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388 |
 | 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                  |
-
-### css media query
-
-| title                      | link                                                             |
-| -------------------------- | ---------------------------------------------------------------- |
-| CSS Media Queries 詳細介紹 | https://www.oxxostudio.tw/articles/201810/css-media-queries.html |
 
 ### git conflict
 

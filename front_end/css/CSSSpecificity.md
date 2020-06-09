@@ -74,7 +74,7 @@ CSS 引入的方法可以分成三種：
 
 ```html
 <!-- index.html -->
-<link ref="stylesheet" href="index.css"></link>
+<link rel="stylesheet" href="index.css"></link>
 ```
 
 ```css
