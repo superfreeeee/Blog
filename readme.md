@@ -135,7 +135,7 @@
         <td><a href="http://caibaojian.com/es6/module.html">http://caibaojian.com/es6/module.html</a></td>
     </tr>
     <tr>
-        <td rowspan="6">css</td>
+        <td rowspan="8">css</td>
         <td rowspan="2">CSSFlex</td>
         <td>圖解：CSS Flex 屬性一點也不難</td>
         <td><a href="https://wcc723.github.io/css/2017/07/21/css-flex/">https://wcc723.github.io/css/2017/07/21/css-flex/</a></td>
@@ -161,6 +161,15 @@
         <td>CSSSelector</td>
         <td>CSS Selectors MDN</td>
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Selectors">https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Selectors</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">CSSSpecificity</td>
+        <td>Day20：小事之 CSS 權重 (css specificity)</td>
+        <td><a href="https://ithelp.ithome.com.tw/articles/10196454">https://ithelp.ithome.com.tw/articles/10196454</a></td>
+    </tr>
+    <tr>
+        <td>优先级</td>
+        <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity">https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity</a></td>
     </tr>
     <tr>
         <td rowspan="6">fe_others</td>
