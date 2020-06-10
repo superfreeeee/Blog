@@ -210,7 +210,7 @@
         <td><a href="https://clipboardjs.com/">https://clipboardjs.com/</a></td>
     </tr>
     <tr>
-        <td rowspan="2">fe_tools</td>
+        <td rowspan="2">babel</td>
         <td rowspan="2">BabelBasic</td>
         <td>babel 官方</td>
         <td><a href="https://www.babeljs.cn/">https://www.babeljs.cn/</a></td>
@@ -218,6 +218,16 @@
     <tr>
         <td>Babel 設定</td>
         <td><a href="https://ithelp.ithome.com.tw/articles/10200299">https://ithelp.ithome.com.tw/articles/10200299</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">webpack</td>
+        <td rowspan="2">WebpackBasic</td>
+        <td>webpack官方</td>
+        <td><a href="https://webpack.docschina.org/">https://webpack.docschina.org/</a></td>
+    </tr>
+    <tr>
+        <td>Getting-Started</td>
+        <td><a href="https://webpack.docschina.org/guides/getting-started/">https://webpack.docschina.org/guides/getting-started/</a></td>
     </tr>
     <tr>
         <td>vue</td>
@@ -273,13 +283,11 @@
 | Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792 |
 | Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795 |
 
-### webpack
+### parcel
 
 | title                             | link                                             |
 | --------------------------------- | ------------------------------------------------ |
 | 前端构建工具之争——Webpack vs Gulp | https://juejin.im/entry/5a4470f85188252b145b5742 |
-| 在開始寫 Code 之前？              | https://medium.com/i-am-mike/662b3a2debe8        |
-| webpack 官方                      | https://webpack.docschina.org/                   |
 | parcel 官方                       | https://parceljs.org/                            |
 
 ### css transition
@@ -304,3 +312,4 @@
 | Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
 | Thunk                          | https://en.wikipedia.org/wiki/Thunk                                             |
 | 浏览器渲染引擎「内核」         | https://github.com/zwwill/blog/issues/2                                         |
+| 在開始寫 Code 之前？           | https://medium.com/i-am-mike/662b3a2debe8                                       |
