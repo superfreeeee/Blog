@@ -268,13 +268,21 @@
     </tr>
 </table>
 
-## On agenda
+## Agenda
 
 ### template
 
 | title | link |
 | ----- | ---- |
 
+
+### NumPy
+
+### TS: Configuration 配置
+
+### SpringBoot Controller 服務層
+
+### SpringBoot Mybatis 詳解
 
 ### css length
 
@@ -291,6 +299,10 @@
 | Git-合併分支                              | https://ithelp.ithome.com.tw/articles/10211791 |
 | Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792 |
 | Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795 |
+
+### webpack babel
+
+### webpack html-webpack-plugin
 
 ### parcel
 
