@@ -10,7 +10,7 @@
     <th align="left">Title</th>
     <th align="left">url</th>
     <tr>
-        <td rowspan="15">js</td>
+        <td rowspan="17">js</td>
         <td rowspan="2">JSObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -76,6 +76,15 @@
     <tr>
         <td>void 运算符</td>
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/void">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/void</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JSPrototypeChain</td>
+        <td>JavaScript深入之从原型到原型链</td>
+        <td><a href="https://github.com/mqyqingfeng/blog/issues/2">https://github.com/mqyqingfeng/blog/issues/2</a></td>
+    </tr>
+    <tr>
+        <td>繼承與原型鏈</td>
+        <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Inheritance_and_the_prototype_chain</a></td>
     </tr>
     <tr>
         <td>ts</td>
