@@ -229,7 +229,7 @@
         <td><a href="https://ithelp.ithome.com.tw/articles/10200299">https://ithelp.ithome.com.tw/articles/10200299</a></td>
     </tr>
     <tr>
-        <td rowspan="2">webpack</td>
+        <td rowspan="4">webpack</td>
         <td rowspan="2">WebpackBasic</td>
         <td>webpack官方</td>
         <td><a href="https://webpack.docschina.org/">https://webpack.docschina.org/</a></td>
@@ -237,6 +237,15 @@
     <tr>
         <td>Getting-Started</td>
         <td><a href="https://webpack.docschina.org/guides/getting-started/">https://webpack.docschina.org/guides/getting-started/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">WebpackCleanWebpackPlugin</td>
+        <td>clean-webpack-plugin--github</td>
+        <td><a href="https://github.com/johnagan/clean-webpack-plugin">https://github.com/johnagan/clean-webpack-plugin</a></td>
+    </tr>
+    <tr>
+        <td>webpack4.0 clean-webpack-plugin 插件跳坑指南</td>
+        <td><a href="https://juejin.im/post/5d107a56e51d45773d46863c">https://juejin.im/post/5d107a56e51d45773d46863c</a></td>
     </tr>
     <tr>
         <td rowspan="2">vue</td>
@@ -298,6 +307,12 @@
 
 ### SpringBoot Mybatis 詳解
 
+### js 閉包
+
+| title                                   | link                                           |
+| --------------------------------------- | ---------------------------------------------- |
+| 你懂 JavaScript 嗎？#15 閉包（Closure） | https://cythilya.github.io/2018/10/22/closure/ |
+
 ### css length
 
 | title                                | link                                                         |
@@ -314,7 +329,7 @@
 | Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792 |
 | Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795 |
 
-### webpack babel
+### webpack babel-loader
 
 ### webpack html-webpack-plugin
 
