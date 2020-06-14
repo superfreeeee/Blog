@@ -239,10 +239,15 @@
         <td><a href="https://webpack.docschina.org/guides/getting-started/">https://webpack.docschina.org/guides/getting-started/</a></td>
     </tr>
     <tr>
-        <td>vue</td>
+        <td rowspan="2">vue</td>
         <td>VueCreate</td>
         <td>Vue 官網介紹</td>
         <td><a href="https://cn.vuejs.org/v2/guide/">https://cn.vuejs.org/v2/guide/</a></td>
+    </tr>
+    <tr>
+        <td>VueVuex</td>
+        <td>Vuex-官方</td>
+        <td><a href="https://vuex.vuejs.org/zh/">https://vuex.vuejs.org/zh/</a></td>
     </tr>
     <tr>
         <td rowspan="2">react</td>
