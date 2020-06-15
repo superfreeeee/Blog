@@ -10,7 +10,7 @@
     <th align="left">Title</th>
     <th align="left">url</th>
     <tr>
-        <td rowspan="19">js</td>
+        <td rowspan="21">js</td>
         <td rowspan="2">JSObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -94,6 +94,15 @@
     <tr>
         <td>ES6 let和const命令</td>
         <td><a href="http://caibaojian.com/es6/let.html">http://caibaojian.com/es6/let.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JSClosure</td>
+        <td>你懂 JavaScript 嗎？#15 閉包（Closure）</td>
+        <td><a href="https://cythilya.github.io/2018/10/22/closure/">https://cythilya.github.io/2018/10/22/closure/</a></td>
+    </tr>
+    <tr>
+        <td>[筆記] 談談JavaScript中的IIFEs(Immediately Invoked Functions Expressions)</td>
+        <td><a href="https://pjchender.blogspot.com/2016/05/javascriptiifesimmediately-invoked.html">https://pjchender.blogspot.com/2016/05/javascriptiifesimmediately-invoked.html</a></td>
     </tr>
     <tr>
         <td>ts</td>
