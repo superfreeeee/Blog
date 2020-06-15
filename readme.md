@@ -10,7 +10,7 @@
     <th align="left">Title</th>
     <th align="left">url</th>
     <tr>
-        <td rowspan="17">js</td>
+        <td rowspan="19">js</td>
         <td rowspan="2">JSObjectDefineProperty</td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -85,6 +85,15 @@
     <tr>
         <td>繼承與原型鏈</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Inheritance_and_the_prototype_chain</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JSHoisting&TDZ</td>
+        <td>JavaScript到底是解释型语言还是编译型语言?</td>
+        <td><a href="https://segmentfault.com/a/1190000013126460">https://segmentfault.com/a/1190000013126460</a></td>
+    </tr>
+    <tr>
+        <td>ES6 let和const命令</td>
+        <td><a href="http://caibaojian.com/es6/let.html">http://caibaojian.com/es6/let.html</a></td>
     </tr>
     <tr>
         <td>ts</td>
