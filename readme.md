@@ -208,7 +208,7 @@
         <td><a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.asp">https://www.w3schools.com/cssref/css3_pr_mediaquery.asp</a></td>
     </tr>
     <tr>
-        <td rowspan="3">html</td>
+        <td rowspan="4">html</td>
         <td rowspan="2">HTMLForm</td>
         <td>form tag-MDN</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/form">https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/form</a></td>
@@ -218,7 +218,13 @@
         <td><a href="https://www.w3school.com.cn/tags/tag_form.asp">https://www.w3school.com.cn/tags/tag_form.asp</a></td>
     </tr>
     <tr>
-        <td>HTMLInput</td>
+        <td rowspan="2">HTMLInput</td>
+        <td>HTML input Tag-w3schools</td>
+        <td><a href="https://www.w3schools.com/tags/tag_input.asp">https://www.w3schools.com/tags/tag_input.asp</a></td>
+    </tr>
+    <tr>
+        <td>input-MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input">https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input</a></td>
     </tr>
     <tr>
         <td rowspan="6">fe_others</td>
@@ -347,17 +353,25 @@
 
 ### SpringBoot Mybatis 詳解
 
+### ES6 Proxy
+
+| title                                       | link                                                    |
+| ------------------------------------------- | ------------------------------------------------------- |
+| Proxy 和 Reflect                            | http://caibaojian.com/es6/proxy.html                    |
+| 一起來了解 Javascript 中的 Proxy 與 Reflect | https://blog.techbridge.cc/2018/05/27/js-proxy-reflect/ |
+
+### ES6 Reflect
+
+| title                              | link                                        |
+| ---------------------------------- | ------------------------------------------- |
+| Proxy 和 Reflect                   | http://caibaojian.com/es6/proxy.html        |
+| ES6 系列之 defineProperty 与 proxy | https://segmentfault.com/a/1190000016959805 |
+
 ### fe_others: gitgraph.js
 
 | title    | link                       |
 | -------- | -------------------------- |
 | gitgraph | https://gitgraphjs.com/#19 |
-
-### js 閉包
-
-| title                                   | link                                           |
-| --------------------------------------- | ---------------------------------------------- |
-| 你懂 JavaScript 嗎？#15 閉包（Closure） | https://cythilya.github.io/2018/10/22/closure/ |
 
 ### css length
 
