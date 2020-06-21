@@ -227,7 +227,7 @@
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input">https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input</a></td>
     </tr>
     <tr>
-        <td rowspan="6">fe_others</td>
+        <td rowspan="8">fe_others</td>
         <td rowspan="2">axios</td>
         <td>Jquery ajax, Axios, Fetch區別之我見</td>
         <td><a href="https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/">https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/147000/</a></td>
@@ -254,6 +254,15 @@
         <td>Clipboard</td>
         <td>clipboard.js</td>
         <td><a href="https://clipboardjs.com/">https://clipboardjs.com/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">Gitgraph</td>
+        <td>gitgraph</td>
+        <td><a href="https://gitgraphjs.com/">https://gitgraphjs.com/</a></td>
+    </tr>
+    <tr>
+        <td>gitgraph-API</td>
+        <td><a href="https://gitgraphjs.com/stories/">https://gitgraphjs.com/stories/</a></td>
     </tr>
     <tr>
         <td rowspan="2">babel</td>
@@ -359,6 +368,8 @@
 
 ### TS: Configuration 配置
 
+### JS: Configuration 配置
+
 ### SpringBoot Mybatis 詳解
 
 ### Java DateTime
@@ -382,13 +393,13 @@
 | Proxy 和 Reflect                   | http://caibaojian.com/es6/proxy.html        |
 | ES6 系列之 defineProperty 与 proxy | https://segmentfault.com/a/1190000016959805 |
 
-### fe_others: gitgraph.js
-
-| title    | link                       |
-| -------- | -------------------------- |
-| gitgraph | https://gitgraphjs.com/#19 |
+### fe_others: storybook
 
 ### css length
+
+| title     | link                      |
+| --------- | ------------------------- |
+| storybook | https://storybook.js.org/ |
 
 | title                                | link                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
