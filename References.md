@@ -16,9 +16,10 @@
 
 - Java
 
-| Name   | Link               | Second Link |
-| ------ | ------------------ | ----------- |
-| Spring | https://spring.io/ |
+| Name     | Link                      | Second Link |
+| -------- | ------------------------- | ----------- |
+| Spring   | https://spring.io/        |
+| Baeldung | https://www.baeldung.com/ |
 
 ## UI 組件庫
 

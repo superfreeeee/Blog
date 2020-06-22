@@ -316,12 +316,12 @@
     </tr>
     <tr>
         <td rowspan="5">spring</td>
-        <td>SpringBootCreate</td>
+        <td>SpringBootWebCreate</td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
     </tr>
     <tr>
-        <td rowspan="2">SpringBootSpringMVC</td>
+        <td rowspan="2">SpringBootWeb</td>
         <td>spring-projects/spring-boot-github</td>
         <td><a href="https://github.com/spring-projects/spring-boot/blob/v2.2.7.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-web/pom.xml">https://github.com/spring-projects/spring-boot/blob/v2.2.7.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-web/pom.xml</a></td>
     </tr>
@@ -330,7 +330,7 @@
         <td><a href="https://blog.csdn.net/zhou920786312/article/details/84324915">https://blog.csdn.net/zhou920786312/article/details/84324915</a></td>
     </tr>
     <tr>
-        <td rowspan="2">SpringBootController</td>
+        <td rowspan="2">SpringBootWebController</td>
         <td>Spring Web Annotations</td>
         <td><a href="https://www.baeldung.com/spring-mvc-annotations">https://www.baeldung.com/spring-mvc-annotations</a></td>
     </tr>
@@ -371,6 +371,25 @@
 ### JS: Configuration 配置
 
 ### SpringBoot Mybatis 詳解
+
+### SpringBoot Configuration、Bean 詳解
+
+| title                                             | link                                               |
+| ------------------------------------------------- | -------------------------------------------------- |
+| SpringBoot - @Configuration、@Bean 注解的使用详解 | https://www.hangge.com/blog/cache/detail_2506.html |
+
+### SpringBoot Interceptor 攔截器
+
+| title                           | link                                               |
+| ------------------------------- | -------------------------------------------------- |
+| SpringBoot - 拦截器的注册和使用 | https://www.hangge.com/blog/cache/detail_2507.html |
+
+### SpringBoot Exception Handler 異常處理
+
+| title                               | link                                                             |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| Error Handling for REST with Spring | https://www.baeldung.com/exception-handling-for-rest-with-spring |
+| SpringBoot 全局异常准备             | https://www.cnblogs.com/xuwujing/p/10933082.html                 |
 
 ### Java DateTime
 
