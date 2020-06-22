@@ -315,6 +315,16 @@
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
+        <td rowspan="2">java</td>
+        <td rowspan="2">JavaEnum</td>
+        <td>Java 列舉(Enum)範例</td>
+        <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
+    </tr>
+    <tr>
+        <td>Java 枚举源码分析</td>
+        <td><a href="https://blog.jrwang.me/2016/java-enum/">https://blog.jrwang.me/2016/java-enum/</a></td>
+    </tr>
+    <tr>
         <td rowspan="5">spring</td>
         <td>SpringBootWebCreate</td>
         <td>Getting Started</td>
@@ -368,7 +378,7 @@
 
 ### TS: Configuration 配置
 
-### JS: Configuration 配置
+### ESLint: Configuration 配置
 
 ### SpringBoot Mybatis 詳解
 
