@@ -315,7 +315,7 @@
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="2">java</td>
+        <td rowspan="4">java</td>
         <td rowspan="2">JavaEnum</td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -323,6 +323,15 @@
     <tr>
         <td>Java 枚举源码分析</td>
         <td><a href="https://blog.jrwang.me/2016/java-enum/">https://blog.jrwang.me/2016/java-enum/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JavaLambda</td>
+        <td>JAVA 8 函数式接口 - Functional Interface</td>
+        <td><a href="https://www.cnblogs.com/chenpi/p/5890144.html">https://www.cnblogs.com/chenpi/p/5890144.html</a></td>
+    </tr>
+    <tr>
+        <td>Java8 API</td>
+        <td><a href="https://docs.oracle.com/javase/8/docs/api/">https://docs.oracle.com/javase/8/docs/api/</a></td>
     </tr>
     <tr>
         <td rowspan="5">spring</td>
@@ -407,6 +416,8 @@
 | --------------------------------- | ----------------------------------------------- |
 | Java 8 的日期與時間(Date-Time)API | https://magiclen.org/java-8-date-time-api/      |
 | Java 日期时间-菜鸟教程            | https://www.runoob.com/java/java-date-time.html |
+
+### Java: java.util.function
 
 ### ES6 Proxy
 
