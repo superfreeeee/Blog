@@ -373,6 +373,16 @@
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
+        <td rowspan="2">cpp</td>
+        <td rowspan="2">CppConstructor</td>
+        <td>c++:(各种)构造函数的调用方式</td>
+        <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
+    </tr>
+    <tr>
+        <td>C++ 类 & 对象-菜鸟教程</td>
+        <td><a href="https://www.runoob.com/cplusplus/cpp-classes-objects.html">https://www.runoob.com/cplusplus/cpp-classes-objects.html</a></td>
+    </tr>
+    <tr>
         <td>design_pattern</td>
         <td>StrategyPattern</td>
         <td>Strategy Design Pattern in Java – Example Tutorial</td>
