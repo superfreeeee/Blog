@@ -358,7 +358,7 @@
         <td><a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller">https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller</a></td>
     </tr>
     <tr>
-        <td rowspan="2">numpy</td>
+        <td rowspan="3">numpy</td>
         <td rowspan="2">NumPyCreate</td>
         <td>NumPy 创建数组-菜鸟教程</td>
         <td><a href="https://www.runoob.com/numpy/numpy-array-creation.html">https://www.runoob.com/numpy/numpy-array-creation.html</a></td>
@@ -366,6 +366,11 @@
     <tr>
         <td>Array objects-NumPy 官方文档</td>
         <td><a href="https://numpy.org/doc/stable/reference/arrays.html">https://numpy.org/doc/stable/reference/arrays.html</a></td>
+    </tr>
+    <tr>
+        <td>NumPyIndexSlice</td>
+        <td>NumPy 切片和索引</td>
+        <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
         <td>design_pattern</td>
@@ -383,11 +388,15 @@
 | ----- | ---- |
 
 
-### NumPy: index
+### NumPy: function
 
 ### TS: Configuration 配置
 
 ### ESLint: Configuration 配置
+
+### HTML: canvas
+
+### HTML: svg
 
 ### SpringBoot Mybatis 詳解
 
