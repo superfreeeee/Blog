@@ -2,6 +2,8 @@
 
 每日一博客，記錄學習路徑和技術細節
 
+CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的博客-CSDN</a>
+
 ## Reference 參考
 
 <table>
@@ -378,7 +380,7 @@
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="2">cpp</td>
+        <td rowspan="4">cpp</td>
         <td rowspan="2">CppConstructor</td>
         <td>c++:(各种)构造函数的调用方式</td>
         <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
@@ -386,6 +388,15 @@
     <tr>
         <td>C++ 类 & 对象-菜鸟教程</td>
         <td><a href="https://www.runoob.com/cplusplus/cpp-classes-objects.html">https://www.runoob.com/cplusplus/cpp-classes-objects.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">CppVector</td>
+        <td>標準C++中的STL容器類簡介</td>
+        <td><a href="https://www.itread01.com/content/1541343903.html">https://www.itread01.com/content/1541343903.html</a></td>
+    </tr>
+    <tr>
+        <td>C/C++ - Vector (STL) 用法與心得完全攻略</td>
+        <td><a href="https://mropengate.blogspot.com/2015/07/cc-vector-stl.html">https://mropengate.blogspot.com/2015/07/cc-vector-stl.html</a></td>
     </tr>
     <tr>
         <td>design_pattern</td>
@@ -414,13 +425,6 @@
 ### HTML: SVG
 
 ### Cpp: string
-
-### Cpp: vector
-
-| title                                   | link                                                       |
-| --------------------------------------- | ---------------------------------------------------------- |
-| C/C++ - Vector (STL) 用法與心得完全攻略 | https://mropengate.blogspot.com/2015/07/cc-vector-stl.html |
-| STL                                     | https://www.itread01.com/content/1541343903.html           |
 
 ### Cpp: Map
 
@@ -466,19 +470,11 @@
 
 ### Java: java.util.function
 
-### ES6 Proxy
-
-| title                                       | link                                                    |
-| ------------------------------------------- | ------------------------------------------------------- |
-| Proxy 和 Reflect                            | http://caibaojian.com/es6/proxy.html                    |
-| 一起來了解 Javascript 中的 Proxy 與 Reflect | https://blog.techbridge.cc/2018/05/27/js-proxy-reflect/ |
-
 ### ES6 Reflect
 
-| title                              | link                                        |
-| ---------------------------------- | ------------------------------------------- |
-| Proxy 和 Reflect                   | http://caibaojian.com/es6/proxy.html        |
-| ES6 系列之 defineProperty 与 proxy | https://segmentfault.com/a/1190000016959805 |
+| title            | link                                 |
+| ---------------- | ------------------------------------ |
+| Proxy 和 Reflect | http://caibaojian.com/es6/proxy.html |
 
 ### fe_others: storybook
 
