@@ -380,7 +380,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="4">cpp</td>
+        <td rowspan="6">cpp</td>
         <td rowspan="2">CppConstructor</td>
         <td>c++:(各种)构造函数的调用方式</td>
         <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
@@ -397,6 +397,15 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>C/C++ - Vector (STL) 用法與心得完全攻略</td>
         <td><a href="https://mropengate.blogspot.com/2015/07/cc-vector-stl.html">https://mropengate.blogspot.com/2015/07/cc-vector-stl.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">CppMap</td>
+        <td>C/C++ - Map (STL) 用法與心得完全攻略</td>
+        <td><a href="https://mropengate.blogspot.com/2015/12/cc-map-stl.html">https://mropengate.blogspot.com/2015/12/cc-map-stl.html</a></td>
+    </tr>
+    <tr>
+        <td>C++中的STL中map用法详解</td>
+        <td><a href="https://www.cnblogs.com/fnlingnzb-learner/p/5833051.html">https://www.cnblogs.com/fnlingnzb-learner/p/5833051.html</a></td>
     </tr>
     <tr>
         <td>design_pattern</td>
@@ -425,8 +434,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 ### HTML: SVG
 
 ### Cpp: string
-
-### Cpp: Map
 
 ### Cpp: queue
 
