@@ -2,7 +2,6 @@
 
 每日一博客，記錄學習路徑和技術細節
 
-
 ## Articles 文章列表（發佈於 CSDN）& Reference 參考鏈接總匯
 
 CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的博客-CSDN</a>
@@ -430,6 +429,14 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
 </table>
+
+---
+
+---
+
+---
+
+# 以下為預備內容
 
 ## Agenda
 
