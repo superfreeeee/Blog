@@ -8,6 +8,7 @@
   - [簡介](#簡介)
   - [參考](#參考)
 - [正文](#正文)
+  - [Import 導入庫](#import-導入庫)
   - [Overview 總覽](#overview-總覽)
     - [Printer 輔助函數](#printer-輔助函數)
   - [Declaration 變量聲明](#declaration-變量聲明)
@@ -48,6 +49,12 @@ C++ 中著名的`STL容器類(Standard Template Library 標準模板庫)`，是�
 </table>
 
 # 正文
+
+## Import 導入庫
+
+```cpp
+#include<vector>
+```
 
 ## Overview 總覽
 
