@@ -244,6 +244,24 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input">https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input</a></td>
     </tr>
     <tr>
+        <td rowspan="4">node</td>
+        <td rowspan="4">Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
+        <td>Node.js-wiki</td>
+        <td><a href="https://zh.wikipedia.org/wiki/Node.js">https://zh.wikipedia.org/wiki/Node.js</a></td>
+    </tr>
+    <tr>
+        <td>Node.js 全局對象</td>
+        <td><a href="http://www.w3big.com/zh-TW/nodejs/nodejs-global-object.html">http://www.w3big.com/zh-TW/nodejs/nodejs-global-object.html</a></td>
+    </tr>
+    <tr>
+        <td>nodejs内置模块有哪些？</td>
+        <td><a href="https://m.html.cn/qa/node-js/10830.html">https://m.html.cn/qa/node-js/10830.html</a></td>
+    </tr>
+    <tr>
+        <td>第一次建置node.js開發環境和安裝npm就上手！</td>
+        <td><a href="https://ithelp.ithome.com.tw/m/articles/10199058">https://ithelp.ithome.com.tw/m/articles/10199058</a></td>
+    </tr>
+    <tr>
         <td rowspan="8">fe_others</td>
         <td rowspan="2">Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
         <td>Jquery ajax, Axios, Fetch區別之我見</td>
