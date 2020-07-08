@@ -350,7 +350,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="4">java</td>
+        <td rowspan="8">java</td>
         <td rowspan="2">Java基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -367,6 +367,23 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Java8 API</td>
         <td><a href="https://docs.oracle.com/javase/8/docs/api/">https://docs.oracle.com/javase/8/docs/api/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Java進階：ExecutorService 線程池<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107183108">https://blog.csdn.net/weixin_44691608/article/details/107183108</a></td>
+        <td>一文秒懂 Java ExecutorService</td>
+        <td><a href="https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html">https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html</a></td>
+    </tr>
+    <tr>
+        <td>ExecutorService 的理解与使用</td>
+        <td><a href=https://blog.csdn.net/bairrfhoinn/article/details/16848785">https://blog.csdn.net/bairrfhoinn/article/details/16848785</a></td>
+    </tr>
+    <tr>
+        <td>Java多執行緒框架Executor詳解</td>
+        <td><a href="https://codertw.com/%E4%BC%BA%E6%9C%8D%E5%99%A8/161869/">https://codertw.com/%E4%BC%BA%E6%9C%8D%E5%99%A8/161869/</a></td>
+    </tr>
+    <tr>
+        <td>Java多執行緒原理及Thread類的使用</td>
+        <td><a href="https://www.itread01.com/content/1541919679.html">https://www.itread01.com/content/1541919679.html</a></td>
     </tr>
     <tr>
         <td rowspan="5">springboot</td>
@@ -515,6 +532,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 | Java 日期时间-菜鸟教程            | https://www.runoob.com/java/java-date-time.html |
 
 ### Java: java.util.function
+
+### Java: Thread
+
+### Java: Future
+
+### Java: 鎖
 
 ### ES6 Reflect
 
