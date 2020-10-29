@@ -410,6 +410,16 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller">https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller</a></td>
     </tr>
     <tr>
+        <td rowspan="2">python</td>
+        <td rowspan="2">Python: 模块化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109360032">https://blog.csdn.net/weixin_44691608/article/details/109360032</a></td>
+        <td>Python 模块-菜鸟教程</td>
+        <td><a href="https://www.runoob.com/python/python-modules.html">https://www.runoob.com/python/python-modules.html</a></td>
+    </tr>
+    <tr>
+        <td>__init__.py 提前暴露要调用的方法、模块</td>
+        <td><a href="https://blog.csdn.net/yjinyyzyq/article/details/85317112">https://blog.csdn.net/yjinyyzyq/article/details/85317112</a></td>
+    </tr>
+    <tr>
         <td rowspan="3">numpy</td>
         <td rowspan="2">NumPy：起步 + 創建數組<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106873111">https://blog.csdn.net/weixin_44691608/article/details/106873111</a></td>
         <td>NumPy 创建数组-菜鸟教程</td>
@@ -480,6 +490,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>設計模式：StrategyPattern策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
         <td>Strategy Design Pattern in Java – Example Tutorial</td>
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
+    </tr>
+    <tr>
+        <td>
+            <br/>
+            <a href=""></a>
+        </td>
     </tr>
 </table>
 
