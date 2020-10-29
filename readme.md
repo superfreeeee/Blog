@@ -497,7 +497,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="2">algorithm</td>
+        <td rowspan="3">algorithm</td>
         <td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td>
         <td>动图来源</td>
         <td><a href="https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933">https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933</a></td>
@@ -506,6 +506,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>Sorting 排序算法: Merge Sort 归并排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109366500">https://blog.csdn.net/weixin_44691608/article/details/109366500</a></td>
         <td>动图来源</td>
         <td><a href="https://blog.csdn.net/qq_20011607/article/details/82351225">https://blog.csdn.net/qq_20011607/article/details/82351225</a></td>
+    </tr>
+    <tr>
+        <td>Sorting 排序算法: Quick Sort 快速排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109375473">https://blog.csdn.net/weixin_44691608/article/details/109375473</a></td>
+        <td><a href=""></a></td>
     </tr>
     <tr>
         <td>
@@ -597,16 +601,9 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ### fe_others: storybook
 
-### css length
-
 | title     | link                      |
 | --------- | ------------------------- |
 | storybook | https://storybook.js.org/ |
-
-| title                                | link                                                         |
-| ------------------------------------ | ------------------------------------------------------------ |
-| 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388 |
-| 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                  |
 
 ### git conflict
 
@@ -631,6 +628,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 | --------------------------------- | ------------------------------------------------ |
 | 前端构建工具之争——Webpack vs Gulp | https://juejin.im/entry/5a4470f85188252b145b5742 |
 | parcel 官方                       | https://parceljs.org/                            |
+
+### css length
+
+| title                                | link                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388 |
+| 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                  |
 
 ### css transition
 
