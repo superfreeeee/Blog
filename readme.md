@@ -244,7 +244,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input">https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input</a></td>
     </tr>
     <tr>
-        <td rowspan="4">node</td>
+        <td rowspan="5">node</td>
         <td rowspan="4">Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
         <td>Node.js-wiki</td>
         <td><a href="https://zh.wikipedia.org/wiki/Node.js">https://zh.wikipedia.org/wiki/Node.js</a></td>
@@ -260,6 +260,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>第一次建置node.js開發環境和安裝npm就上手！</td>
         <td><a href="https://ithelp.ithome.com.tw/m/articles/10199058">https://ithelp.ithome.com.tw/m/articles/10199058</a></td>
+    </tr>
+    <tr>
+        <td>Express 项目启动<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109371958">https://blog.csdn.net/weixin_44691608/article/details/109371958</a></td>
+        <td>Express 官方</td>
+        <td><a href="https://www.expressjs.com.cn/">https://www.expressjs.com.cn/</a></td>
     </tr>
     <tr>
         <td rowspan="8">fe_others</td>
@@ -490,6 +495,17 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>設計模式：StrategyPattern策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
         <td>Strategy Design Pattern in Java – Example Tutorial</td>
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">algorithm</td>
+        <td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td>
+        <td>动图来源</td>
+        <td><a href="https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933">https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933</a></td>
+    </tr>
+    <tr>
+        <td>Sorting 排序算法: Merge Sort 归并排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109366500">https://blog.csdn.net/weixin_44691608/article/details/109366500</a></td>
+        <td>动图来源</td>
+        <td><a href="https://blog.csdn.net/qq_20011607/article/details/82351225">https://blog.csdn.net/qq_20011607/article/details/82351225</a></td>
     </tr>
     <tr>
         <td>
