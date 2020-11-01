@@ -497,7 +497,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="4">algorithm</td>
+        <td rowspan="5">algorithm</td>
         <td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td>
         <td>动图来源</td>
         <td><a href="https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933">https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933</a></td>
@@ -509,18 +509,18 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr>
         <td>Sorting 排序算法: Quick Sort 快速排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109375473">https://blog.csdn.net/weixin_44691608/article/details/109375473</a></td>
-        <td><a href=""></a></td>
     </tr>
     <tr>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
-        <td></td>
-        <td><a href=""></a></td>
     </tr>
     <tr>
-        <td>
-            <br/>
-            <a href=""></a>
-        </td>
+        <td>ADT: Queue 队列<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109409188">https://blog.csdn.net/weixin_44691608/article/details/109409188</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
