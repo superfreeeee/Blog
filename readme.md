@@ -497,7 +497,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="6">algorithm</td>
+        <td rowspan="7">algorithm</td>
         <td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td>
         <td>动图来源</td>
         <td><a href="https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933">https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933</a></td>
@@ -518,6 +518,9 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr>
         <td>ADT: Queue 队列<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109409188">https://blog.csdn.net/weixin_44691608/article/details/109409188</a></td>
+    </tr>
+    <tr>
+        <td>ADT: LinkedList 链表<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109476943">https://blog.csdn.net/weixin_44691608/article/details/109476943</a></td>
     </tr>
     <tr>
         <td></td>
