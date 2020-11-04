@@ -440,8 +440,8 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="7">cpp</td>
-        <td rowspan="2">Cpp基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
+        <td rowspan="8">cpp</td>
+        <td rowspan="2">Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
         <td>c++:(各种)构造函数的调用方式</td>
         <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
     </tr>
@@ -450,7 +450,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/cplusplus/cpp-classes-objects.html">https://www.runoob.com/cplusplus/cpp-classes-objects.html</a></td>
     </tr>
     <tr>
-        <td rowspan="2">Cpp進階：Vector 向量<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107045275">https://blog.csdn.net/weixin_44691608/article/details/107045275</a></td>
+        <td>Cpp 基础：typedef 类型定义<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109487910">https://blog.csdn.net/weixin_44691608/article/details/109487910</a></td>
+        <td>C++typedef的详细用法</td>
+        <td><a href="https://www.cnblogs.com/phpandmysql/p/10816949.html">https://www.cnblogs.com/phpandmysql/p/10816949.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">Cpp 進階：Vector 向量<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107045275">https://blog.csdn.net/weixin_44691608/article/details/107045275</a></td>
         <td>標準C++中的STL容器類簡介</td>
         <td><a href="https://www.itread01.com/content/1541343903.html">https://www.itread01.com/content/1541343903.html</a></td>
     </tr>
@@ -459,7 +464,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://mropengate.blogspot.com/2015/07/cc-vector-stl.html">https://mropengate.blogspot.com/2015/07/cc-vector-stl.html</a></td>
     </tr>
     <tr>
-        <td rowspan="2">Cpp進階：Map 映射表<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107115098">https://blog.csdn.net/weixin_44691608/article/details/107115098</a></td>
+        <td rowspan="2">Cpp 進階：Map 映射表<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107115098">https://blog.csdn.net/weixin_44691608/article/details/107115098</a></td>
         <td>C/C++ - Map (STL) 用法與心得完全攻略</td>
         <td><a href="https://mropengate.blogspot.com/2015/12/cc-map-stl.html">https://mropengate.blogspot.com/2015/12/cc-map-stl.html</a></td>
     </tr>
@@ -468,7 +473,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.cnblogs.com/fnlingnzb-learner/p/5833051.html">https://www.cnblogs.com/fnlingnzb-learner/p/5833051.html</a></td>
     </tr>
     <tr>
-        <td>Cpp進階：String 字符串<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107127829">https://blog.csdn.net/weixin_44691608/article/details/107127829</a></td>
+        <td>Cpp 進階：String 字符串<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107127829">https://blog.csdn.net/weixin_44691608/article/details/107127829</a></td>
         <td>C/C++ - String 用法與心得完全攻略</td>
         <td><a href="https://mropengate.blogspot.com/2015/07/cc-string-stl.html">https://mropengate.blogspot.com/2015/07/cc-string-stl.html</a></td>
     </tr>

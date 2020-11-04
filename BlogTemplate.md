@@ -21,10 +21,6 @@
     <td></td>
     <td><a href=""></a></td>
   </tr>
-  <tr>
-    <td></td>
-    <td><a href=""></a></td>
-  </tr>
 </table>
 
 # 正文
