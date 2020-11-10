@@ -502,7 +502,32 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="9">algorithm</td>
+        <td rowspan="11">algorithm</td>
+        <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ADT: Queue 队列<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109409188">https://blog.csdn.net/weixin_44691608/article/details/109409188</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ADT: LinkedList 链表<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109476943">https://blog.csdn.net/weixin_44691608/article/details/109476943</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ADT: Binary-Search-Tree 二叉搜索树<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109479061">https://blog.csdn.net/weixin_44691608/article/details/109479061</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ADT: Graph 图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109517708">https://blog.csdn.net/weixin_44691608/article/details/109517708</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td>
         <td>动图来源</td>
         <td><a href="https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933">https://blog.csdn.net/mengmengdajuanjuan/article/details/83932933</a></td>
@@ -514,24 +539,23 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr>
         <td>Sorting 排序算法: Quick Sort 快速排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109375473">https://blog.csdn.net/weixin_44691608/article/details/109375473</a></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>Sorting 排序算法: Heap Sort 堆排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109455303">https://blog.csdn.net/weixin_44691608/article/details/109455303</a></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
+        <td><br/><a href=""></a></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td>ADT: Queue 队列<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109409188">https://blog.csdn.net/weixin_44691608/article/details/109409188</a></td>
-    </tr>
-    <tr>
-        <td>ADT: LinkedList 链表<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109476943">https://blog.csdn.net/weixin_44691608/article/details/109476943</a></td>
-    </tr>
-    <tr>
-        <td>ADT: Binary-Search-Tree 二叉搜索树<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109479061">https://blog.csdn.net/weixin_44691608/article/details/109479061</a></td>
-    </tr>
-    <tr>
-        <td>ADT: Graph 图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109517708">https://blog.csdn.net/weixin_44691608/article/details/109517708</a></td>
+        <td>Tree 树算法: BST-Traversal 二叉(搜索)树的遍历<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109607288">https://blog.csdn.net/weixin_44691608/article/details/109607288</a></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td></td>
