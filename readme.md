@@ -502,7 +502,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="11">algorithm</td>
+        <td rowspan="13">algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
         <td></td>
         <td></td>
@@ -548,9 +548,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td></td>
     </tr>
     <tr>
-        <td><br/><a href=""></a></td>
-        <td></td>
-        <td></td>
+        <td rowspan="2">Sorting 排序算法: Counting Sort 计数排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109613185">https://blog.csdn.net/weixin_44691608/article/details/109613185</a></td>
+        <td>基于比较排序的算法复杂度的下界</td>
+        <td><a href="https://www.cnblogs.com/hyserendipity/p/10786592.html">https://www.cnblogs.com/hyserendipity/p/10786592.html</a></td>
+    </tr>
+    <tr>
+        <td>决策树与排序算法的一般下界</td>
+        <td><a href="https://blog.csdn.net/kdb_viewer/article/details/83010155">https://blog.csdn.net/kdb_viewer/article/details/83010155</a></td>
     </tr>
     <tr>
         <td>Tree 树算法: BST-Traversal 二叉(搜索)树的遍历<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109607288">https://blog.csdn.net/weixin_44691608/article/details/109607288</a></td>
