@@ -440,7 +440,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="8">cpp</td>
+        <td rowspan="10">cpp</td>
         <td rowspan="2">Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
         <td>c++:(各种)构造函数的调用方式</td>
         <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
@@ -476,6 +476,15 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>Cpp 進階：String 字符串<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107127829">https://blog.csdn.net/weixin_44691608/article/details/107127829</a></td>
         <td>C/C++ - String 用法與心得完全攻略</td>
         <td><a href="https://mropengate.blogspot.com/2015/07/cc-string-stl.html">https://mropengate.blogspot.com/2015/07/cc-string-stl.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">Cpp 进阶：Smart Pointer 智能指针<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109728922">https://blog.csdn.net/weixin_44691608/article/details/109728922</a></td>
+        <td>指针运算符(*,->)重载</td>
+        <td><a href="https://www.kancloud.cn/cpp-jdxia/cpp/1408812">https://www.kancloud.cn/cpp-jdxia/cpp/1408812</a></td>
+    </tr>
+    <tr>
+        <td>c++中堆、栈内存分配</td>
+        <td><a href="https://www.cnblogs.com/yyxt/p/4268304.html">https://www.cnblogs.com/yyxt/p/4268304.html</a></td>
     </tr>
     <tr>
         <td rowspan="9">docker</td>
