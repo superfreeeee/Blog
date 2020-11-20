@@ -545,7 +545,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial">https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial</a></td>
     </tr>
     <tr>
-        <td rowspan="13">algorithm</td>
+        <td rowspan="12">algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
         <td></td>
         <td></td>
@@ -603,6 +603,24 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>Tree 树算法: BST-Traversal 二叉(搜索)树的遍历<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109607288">https://blog.csdn.net/weixin_44691608/article/details/109607288</a></td>
         <td></td>
         <td></td>
+    </tr>
+    <tr>
+        <td rowspan="4">other</td>
+        <td rowspan="4">Make 构建工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109843763">https://blog.csdn.net/weixin_44691608/article/details/109843763</a></td>
+        <td>Make 命令教程-阮一峰</td>
+        <td><a href="http://www.ruanyifeng.com/blog/2015/02/make.html">http://www.ruanyifeng.com/blog/2015/02/make.html</a></td>
+    </tr>
+    <tr>
+        <td>make makefile cmake qmake都是什么，有什么区别？</td>
+        <td><a href="https://www.zhihu.com/question/27455963">https://www.zhihu.com/question/27455963</a></td>
+    </tr>
+    <tr>
+        <td>makefile内置变量</td>
+        <td><a href="https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html">https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html</a></td>
+    </tr>
+    <tr>
+        <td>makefile自动变量</td>
+        <td><a href="https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html">https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html</a></td>
     </tr>
     <tr>
         <td></td>
