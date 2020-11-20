@@ -440,7 +440,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="10">cpp</td>
+        <td rowspan="13">cpp</td>
         <td rowspan="2">Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
         <td>c++:(各种)构造函数的调用方式</td>
         <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
@@ -485,6 +485,19 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>c++中堆、栈内存分配</td>
         <td><a href="https://www.cnblogs.com/yyxt/p/4268304.html">https://www.cnblogs.com/yyxt/p/4268304.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">C: Preprocessor 预处理器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109837477">https://blog.csdn.net/weixin_44691608/article/details/109837477</a></td>
+        <td>C 预处理器</td>
+        <td><a href="https://www.runoob.com/cprogramming/c-preprocessors.html">https://www.runoob.com/cprogramming/c-preprocessors.html</a></td>
+    </tr>
+    <tr>
+        <td>C语言真正的编译过程</td>
+        <td><a href="https://www.cnblogs.com/wuyouxiaocai/p/5701088.html">https://www.cnblogs.com/wuyouxiaocai/p/5701088.html</a></td>
+    </tr>
+    <tr>
+        <td>C代码变成可执行文件的过程</td>
+        <td><a href="https://blog.csdn.net/u012184539/article/details/81348529">https://blog.csdn.net/u012184539/article/details/81348529</a></td>
     </tr>
     <tr>
         <td rowspan="9">docker</td>
