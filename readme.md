@@ -605,6 +605,20 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td></td>
     </tr>
     <tr>
+        <td rowspan="3">nasm</td>
+        <td rowspan="3">NASM: Register 寄存器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109851814">https://blog.csdn.net/weixin_44691608/article/details/109851814</a></td>
+        <td>nasm-百度百科</td>
+        <td><a href="https://baike.baidu.com/item/nasm/10798233">https://baike.baidu.com/item/nasm/10798233</a></td>
+    </tr>
+    <tr>
+        <td>nasm学习记录-寄存器</td>
+        <td><a href="https://blog.csdn.net/aiba1227/article/details/102095719">https://blog.csdn.net/aiba1227/article/details/102095719</a></td>
+    </tr>
+    <tr>
+        <td>汇编语言中的标志位：CF、PF、AF、ZF、SF、TF、IF、DF、OF</td>
+        <td><a href="https://blog.csdn.net/weixin_41890599/article/details/99866410">https://blog.csdn.net/weixin_41890599/article/details/99866410</a></td>
+    </tr>
+    <tr>
         <td rowspan="4">other</td>
         <td rowspan="4">Make 构建工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109843763">https://blog.csdn.net/weixin_44691608/article/details/109843763</a></td>
         <td>Make 命令教程-阮一峰</td>
