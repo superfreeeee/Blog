@@ -619,7 +619,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://blog.csdn.net/weixin_41890599/article/details/99866410">https://blog.csdn.net/weixin_41890599/article/details/99866410</a></td>
     </tr>
     <tr>
-        <td rowspan="7">other</td>
+        <td rowspan="4">other</td>
         <td rowspan="4">Make 构建工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109843763">https://blog.csdn.net/weixin_44691608/article/details/109843763</a></td>
         <td>Make 命令教程-阮一峰</td>
         <td><a href="http://www.ruanyifeng.com/blog/2015/02/make.html">http://www.ruanyifeng.com/blog/2015/02/make.html</a></td>
@@ -637,6 +637,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html">https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html</a></td>
     </tr>
     <tr>
+        <td rowspan="5">compiler</td>
         <td rowspan="3">编译原理: Thompson 构造法（正则表达式 转 NFA）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110195743">https://blog.csdn.net/weixin_44691608/article/details/110195743</a></td>
         <td>什么是NFA(不确定的有穷自动机)和DFA(确定的有穷自动机)</td>
         <td><a href="https://www.cnblogs.com/AndyEvans/p/10240790.html">https://www.cnblogs.com/AndyEvans/p/10240790.html</a></td>
@@ -648,6 +649,15 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>从正则表达式到NFA：Thompson构造法</td>
         <td><a href="https://www.cnblogs.com/peng-lei/articles/5755107.html">https://www.cnblogs.com/peng-lei/articles/5755107.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">编译原理: Subset Construction 子集构造法(幂集构造)(NFA转DFA)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110213913">https://blog.csdn.net/weixin_44691608/article/details/110213913</a></td>
+        <td>NFA转DFA的子集构造(subset construction)算法</td>
+        <td><a href="https://www.jianshu.com/p/8e0fb9cf3f49">https://www.jianshu.com/p/8e0fb9cf3f49</a></td>
+    </tr>
+    <tr>
+        <td>幂集构造-百度百科</td>
+        <td><a href="https://baike.baidu.com/item/%E5%B9%82%E9%9B%86%E6%9E%84%E9%80%A0/22735892?fr=aladdin">https://baike.baidu.com/item/%E5%B9%82%E9%9B%86%E6%9E%84%E9%80%A0/22735892?fr=aladdin</a></td>
     </tr>
     <tr>
         <td></td>
