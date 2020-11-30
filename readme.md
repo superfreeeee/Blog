@@ -225,7 +225,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.asp">https://www.w3schools.com/cssref/css3_pr_mediaquery.asp</a></td>
     </tr>
     <tr>
-        <td rowspan="4">HTML</td>
+        <td rowspan="5">HTML</td>
         <td rowspan="2">HTML基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
         <td>form tag-MDN</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/form">https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/form</a></td>
@@ -242,6 +242,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>input-MDN</td>
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input">https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input</a></td>
+    </tr>
+    <tr>
+        <td>Canvas 实战: 水波图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110413644">https://blog.csdn.net/weixin_44691608/article/details/110413644</a></td>
+        <td>Canvas制作水波图实现原理</td>
+        <td><a href="https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA">https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA</a></td>
     </tr>
     <tr>
         <td rowspan="5">node</td>
