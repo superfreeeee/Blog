@@ -642,7 +642,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html">https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html</a></td>
     </tr>
     <tr>
-        <td rowspan="5">compiler</td>
+        <td rowspan="6">compiler</td>
         <td rowspan="3">编译原理: Thompson 构造法（正则表达式 转 NFA）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110195743">https://blog.csdn.net/weixin_44691608/article/details/110195743</a></td>
         <td>什么是NFA(不确定的有穷自动机)和DFA(确定的有穷自动机)</td>
         <td><a href="https://www.cnblogs.com/AndyEvans/p/10240790.html">https://www.cnblogs.com/AndyEvans/p/10240790.html</a></td>
@@ -663,6 +663,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>幂集构造-百度百科</td>
         <td><a href="https://baike.baidu.com/item/%E5%B9%82%E9%9B%86%E6%9E%84%E9%80%A0/22735892?fr=aladdin">https://baike.baidu.com/item/%E5%B9%82%E9%9B%86%E6%9E%84%E9%80%A0/22735892?fr=aladdin</a></td>
+    </tr>
+    <tr>
+        <td>编译原理: 最小化 DFA(划分) & 验证 DFA(Kleene 闭包)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110440659">https://blog.csdn.net/weixin_44691608/article/details/110440659</a></td>
+        <td>编译原理-DFA与正规式的转化</td>
+        <td><a href="https://www.cnblogs.com/mznsndy/p/10742827.html">https://www.cnblogs.com/mznsndy/p/10742827.html</a></td>
     </tr>
     <tr>
         <td></td>
