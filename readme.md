@@ -118,7 +118,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
-        <td rowspan="13">ES6</td>
+        <td rowspan="18">ES6</td>
         <td rowspan="2">ES6特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>
         <td>Arrow Function</td>
         <td><a href="https://pjchender.blogspot.com/2017/01/es6-arrow-function.html">https://pjchender.blogspot.com/2017/01/es6-arrow-function.html</a></td>
@@ -177,6 +177,27 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>ES6特性：Proxy 代理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107025482">https://blog.csdn.net/weixin_44691608/article/details/107025482</a></td>
         <td>Proxy 和 Reflect</td>
         <td><a href="http://caibaojian.com/es6/proxy.html">http://caibaojian.com/es6/proxy.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="5">ES6 实战: 手写 Promise<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110474497">https://blog.csdn.net/weixin_44691608/article/details/110474497</a></td>
+        <td>可能是目前最易理解的手写promise</td>
+        <td><a href="https://mp.weixin.qq.com/s/oURuka-Qgbbj8JKtlYNMaw">https://mp.weixin.qq.com/s/oURuka-Qgbbj8JKtlYNMaw</a></td>
+    </tr>
+    <tr>
+        <td>Promise-MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise</a></td>
+    </tr>
+    <tr>
+        <td>JavaScript Promise 对象-菜鸟教程</td>
+        <td><a href="https://www.runoob.com/w3cnote/javascript-promise-object.html">https://www.runoob.com/w3cnote/javascript-promise-object.html</a></td>
+    </tr>
+    <tr>
+        <td>剖析Promise内部结构</td>
+        <td><a href="https://github.com/xieranmaya/blog/issues/3">https://github.com/xieranmaya/blog/issues/3</a></td>
+    </tr>
+    <tr>
+        <td>Promises/A+ Compliance Test Suite</td>
+        <td><a href="https://github.com/promises-aplus/promises-tests">https://github.com/promises-aplus/promises-tests</a></td>
     </tr>
     <tr>
         <td rowspan="10">CSS</td>

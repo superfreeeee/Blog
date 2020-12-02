@@ -13,7 +13,7 @@
     - [NFA vs DFA](#nfa-vs-dfa)
   - [Thompson 构造法](#thompson-构造法)
     - [基本单元：单个字符](#基本单元单个字符)
-    - [三种转换规则：并 |、连接 $\bigcap$、闭包 *](#三种转换规则并-连接-bigcap闭包-)
+    - [三种转换规则：并（或） |、连接 $\bigcap$、闭包 *](#三种转换规则并或-连接-bigcap闭包-)
     - [示例](#示例)
       - [$a(b|c)^{*}$](#abc)
       - [$(a|b)^{*}abb$](#ababb)
@@ -106,7 +106,7 @@ Thompson 构造法的第一步就是先构建所有`基本单元`，这边我们
 
 ![](https://picures.oss-cn-beijing.aliyuncs.com/img/thompson_single_1.png)
 
-2. $a(b|c)*$
+2. $(a|b)*abb$
 
 ![](https://picures.oss-cn-beijing.aliyuncs.com/img/thompson_single_2.png)
 
@@ -114,7 +114,7 @@ Thompson 构造法的第一步就是先构建所有`基本单元`，这边我们
 
 ![](https://picures.oss-cn-beijing.aliyuncs.com/img/thompson_single_simple.png)
 
-### 三种转换规则：并 |、连接 $\bigcap$、闭包 *
+### 三种转换规则：并（或） |、连接 $\bigcap$、闭包 *
 
 - 并：$a|b$
 

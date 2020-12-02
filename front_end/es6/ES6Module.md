@@ -1,10 +1,10 @@
-# ES6: Module 模塊化
+# ES6 特性: Module 模塊化
 
 @[TOC](文章目錄)
 
 <!-- TOC -->
 
-- [ES6: Module 模塊化](#es6-module-模塊化)
+- [ES6 特性: Module 模塊化](#es6-特性-module-模塊化)
   - [簡介](#簡介)
   - [參考](#參考)
 - [正文](#正文)

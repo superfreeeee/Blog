@@ -7,11 +7,15 @@
 
 ## websocket
 
-| usage                          | link                                              |
-| ------------------------------ | ------------------------------------------------- |
-| \*springboot+vue实现websocket    | https://www.cnblogs.com/yiweiblog/p/12652546.html |
-| vue项目使用websocket技术       | https://www.cnblogs.com/qisi007/p/10213886.html   |
-| vue使用SockJS实现webSocket通信 | https://www.cnblogs.com/luoxuemei/p/10115679.html |
+| usage                          | link                                                  |
+| ------------------------------ | ----------------------------------------------------- |
+| \*springboot+vue实现websocket  | https://www.cnblogs.com/yiweiblog/p/12652546.html     |
+| WebSocket协议入门介绍          | https://www.cnblogs.com/nuccch/p/10947256.html        |
+| HTML5 WebSocket-菜鸟教程       | https://www.runoob.com/html/html5-websocket.html      |
+| vue项目使用websocket技术       | https://www.cnblogs.com/qisi007/p/10213886.html       |
+| vue使用SockJS实现webSocket通信 | https://www.cnblogs.com/luoxuemei/p/10115679.html     |
+| nodejs-websocket介绍           | https://www.jianshu.com/p/f0baf93a3795                |
+| WebSocket 教程-阮一峰          | http://www.ruanyifeng.com/blog/2017/05/websocket.html |
 
 ## compiler-min-dfa
 
