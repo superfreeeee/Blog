@@ -270,7 +270,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA">https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA</a></td>
     </tr>
     <tr>
-        <td rowspan="5">node</td>
+        <td rowspan="9">node</td>
         <td rowspan="4">Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
         <td>Node.js-wiki</td>
         <td><a href="https://zh.wikipedia.org/wiki/Node.js">https://zh.wikipedia.org/wiki/Node.js</a></td>
@@ -291,6 +291,23 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>Express 项目启动<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109371958">https://blog.csdn.net/weixin_44691608/article/details/109371958</a></td>
         <td>Express 官方</td>
         <td><a href="https://www.expressjs.com.cn/">https://www.expressjs.com.cn/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Express 实战: 使用 express-ws 实现 WebSocket 协议<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110646361">https://blog.csdn.net/weixin_44691608/article/details/110646361</a></td>
+        <td>WebSocket 教程-阮一峰</td>
+        <td><a href="http://www.ruanyifeng.com/blog/2017/05/websocket.html">http://www.ruanyifeng.com/blog/2017/05/websocket.html</a></td>
+    </tr>
+    <tr>
+        <td>WebSocket-MDN</td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">https://developer.mozilla.org/en-US/docs/Web/API/WebSocket</a></td>
+    </tr>
+    <tr>
+        <td>WebSocket协议入门介绍</td>
+        <td><a href="https://www.cnblogs.com/nuccch/p/10947256.html">https://www.cnblogs.com/nuccch/p/10947256.html</a></td>
+    </tr>
+    <tr>
+        <td>NodeJs实现WebSocket——express-ws</td>
+        <td><a href="https://www.jianshu.com/p/b0700d4162e7">https://www.jianshu.com/p/b0700d4162e7</a></td>
     </tr>
     <tr>
         <td rowspan="8">fe_others</td>
