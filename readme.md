@@ -12,7 +12,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">參考標題</th>
     <th align="left">參考鏈接</th>
     <tr>
-        <td rowspan="21">javascript</td>
+        <td rowspan="23">javascript</td>
         <td rowspan="2">JS基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -105,6 +105,15 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>[筆記] 談談JavaScript中的IIFEs(Immediately Invoked Functions Expressions)</td>
         <td><a href="https://pjchender.blogspot.com/2016/05/javascriptiifesimmediately-invoked.html">https://pjchender.blogspot.com/2016/05/javascriptiifesimmediately-invoked.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">JS 基础: typeof & instanceof 类型检查<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110741112">https://blog.csdn.net/weixin_44691608/article/details/110741112</a></td>
+        <td>JS中typeof与instanceof的区别</td>
+        <td><a href="https://www.cnblogs.com/Trr-984688199/p/6180040.html">https://www.cnblogs.com/Trr-984688199/p/6180040.html</a></td>
+    </tr>
+    <tr>
+        <td>js中typeof与instanceof用法</td>
+        <td><a href="https://www.cnblogs.com/double405/p/5326311.html">https://www.cnblogs.com/double405/p/5326311.html</a></td>
     </tr>
     <tr>
         <td rowspan="2">typescript</td>
