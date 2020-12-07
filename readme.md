@@ -12,7 +12,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">參考標題</th>
     <th align="left">參考鏈接</th>
     <tr>
-        <td rowspan="23">javascript</td>
+        <td rowspan="28">javascript</td>
         <td rowspan="2">JS基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -114,6 +114,27 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>js中typeof与instanceof用法</td>
         <td><a href="https://www.cnblogs.com/double405/p/5326311.html">https://www.cnblogs.com/double405/p/5326311.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="5">JS 实战: Drag 点击拖曳效果<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110820996">https://blog.csdn.net/weixin_44691608/article/details/110820996</a></td>
+        <td>DIV 点击拖动，纯JS 实现</td>
+        <td><a href="https://blog.csdn.net/qq_32214375/article/details/82387482">https://blog.csdn.net/qq_32214375/article/details/82387482</a></td>
+    </tr>
+    <tr>
+        <td>鼠标事件以及clientX、offsetX、screenX、pageX、x的区别</td>
+        <td><a href="https://blog.csdn.net/weixin_41342585/article/details/80659736">https://blog.csdn.net/weixin_41342585/article/details/80659736</a></td>
+    </tr>
+    <tr>
+        <td>Window.getComputedStyle()-MDN</td>
+        <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Window/getComputedStyle">https://developer.mozilla.org/zh-CN/docs/Web/API/Window/getComputedStyle</a></td>
+    </tr>
+    <tr>
+        <td>js原生获取元素的css属性</td>
+        <td><a href="https://www.cnblogs.com/leaf930814/p/6985017.html?utm_source=itdadao&utm_medium=referral">https://www.cnblogs.com/leaf930814/p/6985017.html?utm_source=itdadao&utm_medium=referral</a></td>
+    </tr>
+    <tr>
+        <td>CSS z-index 属性</td>
+        <td><a href="https://www.w3school.com.cn/cssref/pr_pos_z-index.asp">https://www.w3school.com.cn/cssref/pr_pos_z-index.asp</a></td>
     </tr>
     <tr>
         <td rowspan="2">typescript</td>
