@@ -12,7 +12,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">參考標題</th>
     <th align="left">參考鏈接</th>
     <tr>
-        <td rowspan="28">javascript</td>
+        <td rowspan="31">javascript</td>
         <td rowspan="2">JS基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -114,6 +114,19 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>js中typeof与instanceof用法</td>
         <td><a href="https://www.cnblogs.com/double405/p/5326311.html">https://www.cnblogs.com/double405/p/5326311.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">JS 基础：一次搞懂 for、for...in、for...of 循环<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110861316">https://blog.csdn.net/weixin_44691608/article/details/110861316</a></td>
+        <td>JavaScript for 循环-菜鸟教程</td>
+        <td><a href="https://www.runoob.com/js/js-loop-for.html">https://www.runoob.com/js/js-loop-for.html</a></td>
+    </tr>
+    <tr>
+        <td>for...in-MDN</td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in</a></td>
+    </tr>
+    <tr>
+        <td>js中in关键字的使用方法</td>
+        <td><a href="https://www.cnblogs.com/memphis-f/p/12073013.html">https://www.cnblogs.com/memphis-f/p/12073013.html</a></td>
     </tr>
     <tr>
         <td rowspan="5">JS 实战: Drag 点击拖曳效果<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110820996">https://blog.csdn.net/weixin_44691608/article/details/110820996</a></td>
