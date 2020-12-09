@@ -547,7 +547,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="5">c</td>
+        <td rowspan="6">c</td>
         <td rowspan="1">C 基础：typedef 类型定义<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109487910">https://blog.csdn.net/weixin_44691608/article/details/109487910</a></td>
         <td>C++typedef的详细用法</td>
         <td><a href="https://www.cnblogs.com/phpandmysql/p/10816949.html">https://www.cnblogs.com/phpandmysql/p/10816949.html</a></td>
@@ -569,6 +569,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">C 基础: Enum 枚举类型<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110928032">https://blog.csdn.net/weixin_44691608/article/details/110928032</a></td>
         <td>C enum(枚举)-菜鸟教程</td>
         <td><a href="https://www.runoob.com/cprogramming/c-enum.html">https://www.runoob.com/cprogramming/c-enum.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">C 进阶: Var Args 可变参数<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110931705">https://blog.csdn.net/weixin_44691608/article/details/110931705</a></td>
+        <td>C 可变参数</td>
+        <td><a href="https://www.runoob.com/cprogramming/c-variable-arguments.html">https://www.runoob.com/cprogramming/c-variable-arguments.html</a></td>
     </tr>
     <tr>
         <td rowspan="9">cpp</td>
