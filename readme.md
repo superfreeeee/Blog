@@ -547,7 +547,31 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="13">cpp</td>
+        <td rowspan="5">c</td>
+        <td rowspan="1">C 基础：typedef 类型定义<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109487910">https://blog.csdn.net/weixin_44691608/article/details/109487910</a></td>
+        <td>C++typedef的详细用法</td>
+        <td><a href="https://www.cnblogs.com/phpandmysql/p/10816949.html">https://www.cnblogs.com/phpandmysql/p/10816949.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">C 基础: Preprocessor 预处理器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109837477">https://blog.csdn.net/weixin_44691608/article/details/109837477</a></td>
+        <td>C 预处理器</td>
+        <td><a href="https://www.runoob.com/cprogramming/c-preprocessors.html">https://www.runoob.com/cprogramming/c-preprocessors.html</a></td>
+    </tr>
+    <tr>
+        <td>C语言真正的编译过程</td>
+        <td><a href="https://www.cnblogs.com/wuyouxiaocai/p/5701088.html">https://www.cnblogs.com/wuyouxiaocai/p/5701088.html</a></td>
+    </tr>
+    <tr>
+        <td>C代码变成可执行文件的过程</td>
+        <td><a href="https://blog.csdn.net/u012184539/article/details/81348529">https://blog.csdn.net/u012184539/article/details/81348529</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">C 基础: Enum 枚举类型<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110928032">https://blog.csdn.net/weixin_44691608/article/details/110928032</a></td>
+        <td>C enum(枚举)-菜鸟教程</td>
+        <td><a href="https://www.runoob.com/cprogramming/c-enum.html">https://www.runoob.com/cprogramming/c-enum.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="9">cpp</td>
         <td rowspan="2">Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
         <td>c++:(各种)构造函数的调用方式</td>
         <td><a href="https://blog.csdn.net/VitaLemon__/article/details/60869721">https://blog.csdn.net/VitaLemon__/article/details/60869721</a></td>
@@ -555,11 +579,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>C++ 类 & 对象-菜鸟教程</td>
         <td><a href="https://www.runoob.com/cplusplus/cpp-classes-objects.html">https://www.runoob.com/cplusplus/cpp-classes-objects.html</a></td>
-    </tr>
-    <tr>
-        <td>Cpp 基础：typedef 类型定义<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109487910">https://blog.csdn.net/weixin_44691608/article/details/109487910</a></td>
-        <td>C++typedef的详细用法</td>
-        <td><a href="https://www.cnblogs.com/phpandmysql/p/10816949.html">https://www.cnblogs.com/phpandmysql/p/10816949.html</a></td>
     </tr>
     <tr>
         <td rowspan="2">Cpp 進階：Vector 向量<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107045275">https://blog.csdn.net/weixin_44691608/article/details/107045275</a></td>
@@ -592,19 +611,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>c++中堆、栈内存分配</td>
         <td><a href="https://www.cnblogs.com/yyxt/p/4268304.html">https://www.cnblogs.com/yyxt/p/4268304.html</a></td>
-    </tr>
-    <tr>
-        <td rowspan="3">C: Preprocessor 预处理器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109837477">https://blog.csdn.net/weixin_44691608/article/details/109837477</a></td>
-        <td>C 预处理器</td>
-        <td><a href="https://www.runoob.com/cprogramming/c-preprocessors.html">https://www.runoob.com/cprogramming/c-preprocessors.html</a></td>
-    </tr>
-    <tr>
-        <td>C语言真正的编译过程</td>
-        <td><a href="https://www.cnblogs.com/wuyouxiaocai/p/5701088.html">https://www.cnblogs.com/wuyouxiaocai/p/5701088.html</a></td>
-    </tr>
-    <tr>
-        <td>C代码变成可执行文件的过程</td>
-        <td><a href="https://blog.csdn.net/u012184539/article/details/81348529">https://blog.csdn.net/u012184539/article/details/81348529</a></td>
     </tr>
     <tr>
         <td rowspan="9">docker</td>
@@ -801,19 +807,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ### ESLint: Configuration 配置
 
-### HTML: canvas
-
 ### HTML: SVG
-
-### Cpp: queue
 
 ### Cpp: set
 
 ### Cpp: list
-
-### Cpp: Deque
-
-#### Cpp: stack
 
 #### Cpp: priority
 
