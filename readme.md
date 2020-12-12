@@ -334,7 +334,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA">https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA</a></td>
     </tr>
     <tr>
-        <td rowspan="9">node</td>
+        <td rowspan="10">node</td>
         <td rowspan="4">Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
         <td>Node.js-wiki</td>
         <td><a href="https://zh.wikipedia.org/wiki/Node.js">https://zh.wikipedia.org/wiki/Node.js</a></td>
@@ -372,6 +372,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>NodeJs实现WebSocket——express-ws</td>
         <td><a href="https://www.jianshu.com/p/b0700d4162e7">https://www.jianshu.com/p/b0700d4162e7</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">Express 实战: 使用 express-static 处理静态资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111072904">https://blog.csdn.net/weixin_44691608/article/details/111072904</a></td>
+        <td>node.js express 返回一个静态页面</td>
+        <td><a href="https://blog.csdn.net/purple_lumpy/article/details/88569478">https://blog.csdn.net/purple_lumpy/article/details/88569478</a></td>
     </tr>
     <tr>
         <td rowspan="8">fe_others</td>
