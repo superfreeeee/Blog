@@ -10,5 +10,8 @@
 
 ##
 
-| usage | link |
-| ----- | ---- |
+| usage                            | link                                                       |
+| -------------------------------- | ---------------------------------------------------------- |
+| vue 数据双向绑定原理             | https://ainyi.com/8                                        |
+| Vue3 为何使用 Proxy 实现数据监听 | https://ainyi.com/93                                       |
+| string.h                         | https://blog.csdn.net/qq_23827747/article/details/79712281 |
