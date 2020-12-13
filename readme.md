@@ -752,7 +752,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://blog.csdn.net/weixin_41890599/article/details/99866410">https://blog.csdn.net/weixin_41890599/article/details/99866410</a></td>
     </tr>
     <tr>
-        <td rowspan="4">other</td>
+        <td rowspan="4">tools</td>
         <td rowspan="4">Make 构建工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109843763">https://blog.csdn.net/weixin_44691608/article/details/109843763</a></td>
         <td>Make 命令教程-阮一峰</td>
         <td><a href="http://www.ruanyifeng.com/blog/2015/02/make.html">http://www.ruanyifeng.com/blog/2015/02/make.html</a></td>
@@ -796,6 +796,24 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">编译原理: 最小化 DFA(划分) & 验证 DFA(Kleene 闭包)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110440659">https://blog.csdn.net/weixin_44691608/article/details/110440659</a></td>
         <td>编译原理-DFA与正规式的转化</td>
         <td><a href="https://www.cnblogs.com/mznsndy/p/10742827.html">https://www.cnblogs.com/mznsndy/p/10742827.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">network</td>
+        <td rowspan="4">一次搞懂 URI、URL、URN<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111145088">https://blog.csdn.net/weixin_44691608/article/details/111145088</a></td>
+        <td>統一資源標誌符-wikipedia</td>
+        <td><a href="https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E6%A0%87%E5%BF%97%E7%AC%A6">https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E6%A0%87%E5%BF%97%E7%AC%A6</a></td>
+    </tr>
+    <tr>
+        <td>統一資源定位符-wikipedia</td>
+        <td><a href="https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6">https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6</a></td>
+    </tr>
+    <tr>
+        <td>統一資源名稱-wikipedia</td>
+        <td><a href="https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%90%8D%E7%A7%B0">https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%90%8D%E7%A7%B0</a></td>
+    </tr>
+    <tr>
+        <td>URI-百度百科</td>
+        <td><a href="https://baike.baidu.com/item/URI/2901761">https://baike.baidu.com/item/URI/2901761</a></td>
     </tr>
     <tr>
         <td></td>
