@@ -446,15 +446,20 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://juejin.im/post/5d107a56e51d45773d46863c">https://juejin.im/post/5d107a56e51d45773d46863c</a></td>
     </tr>
     <tr>
-        <td rowspan="2">vue</td>
-        <td>Vue項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105879105">https://blog.csdn.net/weixin_44691608/article/details/105879105</a></td>
+        <td rowspan="3">vue</td>
+        <td rowspan="1">Vue項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105879105">https://blog.csdn.net/weixin_44691608/article/details/105879105</a></td>
         <td>Vue 官網介紹</td>
         <td><a href="https://cn.vuejs.org/v2/guide/">https://cn.vuejs.org/v2/guide/</a></td>
     </tr>
     <tr>
-        <td>Vue：Vuex 狀態管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106747207">https://blog.csdn.net/weixin_44691608/article/details/106747207</a></td>
+        <td rowspan="1">Vue：Vuex 狀態管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106747207">https://blog.csdn.net/weixin_44691608/article/details/106747207</a></td>
         <td>Vuex-官方</td>
         <td><a href="https://vuex.vuejs.org/zh/">https://vuex.vuejs.org/zh/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">Vue 源码实现: Data Binding 双向数据绑定（使用 Object.defineProperty 实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111121845">https://blog.csdn.net/weixin_44691608/article/details/111121845</a></td>
+        <td>vue 双向数据绑定的实现学习（二）- 监听器的实现</td>
+        <td><a href="https://www.cnblogs.com/adouwt/p/10039900.html">https://www.cnblogs.com/adouwt/p/10039900.html</a></td>
     </tr>
     <tr>
         <td rowspan="2">react</td>
