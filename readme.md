@@ -508,8 +508,8 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.itread01.com/content/1541919679.html">https://www.itread01.com/content/1541919679.html</a></td>
     </tr>
     <tr>
-        <td rowspan="5">springboot</td>
-        <td>SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
+        <td rowspan="13">spring</td>
+        <td rowspan="1">SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
     </tr>
@@ -530,6 +530,39 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Spring web-官方</td>
         <td><a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller">https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller</a></td>
+    </tr>
+    <tr>
+        <td rowspan="8">Spring Cloud: Overview 概述<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111189830">https://blog.csdn.net/weixin_44691608/article/details/111189830</a></td>
+        <td>什么是微服务架构？</td>
+        <td><a href="https://www.zhihu.com/question/65502802">https://www.zhihu.com/question/65502802</a></td>
+    </tr>
+    <tr>
+        <td>The Beginner’s Guide To Spring Cloud - Ryan Baxter</td>
+        <td><a href="https://www.youtube.com/watch?v=aO3W-lYnw-o&t=3538s">https://www.youtube.com/watch?v=aO3W-lYnw-o&t=3538s</a></td>
+    </tr>
+    <tr>
+        <td>Spring Cloud</td>
+        <td><a href="https://spring.io/projects/spring-cloud">https://spring.io/projects/spring-cloud</a></td>
+    </tr>
+    <tr>
+        <td>SpringCloud之Eureka注册中心原理及其搭建</td>
+        <td><a href="https://www.cnblogs.com/jing99/p/11576133.html">https://www.cnblogs.com/jing99/p/11576133.html</a></td>
+    </tr>
+    <tr>
+        <td>分布式配置——Spring Cloud Configuration</td>
+        <td><a href="https://www.jianshu.com/p/b43f41cdcbe2">https://www.jianshu.com/p/b43f41cdcbe2</a></td>
+    </tr>
+    <tr>
+        <td>从0开始构建你的api网关--Spring Cloud Gateway网关实战及原理解析</td>
+        <td><a href="https://www.cnblogs.com/davidwang456/p/10411451.html">https://www.cnblogs.com/davidwang456/p/10411451.html</a></td>
+    </tr>
+    <tr>
+        <td>断路器（Curcuit Breaker）模式</td>
+        <td><a href="https://www.cnblogs.com/chry/p/7278853.html">https://www.cnblogs.com/chry/p/7278853.html</a></td>
+    </tr>
+    <tr>
+        <td>Spring Cloud Pipeline–契约测试（Contracts Test）</td>
+        <td><a href="http://huhanlin.com/2018/06/06/spring-cloud-pipeline-%E5%A5%91%E7%BA%A6%E6%B5%8B%E8%AF%95%EF%BC%88contracts-test%EF%BC%89/">http://huhanlin.com/2018/06/06/spring-cloud-pipeline-%E5%A5%91%E7%BA%A6%E6%B5%8B%E8%AF%95%EF%BC%88contracts-test%EF%BC%89/</a></td>
     </tr>
     <tr>
         <td rowspan="2">python</td>
