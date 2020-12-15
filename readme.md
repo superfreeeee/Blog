@@ -472,7 +472,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="8">java</td>
+        <td rowspan="9">java</td>
         <td rowspan="2">Java基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -508,6 +508,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.itread01.com/content/1541919679.html">https://www.itread01.com/content/1541919679.html</a></td>
     </tr>
     <tr>
+        <td rowspan="1">Java 基础: 命令行使用 javac + jar 原生命令打包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111227645">https://blog.csdn.net/weixin_44691608/article/details/111227645</a></td>
+        <td>Java命令行下Jar包打包小结</td>
+        <td><a href="https://www.jb51.net/article/131101.htm">https://www.jb51.net/article/131101.htm</a></td>
+    </tr>
+    <tr>
         <td rowspan="13">spring</td>
         <td rowspan="1">SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
         <td>Getting Started</td>
@@ -532,7 +537,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller">https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller</a></td>
     </tr>
     <tr>
-        <td rowspan="8">Spring Cloud: Overview 概述<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111189830">https://blog.csdn.net/weixin_44691608/article/details/111189830</a></td>
+        <td rowspan="8">Spring Cloud 概述: 一文看懂 Spring Cloud 到底在干嘛<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111189830">https://blog.csdn.net/weixin_44691608/article/details/111189830</a></td>
         <td>什么是微服务架构？</td>
         <td><a href="https://www.zhihu.com/question/65502802">https://www.zhihu.com/question/65502802</a></td>
     </tr>
