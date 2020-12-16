@@ -513,7 +513,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.jb51.net/article/131101.htm">https://www.jb51.net/article/131101.htm</a></td>
     </tr>
     <tr>
-        <td rowspan="13">spring</td>
+        <td rowspan="18">spring</td>
         <td rowspan="1">SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
@@ -568,6 +568,27 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Spring Cloud Pipeline–契约测试（Contracts Test）</td>
         <td><a href="http://huhanlin.com/2018/06/06/spring-cloud-pipeline-%E5%A5%91%E7%BA%A6%E6%B5%8B%E8%AF%95%EF%BC%88contracts-test%EF%BC%89/">http://huhanlin.com/2018/06/06/spring-cloud-pipeline-%E5%A5%91%E7%BA%A6%E6%B5%8B%E8%AF%95%EF%BC%88contracts-test%EF%BC%89/</a></td>
+    </tr>
+    <tr>
+        <td rowspan="5">Spring Cloud 实战: 手把手带你用 Netflix Eureka 实现微服务注册/发现（Service Discovery）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111282991">https://blog.csdn.net/weixin_44691608/article/details/111282991</a></td>
+        <td>Eureka 概念</td>
+        <td><a href="https://blog.csdn.net/u013084266/article/details/100105965">https://blog.csdn.net/u013084266/article/details/100105965</a></td>
+    </tr>
+    <tr>
+        <td>Spring Cloud 入门教程(一): 服务注册</td>
+        <td><a href="https://www.cnblogs.com/chry/p/7248947.html">https://www.cnblogs.com/chry/p/7248947.html</a></td>
+    </tr>
+    <tr>
+        <td>idea创建springcloud项目图文教程(EurekaServer注册中心)（六）</td>
+        <td><a href="https://blog.csdn.net/hcmony/article/details/77855158">https://blog.csdn.net/hcmony/article/details/77855158</a></td>
+    </tr>
+    <tr>
+        <td>idea创建springcloud项目图文教程(创建服务提供者)（七）</td>
+        <td><a href="https://blog.csdn.net/hcmony/article/details/77855843">https://blog.csdn.net/hcmony/article/details/77855843</a></td>
+    </tr>
+    <tr>
+        <td>idea创建springcloud项目图文教程(创建消费者)（八）</td>
+        <td><a href="https://blog.csdn.net/hcmony/article/details/77855903">https://blog.csdn.net/hcmony/article/details/77855903</a></td>
     </tr>
     <tr>
         <td rowspan="2">python</td>

@@ -7,9 +7,9 @@
 - css-layout 常见布局
 
 - Spring Cloud 实战: Eureka 实现服务注册/发现（Service Discovery）
+- Spring Cloud 实战: Feign 实现负载均衡
 - Spring Cloud 实战: Configuration 实现配置中心（Configuration）
 - Spring Cloud 实战: Bus 实现消息总线
-- Spring Cloud 实战: Feign 实现负载均衡
 - Spring Cloud 实战: 
 
 # links
@@ -24,10 +24,22 @@
 
 ##
 
-| usage                                                        | link                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Spring Cloud                                                 | https://spring.io/projects/spring-cloud                      |
-| spring cloud 基本搭建                                        | https://blog.csdn.net/zengshangchun/article/details/85626743 |
+| usage                 | link                                                         |
+| --------------------- | ------------------------------------------------------------ |
+| Spring Cloud          | https://spring.io/projects/spring-cloud                      |
+| spring cloud 基本搭建 | https://blog.csdn.net/zengshangchun/article/details/85626743 |
+
+##
+
+| usage                            | link                                                          |
+| -------------------------------- | ------------------------------------------------------------- |
+| Maven maven-jar-plugin           | https://www.jianshu.com/p/d44f713b1ec9                        |
+| Maven的build生命周期和常用plugin | https://www.cnblogs.com/flydean/p/apache-maven-lifecycle.html |
+
+##
+
+| usage | link |
+| ----- | ---- |
 
 ##
 
