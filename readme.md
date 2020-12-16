@@ -12,7 +12,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">參考標題</th>
     <th align="left">參考鏈接</th>
     <tr>
-        <td rowspan="36">javascript</td>
+        <td rowspan="37">javascript</td>
         <td rowspan="2">JS基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
         <td>MDN web docs</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></td>
@@ -148,6 +148,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>in-MDN</td>
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/in">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/in</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">JS 基础: 你真的了解 console 吗？<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111306844">https://blog.csdn.net/weixin_44691608/article/details/111306844</a></td>
+        <td>别只用 console.log() 调试 js 代码了</td>
+        <td><a href="https://mp.weixin.qq.com/s/3RKcEsXI1jSXrh0V_NY2jA">https://mp.weixin.qq.com/s/3RKcEsXI1jSXrh0V_NY2jA</a></td>
     </tr>
     <tr>
         <td rowspan="5">JS 实战: Drag 点击拖曳效果<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110820996">https://blog.csdn.net/weixin_44691608/article/details/110820996</a></td>

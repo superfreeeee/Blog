@@ -6,7 +6,6 @@
 - css-keyframe 动画
 - css-layout 常见布局
 
-- Spring Cloud 实战: Eureka 实现服务注册/发现（Service Discovery）
 - Spring Cloud 实战: Feign 实现负载均衡
 - Spring Cloud 实战: Configuration 实现配置中心（Configuration）
 - Spring Cloud 实战: Bus 实现消息总线
