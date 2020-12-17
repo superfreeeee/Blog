@@ -519,7 +519,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.jb51.net/article/131101.htm">https://www.jb51.net/article/131101.htm</a></td>
     </tr>
     <tr>
-        <td rowspan="18">spring</td>
+        <td rowspan="22">spring</td>
         <td rowspan="1">SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
@@ -541,6 +541,23 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Spring web-官方</td>
         <td><a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller">https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Spring Boot 基础: 使用 `@ConfigurationProperties` 实现自定义属性的自动装配<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111351598">https://blog.csdn.net/weixin_44691608/article/details/111351598</a></td>
+        <td>SPRINGBOOT用@CONFIGURATIONPROPERTIES获取配置文件值</td>
+        <td><a href="https://www.cnblogs.com/lihaoyang/p/10223339.html">https://www.cnblogs.com/lihaoyang/p/10223339.html</a></td>
+    </tr>
+    <tr>
+        <td>Spring Boot 配置文件注入，在yml中可以自动提示</td>
+        <td><a href="https://www.cnblogs.com/vianzhang/p/13615123.html">https://www.cnblogs.com/vianzhang/p/13615123.html</a></td>
+    </tr>
+    <tr>
+        <td>SPRINGBOOT项目启动成功后执行一段代码的两种方式</td>
+        <td><a href="https://www.cnblogs.com/zuidongfeng/p/9926471.html">https://www.cnblogs.com/zuidongfeng/p/9926471.html</a></td>
+    </tr>
+    <tr>
+        <td>Spring Boot中自定义属性的代码完成</td>
+        <td><a href="https://www.mdoninger.de/2015/05/16/completion-for-custom-properties-in-spring-boot.html">https://www.mdoninger.de/2015/05/16/completion-for-custom-properties-in-spring-boot.html</a></td>
     </tr>
     <tr>
         <td rowspan="8">Spring Cloud 概述: 一文看懂 Spring Cloud 到底在干嘛<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111189830">https://blog.csdn.net/weixin_44691608/article/details/111189830</a></td>
