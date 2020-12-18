@@ -211,13 +211,15 @@ public class DemoController {
 
 这时候我们再手动的调用 `mvn clean package`（IDEA 有提供可视化按钮直接使用），我们就会在打包后的 target 项目中看到关于配置项的结构说明文件 `spring-configuration-metadata.json`
 
-
+![](https://picures.oss-cn-beijing.aliyuncs.com/img/springboot_configuration_processor1.png)
 
 这样一来使用我们的包作为依赖的开发者，他的 IDE 就能够根据这个文件在 yml 中给出相应的代码提示。
 
-
+![](https://picures.oss-cn-beijing.aliyuncs.com/img/springboot_configuration_processor2.png)
 
 若我们想要在自己开发的过程中也享受到代码提示我们可以选择将 `META-INF` 目录整个复制到 resoureces 目录之下（如下图），即可实现相同效果
+
+![](https://picures.oss-cn-beijing.aliyuncs.com/img/springboot_configuration_processor3.png)
 
 ## 完整代码示例
 

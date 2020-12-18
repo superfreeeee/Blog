@@ -519,7 +519,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.jb51.net/article/131101.htm">https://www.jb51.net/article/131101.htm</a></td>
     </tr>
     <tr>
-        <td rowspan="22">spring</td>
+        <td rowspan="30">spring</td>
         <td rowspan="1">SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
@@ -614,6 +614,39 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://blog.csdn.net/hcmony/article/details/77855903">https://blog.csdn.net/hcmony/article/details/77855903</a></td>
     </tr>
     <tr>
+        <td rowspan="8">Spring Cloud 实战: 使用 Netflix Ribbon 实现服务发现 & 负载均衡(Service Discovery & Load Balancing)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111361970">https://blog.csdn.net/weixin_44691608/article/details/111361970</a></td>
+        <td>ribbon 代码配置</td>
+        <td><a href="https://blog.csdn.net/anita9999/article/details/82262000">https://blog.csdn.net/anita9999/article/details/82262000</a></td>
+    </tr>
+    <tr>
+        <td>Spring Cloud Netflix-客户侧负载均衡器：Ribbon</td>
+        <td><a href="https://www.springcloud.cc/spring-cloud-netflix.html">https://www.springcloud.cc/spring-cloud-netflix.html</a></td>
+    </tr>
+    <tr>
+        <td>Ribbon之IClientConfig、IClientConfigKey</td>
+        <td><a href="https://blog.51cto.com/881206524/2141718">https://blog.51cto.com/881206524/2141718</a></td>
+    </tr>
+    <tr>
+        <td>Ribbon负载均衡策略配置</td>
+        <td><a href="https://blog.csdn.net/rickiyeat/article/details/64918756">https://blog.csdn.net/rickiyeat/article/details/64918756</a></td>
+    </tr>
+    <tr>
+        <td>Ribbon之IPing</td>
+        <td><a href="https://blog.csdn.net/weixin_34148340/article/details/93079295">https://blog.csdn.net/weixin_34148340/article/details/93079295</a></td>
+    </tr>
+    <tr>
+        <td>Ribbon之ServerList</td>
+        <td><a href="https://blog.csdn.net/weixin_33778544/article/details/93079297">https://blog.csdn.net/weixin_33778544/article/details/93079297</a></td>
+    </tr>
+    <tr>
+        <td>Ribbon之ILoadBalancer</td>
+        <td><a href="https://blog.51cto.com/881206524/2145900">https://blog.51cto.com/881206524/2145900</a></td>
+    </tr>
+    <tr>
+        <td>SpringCloud--Ribbon--源码解析--IloadBalancer&ServerListUpdater&ServerListFilter实现</td>
+        <td><a href="https://www.cnblogs.com/liconglong/p/13289972.html">https://www.cnblogs.com/liconglong/p/13289972.html</a></td>
+    </tr>
+    <tr>
         <td rowspan="2">python</td>
         <td rowspan="2">Python: 模块化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109360032">https://blog.csdn.net/weixin_44691608/article/details/109360032</a></td>
         <td>Python 模块-菜鸟教程</td>
@@ -639,7 +672,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html">https://www.runoob.com/numpy/numpy-ndexing-and-slicing.html</a></td>
     </tr>
     <tr>
-        <td rowspan="6">c</td>
+        <td rowspan="6">C</td>
         <td rowspan="1">C 基础：typedef 类型定义<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109487910">https://blog.csdn.net/weixin_44691608/article/details/109487910</a></td>
         <td>C++typedef的详细用法</td>
         <td><a href="https://www.cnblogs.com/phpandmysql/p/10816949.html">https://www.cnblogs.com/phpandmysql/p/10816949.html</a></td>
