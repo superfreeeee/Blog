@@ -478,7 +478,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="13">java</td>
+        <td rowspan="17">java</td>
         <td rowspan="2">Java基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -534,6 +534,23 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Java多執行緒原理及Thread類的使用</td>
         <td><a href="https://www.itread01.com/content/1541919679.html">https://www.itread01.com/content/1541919679.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Java 进阶: Reflect 反射机制（动态获取类内部结构和对象内容、调用方法）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111413301">https://blog.csdn.net/weixin_44691608/article/details/111413301</a></td>
+        <td>五分钟看懂ClassLoader</td>
+        <td><a href="https://www.jianshu.com/p/554c138ca0f5">https://www.jianshu.com/p/554c138ca0f5</a></td>
+    </tr>
+    <tr>
+        <td>JAVA Reflect反射详解</td>
+        <td><a href="https://blog.csdn.net/u014209205/article/details/80542114">https://blog.csdn.net/u014209205/article/details/80542114</a></td>
+    </tr>
+    <tr>
+        <td>试用Java中的反射reflect之getDeclaredMethods和getMethods</td>
+        <td><a href="https://www.cnblogs.com/jianjianjiao/articles/1853409.html">https://www.cnblogs.com/jianjianjiao/articles/1853409.html</a></td>
+    </tr>
+    <tr>
+        <td>Java Field getBoolean()用法及代码示例</td>
+        <td><a href="https://vimsky.com/examples/usage/field-getboolean-method-in-java-with-examples.html">https://vimsky.com/examples/usage/field-getboolean-method-in-java-with-examples.html</a></td>
     </tr>
     <tr>
         <td rowspan="30">spring</td>
