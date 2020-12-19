@@ -478,7 +478,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="9">java</td>
+        <td rowspan="13">java</td>
         <td rowspan="2">Java基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -497,6 +497,28 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://docs.oracle.com/javase/8/docs/api/">https://docs.oracle.com/javase/8/docs/api/</a></td>
     </tr>
     <tr>
+        <td rowspan="1">Java 基础: 命令行使用 javac + jar 原生命令打包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111227645">https://blog.csdn.net/weixin_44691608/article/details/111227645</a></td>
+        <td>Java命令行下Jar包打包小结</td>
+        <td><a href="https://www.jb51.net/article/131101.htm">https://www.jb51.net/article/131101.htm</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Java 基础: 浅谈类型基础 - Class 对象<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111403969">https://blog.csdn.net/weixin_44691608/article/details/111403969</a></td>
+        <td>Thinking in Java - 原书第 4 版</td>
+        <td><a href=""></a></td>
+    </tr>
+    <tr>
+        <td>深入理解 Java 虚拟机 - 周志明</td>
+        <td><a href=""></a></td>
+    </tr>
+    <tr>
+        <td>Java中Class对象详解</td>
+        <td><a href="https://blog.csdn.net/mcryeasy/article/details/52344729">https://blog.csdn.net/mcryeasy/article/details/52344729</a></td>
+    </tr>
+    <tr>
+        <td>java中类加载时机</td>
+        <td><a href="https://www.cnblogs.com/aspirant/p/9036010.html">https://www.cnblogs.com/aspirant/p/9036010.html</a></td>
+    </tr>
+    <tr>
         <td rowspan="4">Java進階：ExecutorService 線程池<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107183108">https://blog.csdn.net/weixin_44691608/article/details/107183108</a></td>
         <td>一文秒懂 Java ExecutorService</td>
         <td><a href="https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html">https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html</a></td>
@@ -512,11 +534,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Java多執行緒原理及Thread類的使用</td>
         <td><a href="https://www.itread01.com/content/1541919679.html">https://www.itread01.com/content/1541919679.html</a></td>
-    </tr>
-    <tr>
-        <td rowspan="1">Java 基础: 命令行使用 javac + jar 原生命令打包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111227645">https://blog.csdn.net/weixin_44691608/article/details/111227645</a></td>
-        <td>Java命令行下Jar包打包小结</td>
-        <td><a href="https://www.jb51.net/article/131101.htm">https://www.jb51.net/article/131101.htm</a></td>
     </tr>
     <tr>
         <td rowspan="30">spring</td>

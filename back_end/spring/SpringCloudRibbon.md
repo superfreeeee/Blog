@@ -23,6 +23,7 @@
       - [ribbon-service 服务提供者](#ribbon-service-服务提供者)
       - [ribbon-client 服务使用者](#ribbon-client-服务使用者)
     - [测试成果](#测试成果)
+    - [完整实现代码仓库地址](#完整实现代码仓库地址)
 - [结语](#结语)
 
 <!-- /TOC -->
@@ -543,6 +544,10 @@ Ribbon Client(port=8803), result=Service from 8801 , request count=6
 ```
 
 其实还是蛮简单的，总的来说就是配置一个 `@RibbonClient` 然后加上 `@LoadBalanced` 就是了hhh
+
+### 完整实现代码仓库地址
+
+<a href="https://github.com/superfreeeee/Blog-code/tree/main/back_end/spring/spring_cloud_ribbon">https://github.com/superfreeeee/Blog-code/tree/main/back_end/spring/spring_cloud_ribbon</a>
 
 # 结语
 
