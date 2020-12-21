@@ -6,7 +6,6 @@
 - css-keyframe 动画
 - css-layout 常见布局
 
-- Spring Cloud 实战: 使用 Netflix Ribbon 实现服务发现 & 负载均衡(Service Discovery & Load Balancing)
 - Spring Cloud 实战: Open Feign 强化版的 Ribbon（对 Netflix Ribbon 再封装） 
 - Spring Cloud 实战: 使用 Config 实现配置中心（Configuration）
 - Spring Cloud 实战: Bus 消息总线搭配 Config 实现实时配置更新
@@ -31,7 +30,6 @@
 | usage                                       | link                                                              |
 | ------------------------------------------- | ----------------------------------------------------------------- |
 | springcloud(十三)：注册中心 Consul 使用详解 | https://blog.csdn.net/love_zngy/article/details/82216696          |
-| SpringCloud之Ribbon使用篇                   | https://blog.csdn.net/yuanshangshenghuo/article/details/106975354 |
 | Spring Cloud Netflix                        | https://www.springcloud.cc/spring-cloud-netflix.html              |
 
 ## maven
@@ -43,9 +41,16 @@
 
 ##
 
-| usage                   | link                                                      |
-| ----------------------- | --------------------------------------------------------- |
-| ClassLoader的原理及应用 | https://blog.csdn.net/zzti_erlie/article/details/82757435 |
+| usage   | link                                                     |
+| ------- | -------------------------------------------------------- |
+| javadoc | https://blog.csdn.net/vbirdbest/article/details/80296136 |
+
+##
+
+| usage                                     | link                                                      |
+| ----------------------------------------- | --------------------------------------------------------- |
+| Spring源码：@AliasFor JDK动态代理源码分析 | https://blog.csdn.net/supzhili/article/details/99692075   |
+| SpringBoot中的@AliasFor注解介绍           | https://blog.csdn.net/u012043390/article/details/89391518 |
 
 ##
 

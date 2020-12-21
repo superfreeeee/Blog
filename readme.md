@@ -478,7 +478,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="17">java</td>
+        <td rowspan="20">java</td>
         <td rowspan="2">Java基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -517,6 +517,19 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>java中类加载时机</td>
         <td><a href="https://www.cnblogs.com/aspirant/p/9036010.html">https://www.cnblogs.com/aspirant/p/9036010.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">Java 基础: Annotation 注解说明(Spring 建设基础)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111474701">https://blog.csdn.net/weixin_44691608/article/details/111474701</a></td>
+        <td>Java 注解（Annotation）</td>
+        <td><a href="https://www.runoob.com/w3cnote/java-annotation.html">https://www.runoob.com/w3cnote/java-annotation.html</a></td>
+    </tr>
+    <tr>
+        <td>Java注释@interface的用法</td>
+        <td><a href="https://www.cnblogs.com/liaojie970/p/7879917.html">https://www.cnblogs.com/liaojie970/p/7879917.html</a></td>
+    </tr>
+    <tr>
+        <td>SpringBoot中的@AliasFor注解介绍</td>
+        <td><a href="https://blog.csdn.net/u012043390/article/details/89391518">https://blog.csdn.net/u012043390/article/details/89391518</a></td>
     </tr>
     <tr>
         <td rowspan="4">Java進階：ExecutorService 線程池<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107183108">https://blog.csdn.net/weixin_44691608/article/details/107183108</a></td>
