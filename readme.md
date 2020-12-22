@@ -478,7 +478,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=https://create-react-app.dev/docs/getting-started"">https://create-react-app.dev/docs/getting-started</a></td>
     </tr>
     <tr>
-        <td rowspan="20">java</td>
+        <td rowspan="21">java</td>
         <td rowspan="2">Java基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
         <td>Java 列舉(Enum)範例</td>
         <td><a href="https://matthung0807.blogspot.com/2017/10/java-enum.html">https://matthung0807.blogspot.com/2017/10/java-enum.html</a></td>
@@ -564,6 +564,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Java Field getBoolean()用法及代码示例</td>
         <td><a href="https://vimsky.com/examples/usage/field-getboolean-method-in-java-with-examples.html">https://vimsky.com/examples/usage/field-getboolean-method-in-java-with-examples.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">Java 应用: Reflect 封装，一次实现使用字符串查找字段、调用方法、打破 private 限制<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111570524">https://blog.csdn.net/weixin_44691608/article/details/111570524</a></td>
+        <td></td>
+        <td><a href=""></a></td>
     </tr>
     <tr>
         <td rowspan="30">spring</td>
