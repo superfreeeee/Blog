@@ -316,7 +316,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.asp">https://www.w3schools.com/cssref/css3_pr_mediaquery.asp</a></td>
     </tr>
     <tr>
-        <td rowspan="5">HTML</td>
+        <td rowspan="6">HTML</td>
         <td rowspan="2">HTML基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
         <td>form tag-MDN</td>
         <td><a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/form">https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/form</a></td>
@@ -335,9 +335,14 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input">https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input</a></td>
     </tr>
     <tr>
-        <td>Canvas 实战: 水波图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110413644">https://blog.csdn.net/weixin_44691608/article/details/110413644</a></td>
+        <td rowspan="1">Canvas 实战: 水波图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110413644">https://blog.csdn.net/weixin_44691608/article/details/110413644</a></td>
         <td>Canvas制作水波图实现原理</td>
         <td><a href="https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA">https://mp.weixin.qq.com/s/-nLlq5qI6OzXgJEkaxEgjA</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">Canvas 实战: 实现纯前端图形验证码（Graph Verification Code）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111737964">https://blog.csdn.net/weixin_44691608/article/details/111737964</a></td>
+        <td>前端生成图形验证码</td>
+        <td><a href="https://www.cnblogs.com/echolife/p/8649213.html">https://www.cnblogs.com/echolife/p/8649213.html</a></td>
     </tr>
     <tr>
         <td rowspan="10">node</td>
