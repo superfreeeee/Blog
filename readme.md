@@ -345,7 +345,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.cnblogs.com/echolife/p/8649213.html">https://www.cnblogs.com/echolife/p/8649213.html</a></td>
     </tr>
     <tr>
-        <td rowspan="10">node</td>
+        <td rowspan="11">node</td>
         <td rowspan="4">Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
         <td>Node.js-wiki</td>
         <td><a href="https://zh.wikipedia.org/wiki/Node.js">https://zh.wikipedia.org/wiki/Node.js</a></td>
@@ -388,6 +388,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">Express 实战: 使用 express-static 处理静态资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111072904">https://blog.csdn.net/weixin_44691608/article/details/111072904</a></td>
         <td>node.js express 返回一个静态页面</td>
         <td><a href="https://blog.csdn.net/purple_lumpy/article/details/88569478">https://blog.csdn.net/purple_lumpy/article/details/88569478</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">Express 实战: 连接 MySQL 数据库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111772113">https://blog.csdn.net/weixin_44691608/article/details/111772113</a></td>
+        <td>node连接Mysql报错ER_NOT_SUPPORTED_AUTH_MODE</td>
+        <td><a href="https://www.cnblogs.com/jing-tian/p/11688073.html">https://www.cnblogs.com/jing-tian/p/11688073.html</a></td>
     </tr>
     <tr>
         <td rowspan="8">fe_others</td>
