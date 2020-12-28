@@ -188,7 +188,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://www.typescriptlang.org/docs/home.html">https://www.typescriptlang.org/docs/home.html</a></td>
     </tr>
     <tr>
-        <td rowspan="18">ES6</td>
+        <td rowspan="19">ES6</td>
         <td rowspan="2">ES6特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>
         <td>Arrow Function</td>
         <td><a href="https://pjchender.blogspot.com/2017/01/es6-arrow-function.html">https://pjchender.blogspot.com/2017/01/es6-arrow-function.html</a></td>
@@ -247,6 +247,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>ES6特性：Proxy 代理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107025482">https://blog.csdn.net/weixin_44691608/article/details/107025482</a></td>
         <td>Proxy 和 Reflect</td>
         <td><a href="http://caibaojian.com/es6/proxy.html">http://caibaojian.com/es6/proxy.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="1">ES6 Promise 应用: 回调函数方法封装成 Promise + async/await 同步化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111878730">https://blog.csdn.net/weixin_44691608/article/details/111878730</a></td>
+        <td></td>
+        <td><a href=""></a></td>
     </tr>
     <tr>
         <td rowspan="5">ES6 实战: 手写 Promise<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110474497">https://blog.csdn.net/weixin_44691608/article/details/110474497</a></td>

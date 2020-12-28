@@ -27,10 +27,10 @@
 
 ## spring cloud
 
-| usage                                       | link                                                              |
-| ------------------------------------------- | ----------------------------------------------------------------- |
-| springcloud(十三)：注册中心 Consul 使用详解 | https://blog.csdn.net/love_zngy/article/details/82216696          |
-| Spring Cloud Netflix                        | https://www.springcloud.cc/spring-cloud-netflix.html              |
+| usage                                       | link                                                     |
+| ------------------------------------------- | -------------------------------------------------------- |
+| springcloud(十三)：注册中心 Consul 使用详解 | https://blog.csdn.net/love_zngy/article/details/82216696 |
+| Spring Cloud Netflix                        | https://www.springcloud.cc/spring-cloud-netflix.html     |
 
 ## maven
 
@@ -51,6 +51,12 @@
 | ----------------------------------------- | --------------------------------------------------------- |
 | Spring源码：@AliasFor JDK动态代理源码分析 | https://blog.csdn.net/supzhili/article/details/99692075   |
 | SpringBoot中的@AliasFor注解介绍           | https://blog.csdn.net/u012043390/article/details/89391518 |
+
+##
+
+| usage                           | link                                                 |
+| ------------------------------- | ---------------------------------------------------- |
+| eureka-获取服务列表（各种状态） | https://www.cnblogs.com/excellencesy/p/12156252.html |
 
 ##
 
