@@ -586,7 +586,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href=""></a></td>
     </tr>
     <tr>
-        <td rowspan="30">spring</td>
+        <td rowspan="32">spring</td>
         <td rowspan="1">SpringBoot項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
         <td>Getting Started</td>
         <td><a href="https://spring.io/guides/gs/spring-boot/">https://spring.io/guides/gs/spring-boot/</a></td>
@@ -712,6 +712,15 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>SpringCloud--Ribbon--源码解析--IloadBalancer&ServerListUpdater&ServerListFilter实现</td>
         <td><a href="https://www.cnblogs.com/liconglong/p/13289972.html">https://www.cnblogs.com/liconglong/p/13289972.html</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">Spring Cloud 实战: Open Feign 强化版的 Ribbon，实现更优雅的声明式服务发现/调用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111914915">https://blog.csdn.net/weixin_44691608/article/details/111914915</a></td>
+        <td>微服务实战SpringCloud之Feign简介及使用</td>
+        <td><a href="https://www.jianshu.com/p/8bca50cb11d8">https://www.jianshu.com/p/8bca50cb11d8</a></td>
+    </tr>
+    <tr>
+        <td>Spring Cloud 入门教程(六)： 用声明式REST客户端Feign调用远端HTTP服务</td>
+        <td><a href="https://www.cnblogs.com/chry/p/7266916.html">https://www.cnblogs.com/chry/p/7266916.html</a></td>
     </tr>
     <tr>
         <td rowspan="2">python</td>
