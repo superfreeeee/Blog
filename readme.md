@@ -438,7 +438,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td><a href="https://gitgraphjs.com/stories/">https://gitgraphjs.com/stories/</a></td>
     </tr>
     <tr>
-        <td rowspan="2">babel</td>
+        <td rowspan="4">babel</td>
         <td rowspan="2">Babel入門：JavaScript 的下一代編譯器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106579653">https://blog.csdn.net/weixin_44691608/article/details/106579653</a></td>
         <td>babel 官方</td>
         <td><a href="https://www.babeljs.cn/">https://www.babeljs.cn/</a></td>
@@ -446,6 +446,15 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr>
         <td>Babel 設定</td>
         <td><a href="https://ithelp.ithome.com.tw/articles/10200299">https://ithelp.ithome.com.tw/articles/10200299</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">Babel 应用: 利用 @babel/register 实现即时编译（在 Node 环境下使用 import/export ES6 语法）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111932754">https://blog.csdn.net/weixin_44691608/article/details/111932754</a></td>
+        <td>@babel/register-官方doc</td>
+        <td><a href="https://www.babeljs.cn/docs/babel-register">https://www.babeljs.cn/docs/babel-register</a></td>
+    </tr>
+    <tr>
+        <td>如何在 Node.js 中使用 import / export 的三种方法</td>
+        <td><a href="https://blog.csdn.net/zwkkkk1/article/details/81564971">https://blog.csdn.net/zwkkkk1/article/details/81564971</a></td>
     </tr>
     <tr>
         <td rowspan="4">webpack</td>
