@@ -6,7 +6,6 @@
 - css-keyframe 动画
 - css-layout 常见布局
 
-- Spring Cloud 实战: Open Feign 强化版的 Ribbon（对 Netflix Ribbon 再封装） 
 - Spring Cloud 实战: 使用 Config 实现配置中心（Configuration）
 - Spring Cloud 实战: Bus 消息总线搭配 Config 实现实时配置更新
 - Spring Cloud 实战: Gateway 实现服务网关（API Gateway）
@@ -21,7 +20,6 @@
 
 | usage                            | link                                                       |
 | -------------------------------- | ---------------------------------------------------------- |
-| Vue3 为何使用 Proxy 实现数据监听 | https://ainyi.com/93                                       |
 | string.h                         | https://blog.csdn.net/qq_23827747/article/details/79712281 |
 
 
