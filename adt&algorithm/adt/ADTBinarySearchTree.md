@@ -12,6 +12,10 @@
   - [抽象接口](#抽象接口)
   - [实现要素](#实现要素)
   - [Java 实现](#java-实现)
+    - [`interface Tree<T>` 树接口](#interface-treet-树接口)
+    - [`interface BinarySearchTree<T>` 二叉搜索树接口](#interface-binarysearchtreet-二叉搜索树接口)
+    - [`class BinarySearchTreeImpl<T>` 二叉搜索树实现](#class-binarysearchtreeimplt-二叉搜索树实现)
+    - [`class BinarySearchTreeTest` 单元测试](#class-binarysearchtreetest-单元测试)
 - [结语](#结语)
 
 <!-- /TOC -->
@@ -109,9 +113,10 @@ DELETE(key)
 首先给出二叉搜索树的节点定义
 
 ```
-BSTNode
+Node
     key # 键值
     data # 卫星数据
+    parent # 指向父节点
     left # 指向左子节点
     right # 指向右子节点
 ```
@@ -120,20 +125,99 @@ BSTNode
 
 ```
 BST
-    BSTNode root # 根节点指针
+    Node root # 根节点指针
 ```
 
 ## Java 实现
 
-- `BinarySearchTree.java`
+### `interface Tree<T>` 树接口
 
 ```java
-package adt.bst;
+package adt.tree;
 
-public interface BinarySearchTree<T> {
+/**
+ * 树
+ *
+ * @param <T>
+ */
+public interface Tree<T> {
+
+    /**
+     * 插入节点
+     *
+     * @param key
+     * @param data
+     */
+    void insert(int key, T data);
+
+    /**
+     * 删除节点
+     *
+     * @param key
+     * @return
+     */
+    T delete(int key);
+
+    /**
+     * 返回树高
+     *
+     * @return
+     */
+    int height();
+
+    /**
+     * 检查树是否为空
+     *
+     * @return
+     */
+    boolean empty();
+
+    /**
+     * 返回节点数量
+     *
+     * @return
+     */
+    int nodes();
+
+    /**
+     * 先序遍历
+     */
+    void preorder();
+
+    /**
+     * 中序遍历
+     */
+    void inorder();
+
+    /**
+     * 后序遍历
+     */
+    void postorder();
+
+    /**
+     * 层序遍历
+     */
+    void layerOrder();
+}
+```
+
+### `interface BinarySearchTree<T>` 二叉搜索树接口
+
+```java
+package adt.tree.bst;
+
+import adt.tree.Tree;
+
+/**
+ * 二叉搜索树
+ *
+ * @param <T>
+ */
+public interface BinarySearchTree<T> extends Tree<T> {
 
     /**
      * 根据键查找元素
+     *
      * @param key
      * @return
      */
@@ -141,18 +225,21 @@ public interface BinarySearchTree<T> {
 
     /**
      * 查找键最小的元素
+     *
      * @return
      */
     T minimum();
 
     /**
      * 查找键最大的元素
+     *
      * @return
      */
     T maximum();
 
     /**
      * 查找给定键的前驱元素
+     *
      * @param key
      * @return
      */
@@ -160,260 +247,511 @@ public interface BinarySearchTree<T> {
 
     /**
      * 查找给定键的后继元素
+     *
      * @param key
      * @return
      */
     T successor(int key);
 
     /**
-     * 插入元素并指定键
-     * @param key
-     * @param t
+     * 展示树形结构
      */
-    void insert(int key, T t);
-
-    /**
-     * 删除元素
-     */
-    void delete(int key);
+    void tree();
 }
 ```
 
-- `BSTSimple.java`
+### `class BinarySearchTreeImpl<T>` 二叉搜索树实现
 
 ```java
-package adt.bst;
+package adt.tree.bst;
 
-public class BSTSimple<T> implements BinarySearchTree<T> {
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class BinarySearchTreeImpl<T> implements BinarySearchTree<T> {
 
     protected static class Node<T> {
-        int key;
-        T data;
-        Node<T> parent;
-        Node<T> left;
-        Node<T> right;
+        public int key;
+        public T data;
+        public Node<T> parent;
+        public Node<T> left;
+        public Node<T> right;
 
-        Node(int key, T data) {
+        public Node(int key, T data) {
             this.key = key;
             this.data = data;
-        }
-
-        Node(int key, T data, Node<T> parent, Node<T> left, Node<T> right) {
-            this.key = key;
-            this.data = data;
-            this.parent = parent;
-            this.left = left;
-            this.right = right;
         }
 
         @Override
         public String toString() {
-            return "{key=" + key + ", data=" + data + ", left=" + left + ", right=" + right + '}';
+            return "{key=" + key +
+                    ", data=" + data +
+                    ", left=" + left +
+                    ", right=" + right +
+                    '}';
+        }
+
+        String simple() {
+            return "{key=" + key + ", data=" + data + "}";
+        }
+
+        void tree(String prefix) {
+            System.out.println(prefix + simple());
+            prefix = prefix + "  ";
+            if (left != null) left.tree(prefix);
+            else if (right != null) System.out.println(prefix + "null");
+            if (right != null) right.tree(prefix);
         }
     }
 
     protected Node<T> root;
 
-    public BSTSimple() {}
-
-    public BSTSimple(int[] keys, T[] values) {
+    public static <T> BinarySearchTreeImpl<T> from(int[] keys, T[] values) {
         int n = keys.length;
-        build(keys, values, 0, n - 1);
+        BinarySearchTreeImpl<T> bst = new BinarySearchTreeImpl<>();
+        bst.build(keys, values, 0, n - 1);
+        return bst;
     }
 
     private void build(int[] keys, T[] values, int l, int r) {
-        int m = (l + r) / 2;
-        insert(keys[m], values[m]);
-        if (l < r) {
+        if (l + 1 == r) { // [l, r]
+            insert(keys[l], values[l]);
+            insert(keys[r], values[r]);
+        } else if (l == r) { // [l]
+            insert(keys[l], values[l]);
+        } else if (l + 1 < r) { // [l .. m .. r]
+            int m = (l + r) / 2;
+            insert(keys[m], values[m]);
             build(keys, values, l, m - 1);
             build(keys, values, m + 1, r);
         }
     }
 
-    /**
-     * 根据键查找元素
-     *
-     * @param key
-     * @return
-     */
+    @Override
     public T search(int key) {
-        return _search(root, key).data;
+        Node<T> node = search(root, key);
+        return node == null ? null : node.data;
     }
 
-    protected Node<T> _search(Node<T> cur, int key) {
-        while (cur != null) {
-            if (key == cur.key) return cur;
-            if (key < cur.key) cur = cur.left;
-            else cur = cur.right;
+    protected Node<T> search(Node<T> node, int key) {
+        while (node != null && node.key != key) {
+            node = (key < node.key ? node.left : node.right);
         }
-        return new Node<T>(0, null);
+        return node;
     }
 
-    protected boolean find(Node<T> cur, int key) {
-        return _search(cur, key) != null;
-    }
-
-    /**
-     * 查找键最小的元素
-     *
-     * @return
-     */
+    @Override
     public T minimum() {
-        return root == null ? null : minimum(root).data;
+        Node<T> min = minimum(root);
+        return min == null ? null : min.data;
     }
 
     private Node<T> minimum(Node<T> node) {
-        while (node != null && node.left != null) node = node.left;
+        if (node == null) return null;
+        while (node.left != null) node = node.left;
         return node;
     }
 
-    /**
-     * 查找键最大的元素
-     *
-     * @return
-     */
+    @Override
     public T maximum() {
-        return root == null ? null : maximum(root).data;
+        Node<T> max = maximum(root);
+        return max == null ? null : max.data;
     }
 
     private Node<T> maximum(Node<T> node) {
-        while (node != null && node.right != null) node = node.right;
+        if (node == null) return null;
+        while (node.right != null) node = node.right;
         return node;
     }
 
-    /**
-     * 查找给定键的前驱元素
-     *
-     * @param key
-     * @return
-     */
+    @Override
     public T predecessor(int key) {
-        Node<T> cur = _search(root, key);
-        if (cur.left != null) return maximum(cur.left).data;
-        while (cur.parent != null && cur == cur.parent.left) cur = cur.parent;
-        return cur.parent == null ? null : cur.parent.data;
+        if (root == null) return null; // 树为空
+        Node<T> node = searchClosest(root, key);
+        if (node.key < key) return node.data;
+        Node<T> pre = predecessor(node);
+        return pre == null ? null : pre.data;
     }
 
-    /**
-     * 查找给定键的后继元素
-     *
-     * @param key
-     * @return
-     */
+    private Node<T> predecessor(Node<T> node) {
+        if (node.left != null) {
+            Node<T> pre = maximum(node.left);
+            return pre;
+        }
+        while (node.parent != null && node == node.parent.left) {
+            node = node.parent;
+        }
+        if (node.parent == null) return null;
+        return node.parent;
+    }
+
+    private Node<T> searchClosest(Node<T> node, int key) {
+        Node<T> pre = null;
+        while (node != null && node.key != key) {
+            pre = node;
+            node = (key < node.key ? node.left : node.right);
+        }
+        return node == null ? pre : node;
+    }
+
+    @Override
     public T successor(int key) {
-        Node<T> cur = _search(root, key);
-        if (cur.right != null) return minimum(cur.right).data;
-        while (cur.parent != null && cur == cur.parent.right) cur = cur.parent;
-        return cur.parent == null ? null : cur.parent.data;
+        if (root == null) return null;
+        Node<T> node = searchClosest(root, key);
+        if (node.key > key) return node.data;
+        Node<T> next = successor(node);
+        return next == null ? null : next.data;
     }
 
-    /**
-     * 插入元素并指定键
-     *
-     * @param key
-     * @param t
-     */
-    public void insert(int key, T t) {
-        Node y = null, x = root, node = new Node<T>(key, t);
-        if (x == null) {
-            root = node;
-            return;
+    private Node<T> successor(Node<T> node) {
+        if (node.right != null) {
+            Node<T> next = minimum(node.right);
+            return next;
         }
-        while (x != null) {
-            y = x;
-            if (key < x.key) x = x.left;
-            else x = x.right;
+        while (node.parent != null && node == node.parent.right) {
+            node = node.parent;
         }
-        if (key < y.key) y.left = node;
-        else y.right = node;
-        node.parent = y;
+        if (node.parent == null) return null;
+        return node.parent;
     }
 
-    /**
-     * 删除元素
-     *
-     * @param key
-     */
-    public void delete(int key) {
-        Node<T> cur = _search(root, key);
-        if (cur == null) return;
-        if (cur.left == null) transplant(cur, cur.right);
-        else if (cur.right == null) transplant(cur, cur.left);
-        else {
-            Node<T> post = minimum(cur.right);
-            if (post.parent != cur) {
-                transplant(post, post.right);
-                post.right = cur.right;
-                post.right.parent = post;
+    @Override
+    public void insert(int key, T data) {
+        insert(new Node<>(key, data));
+    }
+
+    protected void insert(Node<T> x) {
+        Node<T> pre = null, cur = root;
+        while (cur != null) {
+            pre = cur;
+            cur = (x.key <= pre.key ? pre.left : pre.right);
+        }
+        x.parent = pre;
+        if (pre == null) {
+            root = x;
+        } else if (x.key <= pre.key) {
+            pre.left = x;
+        } else {
+            pre.right = x;
+        }
+    }
+
+    @Override
+    public T delete(int key) {
+        Node<T> z = search(root, key);
+        if (z == null) return null;
+        delete(z);
+        return z.data;
+    }
+
+    protected Node<T> delete(Node<T> z) {
+        Node<T> x;
+        if (z.left == null) {
+            x = z.right;
+            transplant(z, z.right);
+        } else if (z.right == null) {
+            x = z.left;
+            transplant(z, z.left);
+        } else {
+            // target 必有两子
+            Node<T> y = x = successor(z); // cur 为 target 后继
+            if (y.parent != z) {
+                if (y.right != null) x = y.right;
+                transplant(y, y.right); // 必无左子
+                y.right = z.right;
+                y.right.parent = y;
             }
-            transplant(cur, post);
-            post.left = cur.left;
-            post.left.parent = post;
+            transplant(z, y);
+            y.left = z.left;
+            y.left.parent = y;
         }
+        //  x        x
+        //   \  or  /
+        //    z    z
+        return x;
     }
 
+    /**
+     * 处理 u.parent 与 v 的链接
+     *
+     * @param u
+     * @param v
+     */
     private void transplant(Node<T> u, Node<T> v) {
-        if (u.parent == null) root = v;
+        if (u == root) root = v;
         else if (u == u.parent.left) u.parent.left = v;
         else u.parent.right = v;
-        if (v != null) v.parent = u.parent;
-    }
-}
-```
-
-- `BinarySearchTreeTest.java`
-
-```java
-public class BinarySearchTreeTest {
-    @Test
-    public void test_bst_simple() {
-        BinarySearchTree<Integer> t = new BSTSimple<Integer>(new int[]{0, 1, 2, 3, 4, 5, 6}, new Integer[]{10, 11, 12, 13, 14, 15, 16});
-        assertEquals((Integer) 10, t.minimum());
-        assertEquals((Integer) 16, t.maximum());
-        assertEquals((Integer) 13, t.search(3));
-        t.delete(1);
-        t.delete(3);
-        assertEquals((Integer) 12, t.search(2));
-        assertEquals((Integer) 10, t.predecessor(2));
-        assertEquals((Integer) 14, t.successor(2));
-    }
-}
-```
-
-由于树节点的管理被屏蔽在数据结构内部，我们可以自己定义一个 `info` 接口来可视化内部结构细节：
-
-- `BinarySearchTree.java`
-
-```java
-public interface BinarySearchTree<T> {
-    // ...
-    
-    /**
-     * 展示结构内容
-     */
-    void info();
-}
-```
-
-- `BSTSimple.java`
-
-```java
-public class BSTSimple<T> implements BinarySearchTree<T> {
-    protected static class Node<T> {
-        // ..
-
-        @Override
-        public String toString() {
-            return "{key=" + key + ", data=" + data + ", left=" + left + ", right=" + right + '}';
+        if (v != null) {
+            v.parent = u.parent;
         }
     }
-    // ...
 
-    /**
-     * 展示结构内容
-     */
-    public void info() {
-        System.out.println("BST: " + root);
+    @Override
+    public int height() {
+        return height(root);
+    }
+
+    protected int height(Node node) {
+        if (node == null) return 0;
+        return Math.max(height(node.left), height(node.right)) + 1;
+    }
+
+    @Override
+    public boolean empty() {
+        return root == null;
+    }
+
+    @Override
+    public int nodes() {
+        return nodes(root);
+    }
+
+    private int nodes(Node node) {
+        if (node == null) return 0;
+        return nodes(node.left) + nodes(node.right) + 1;
+    }
+
+    @Override
+    public void preorder() {
+        preorder(root);
+    }
+
+    private void preorder(Node node) {
+        if (node != null) {
+            System.out.println(node.simple());
+            preorder(node.left);
+            preorder(node.right);
+        }
+    }
+
+    @Override
+    public void inorder() {
+        inorder(root);
+    }
+
+    private void inorder(Node node) {
+        if (node != null) {
+            inorder(node.left);
+            System.out.println(node.simple());
+            inorder(node.right);
+        }
+    }
+
+    @Override
+    public void postorder() {
+        postorder(root);
+    }
+
+    private void postorder(Node node) {
+        if (node != null) {
+            postorder(node.left);
+            postorder(node.right);
+            System.out.println(node.simple());
+        }
+    }
+
+    @Override
+    public void layerOrder() {
+        if (root != null) {
+            Queue<Node> Q = new LinkedList<>();
+            Q.offer(root);
+            while (Q.size() > 0) {
+                Node node = Q.poll();
+                System.out.println(node.simple());
+                if (node.left != null) Q.offer(node.left);
+                if (node.right != null) Q.offer(node.right);
+            }
+        }
+    }
+
+    @Override
+    public String toString() {
+        return "BST: " + (root == null ? "empty" : root.toString());
+    }
+
+    @Override
+    public void tree() {
+        root.tree("");
+    }
+}
+```
+
+### `class BinarySearchTreeTest` 单元测试
+
+```java
+package adt.tree.bst;
+
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+public class BinarySearchTreeTest {
+
+    @Test
+    public void test_1() {
+        BinarySearchTree<Integer> bst = BinarySearchTreeImpl.from(
+                new int[]{1, 3, 5, 7, 9, 11, 13},
+                new Integer[]{10, 30, 50, 70, 90, 110, 130}
+        );
+        bst.tree();
+
+        // traversal
+        System.out.println("--- traversal ---");
+        System.out.println("preorder:");
+        bst.preorder();
+        System.out.println("\ninorder:");
+        bst.inorder();
+        System.out.println("\npostorder:");
+        bst.postorder();
+        System.out.println("\nlayerOrder:");
+        bst.layerOrder();
+
+        // others info
+        System.out.println("--- others info ---");
+        assertEquals(3, bst.height());
+        assertEquals(false, bst.empty());
+        assertEquals(7, bst.nodes());
+
+        // search & predecessor & successor
+        System.out.println("--- search & predecessor & successor ---");
+        assertEquals((Integer) 10, bst.search(1));
+        assertEquals(null, bst.predecessor(1));
+        assertEquals((Integer) 30, bst.successor(1));
+        assertEquals((Integer) 70, bst.search(7));
+        assertEquals((Integer) 50, bst.predecessor(7));
+        assertEquals((Integer) 90, bst.successor(7));
+        assertEquals((Integer) 130, bst.search(13));
+        assertEquals((Integer) 110, bst.predecessor(13));
+        assertEquals(null, bst.successor(13));
+        assertEquals(null, bst.search(8));
+        assertEquals((Integer) 70, bst.predecessor(8));
+        assertEquals((Integer) 90, bst.successor(8));
+        assertEquals(null, bst.search(21));
+        assertEquals((Integer) 130, bst.predecessor(21));
+        assertEquals(null, bst.successor(21));
+
+        // minimum & maximum
+        System.out.println("--- minimum & maximum ---");
+        assertEquals((Integer) 10, bst.minimum());
+        assertEquals((Integer) 130, bst.maximum());
+
+        // delete
+        System.out.println("--- delete ---");
+        Integer d = bst.delete(3);
+        bst.tree();
+        assertEquals((Integer) 30, d);
+        d = bst.delete(9);
+        bst.tree();
+        assertEquals((Integer) 90, d);
+
+        // search & predecessor & successor after delete
+        System.out.println("--- search & predecessor & successor after delete ---");
+        assertEquals((Integer) 10, bst.search(1));
+        assertEquals(null, bst.predecessor(1));
+        assertEquals((Integer) 50, bst.successor(1));
+        assertEquals((Integer) 70, bst.search(7));
+        assertEquals((Integer) 50, bst.predecessor(7));
+        assertEquals((Integer) 110, bst.successor(7));
+        assertEquals((Integer) 130, bst.search(13));
+        assertEquals((Integer) 110, bst.predecessor(13));
+        assertEquals(null, bst.successor(13));
+        assertEquals(null, bst.search(8));
+        assertEquals((Integer) 70, bst.predecessor(8));
+        assertEquals((Integer) 110, bst.successor(8));
+        assertEquals(null, bst.search(21));
+        assertEquals((Integer) 130, bst.predecessor(21));
+        assertEquals(null, bst.successor(21));
+
+        // others info 2
+        System.out.println("--- others info 2 ---");
+        assertEquals(3, bst.height());
+        assertEquals(false, bst.empty());
+        assertEquals(5, bst.nodes());
+    }
+
+    @Test
+    public void test_2() {
+        BinarySearchTree<Integer> bst = BinarySearchTreeImpl.from(
+                new int[]{1, 3, 5, 7, 9, 11, 13, 15, 17},
+                new Integer[]{1, 3, 5, 7, 9, 11, 13, 15, 17}
+        );
+        bst.tree();
+
+        // traversal
+        System.out.println("--- traversal ---");
+        System.out.println("preorder:");
+        bst.preorder();
+        System.out.println("\ninorder:");
+        bst.inorder();
+        System.out.println("\npostorder:");
+        bst.postorder();
+        System.out.println("\nlayerOrder:");
+        bst.layerOrder();
+
+        // others info
+        System.out.println("--- others info ---");
+        assertEquals(4, bst.height());
+        assertEquals(false, bst.empty());
+        assertEquals(9, bst.nodes());
+
+        // search & predecessor & successor
+        System.out.println("--- search & predecessor & successor ---");
+        assertEquals((Integer) 1, bst.search(1));
+        assertEquals(null, bst.predecessor(1));
+        assertEquals((Integer) 3, bst.successor(1));
+        assertEquals((Integer) 7, bst.search(7));
+        assertEquals((Integer) 5, bst.predecessor(7));
+        assertEquals((Integer) 9, bst.successor(7));
+        assertEquals((Integer) 13, bst.search(13));
+        assertEquals((Integer) 11, bst.predecessor(13));
+        assertEquals((Integer) 15, bst.successor(13));
+        assertEquals(null, bst.search(8));
+        assertEquals((Integer) 7, bst.predecessor(8));
+        assertEquals((Integer) 9, bst.successor(8));
+        assertEquals(null, bst.search(21));
+        assertEquals((Integer) 17, bst.predecessor(21));
+        assertEquals(null, bst.successor(21));
+
+        // minimum & maximum
+        System.out.println("--- minimum & maximum ---");
+        assertEquals((Integer) 1, bst.minimum());
+        assertEquals((Integer) 17, bst.maximum());
+
+        // delete
+        System.out.println("--- delete ---");
+        Integer d = bst.delete(3);
+        bst.tree();
+        assertEquals((Integer) 3, d);
+        d = bst.delete(9);
+        bst.tree();
+        assertEquals((Integer) 9, d);
+        d = bst.delete(11);
+        bst.tree();
+        assertEquals((Integer) 11, d);
+
+        // search & predecessor & successor after delete
+        System.out.println("--- search & predecessor & successor after delete ---");
+        assertEquals((Integer) 1, bst.search(1));
+        assertEquals(null, bst.predecessor(1));
+        assertEquals((Integer) 5, bst.successor(1));
+        assertEquals((Integer) 7, bst.search(7));
+        assertEquals((Integer) 5, bst.predecessor(7));
+        assertEquals((Integer) 13, bst.successor(7));
+        assertEquals((Integer) 13, bst.search(13));
+        assertEquals((Integer) 7, bst.predecessor(13));
+        assertEquals((Integer) 15, bst.successor(13));
+        assertEquals(null, bst.search(8));
+        assertEquals((Integer) 7, bst.predecessor(8));
+        assertEquals((Integer) 13, bst.successor(8));
+        assertEquals(null, bst.search(21));
+        assertEquals((Integer) 17, bst.predecessor(21));
+        assertEquals(null, bst.successor(21));
+
+        // others info 2
+        System.out.println("--- others info 2 ---");
+        assertEquals(3, bst.height());
+        assertEquals(false, bst.empty());
+        assertEquals(6, bst.nodes());
     }
 }
 ```

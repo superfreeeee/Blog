@@ -163,6 +163,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>ADT: Graph 图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109517708">https://blog.csdn.net/weixin_44691608/article/details/109517708</a></td></tr>
     <tr><td>ADT: Disjoint Set 并查集（不相交集合）（Java 实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111054000">https://blog.csdn.net/weixin_44691608/article/details/111054000</a></td></tr>
     <tr><td>ADT: Trie Tree 字典树(附 Java 实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113576177">https://blog.csdn.net/weixin_44691608/article/details/113576177</a></td></tr>
+    <tr><td>ADT: AVL Tree 平衡二叉搜索树(附Java实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113621249">https://blog.csdn.net/weixin_44691608/article/details/113621249</a></td></tr>
     <tr><td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td></tr>
     <tr><td>Sorting 排序算法: Merge Sort 归并排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109366500">https://blog.csdn.net/weixin_44691608/article/details/109366500</a></td></tr>
     <tr><td>Sorting 排序算法: Quick Sort 快速排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109375473">https://blog.csdn.net/weixin_44691608/article/details/109375473</a></td></tr>
