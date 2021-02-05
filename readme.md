@@ -150,11 +150,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr><td>Docker: Mac 上的 Ubuntu 环境搭建<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109676334">https://blog.csdn.net/weixin_44691608/article/details/109676334</a></td></tr>
     <tr>
-        <td rowspan="1">design_pattern</td>
-        <td>設計模式：StrategyPattern策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
+        <td rowspan="2">design_pattern</td>
+        <td>設計模式：Strategy Pattern 策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
     </tr>
+    <tr><td>设计模式: Builder Pattern 生成器模式(创建者模式)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113695438">https://blog.csdn.net/weixin_44691608/article/details/113695438</a></td></tr>
     <tr>
-        <td rowspan="13">adt&algorithm</td>
+        <td rowspan="14">adt&algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
     </tr>
     <tr><td>ADT: Queue 队列<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109409188">https://blog.csdn.net/weixin_44691608/article/details/109409188</a></td></tr>
@@ -188,12 +189,14 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">network</td>
         <td>一次搞懂 URI、URL、URN<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111145088">https://blog.csdn.net/weixin_44691608/article/details/111145088</a></td>
     </tr>
-    <tr><td ><br/><a href=""></tr>
+    <tr><td><br/><a href=""></a></td></tr>
 </table>
 
 ## Update Log 更新日志
 
-- 105 篇
+- 2/3: 104 篇
+- [x] adt&algorithm/ADT: AVL Tree 平衡二叉搜索树(附Java实现)
+- [x] design_pattern/设计模式: Builder Pattern 生成器模式(创建者模式)
 
 # 以下為預備內容
 

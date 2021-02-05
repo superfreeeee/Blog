@@ -1,19 +1,19 @@
-# Strategy Pattern 策略模式
+# 设计模式: Strategy Pattern 策略模式
 
 @[TOC](文章目錄)
 
 <!-- TOC -->
 
-- [Strategy Pattern 策略模式](#strategy-pattern-策略模式)
-    - [簡介](#簡介)
-    - [參考](#參考)
+- [设计模式: Strategy Pattern 策略模式](#设计模式-strategy-pattern-策略模式)
+  - [簡介](#簡介)
+  - [參考](#參考)
 - [正文](#正文)
-    - [應用場景](#應用場景)
-    - [Roles 角色](#roles-角色)
-    - [舉例：計算器（Java 實現）](#舉例計算器java-實現)
-        - [角色對應](#角色對應)
-        - [Classes Definition 類定義](#classes-definition-類定義)
-        - [Benefit 優勢](#benefit-優勢)
+  - [應用場景](#應用場景)
+  - [Roles 角色](#roles-角色)
+  - [舉例：計算器（Java 實現）](#舉例計算器java-實現)
+    - [角色對應](#角色對應)
+    - [Classes Definition 類定義](#classes-definition-類定義)
+    - [Benefit 優勢](#benefit-優勢)
 - [結語](#結語)
 
 <!-- /TOC -->
