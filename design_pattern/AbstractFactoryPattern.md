@@ -106,7 +106,7 @@
 /* 抽象产品类型：ProductA.java */
 public interface ProductA {}
 
-/* 抽象产品类型：ProductB.java *actory.classic;
+/* 抽象产品类型：ProductB.java */
 public interface ProductB {}
 ```
 

@@ -150,11 +150,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr><td>Docker: Mac 上的 Ubuntu 环境搭建<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109676334">https://blog.csdn.net/weixin_44691608/article/details/109676334</a></td></tr>
     <tr>
-        <td rowspan="2">design_pattern</td>
+        <td rowspan="3">design_pattern</td>
         <td>設計模式：Strategy Pattern 策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
     </tr>
     <tr><td>设计模式: Builder Pattern 生成器模式(创建者模式)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113695438">https://blog.csdn.net/weixin_44691608/article/details/113695438</a></td></tr>
     <tr><td>设计模式: Abstract Factory 抽象工厂模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113731955">https://blog.csdn.net/weixin_44691608/article/details/113731955</a></td></tr>
+    <tr><td>设计模式: Factory Method 工厂方法模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113733888">https://blog.csdn.net/weixin_44691608/article/details/113733888</a></td></tr>
     <tr>
         <td rowspan="14">adt&algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
@@ -195,11 +196,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
-- 2/3: 104 篇
+- 2/3: 105 篇
 - [x] adt&algorithm/ADT: AVL Tree 平衡二叉搜索树(附Java实现)
 - [x] design_pattern/设计模式: Builder Pattern 生成器模式(创建者模式)
 - [x] design_pattern/设计模式: Abstract Factory 抽象工厂模式
-- [ ] design_pattern/Factory Method
+- [x] design_pattern/设计模式: Factory Method 工厂方法模式
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
