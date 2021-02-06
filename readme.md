@@ -2,7 +2,7 @@
 
 每日一博客，記錄學習路徑和技術細節
 
-## Articles 文章列表（發佈於 CSDN）& Reference 參考鏈接總匯
+## Articles 文章列表（附CSDN文章链接）
 
 CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的博客-CSDN</a>
 代码仓库链接：<a href="https://github.com/superfreeeee/Blog-code">https://github.com/superfreeeee/Blog-code</a>
@@ -154,6 +154,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>設計模式：Strategy Pattern 策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
     </tr>
     <tr><td>设计模式: Builder Pattern 生成器模式(创建者模式)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113695438">https://blog.csdn.net/weixin_44691608/article/details/113695438</a></td></tr>
+    <tr><td>设计模式: Abstract Factory 抽象工厂模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113731955">https://blog.csdn.net/weixin_44691608/article/details/113731955</a></td></tr>
     <tr>
         <td rowspan="14">adt&algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
@@ -197,6 +198,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - 2/3: 104 篇
 - [x] adt&algorithm/ADT: AVL Tree 平衡二叉搜索树(附Java实现)
 - [x] design_pattern/设计模式: Builder Pattern 生成器模式(创建者模式)
+- [x] design_pattern/设计模式: Abstract Factory 抽象工厂模式
+- [ ] design_pattern/Factory Method
+- [ ] design_pattern/Prototype
+- [ ] design_pattern/Singleton
 
 # 以下為預備內容
 
@@ -206,7 +211,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 | title | link |
 | ----- | ---- |
-
 
 ### NumPy: function
 
