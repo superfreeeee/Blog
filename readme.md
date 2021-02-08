@@ -70,13 +70,14 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Express 实战: 使用 express-static 处理静态资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111072904">https://blog.csdn.net/weixin_44691608/article/details/111072904</a></td></tr>
     <tr><td>Express 实战: 连接 MySQL 数据库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111772113">https://blog.csdn.net/weixin_44691608/article/details/111772113</a></td></tr>
     <tr>
-        <td rowspan="5">front_end/others</td>
+        <td rowspan="6">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
     </tr>
     <tr><td>js-cookie：轻量级 cookie 框架<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106472130">https://blog.csdn.net/weixin_44691608/article/details/106472130</a></td></tr>
     <tr><td>NProgress：簡單進度條<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106473846">https://blog.csdn.net/weixin_44691608/article/details/106473846</a></td></tr>
     <tr><td>Clipboard：黏貼簿操作<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106518248">https://blog.csdn.net/weixin_44691608/article/details/106518248</a></td></tr>
     <tr><td>Gitgraph：製作 Git 分支圖<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106891387">https://blog.csdn.net/weixin_44691608/article/details/106891387</a></td></tr>
+    <tr><td>Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113765479">https://blog.csdn.net/weixin_44691608/article/details/113765479</a></td></tr>
     <tr>
         <td rowspan="2">front_end/babel</td>
         <td>Babel 入門：JavaScript 的下一代編譯器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106579653">https://blog.csdn.net/weixin_44691608/article/details/106579653</a></td>
@@ -203,6 +204,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] design_pattern/设计模式: Abstract Factory 抽象工厂模式
 - [x] design_pattern/设计模式: Factory Method 工厂方法模式
 - [x] design_pattern/设计模式: Observer 观察者模式
+- [x] front_end/others/Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
