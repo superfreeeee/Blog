@@ -170,6 +170,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>ADT: Disjoint Set 并查集（不相交集合）（Java 实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111054000">https://blog.csdn.net/weixin_44691608/article/details/111054000</a></td></tr>
     <tr><td>ADT: Trie Tree 字典树(附 Java 实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113576177">https://blog.csdn.net/weixin_44691608/article/details/113576177</a></td></tr>
     <tr><td>ADT: AVL Tree 平衡二叉搜索树(附Java实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113621249">https://blog.csdn.net/weixin_44691608/article/details/113621249</a></td></tr>
+    <tr><td>ADT: Red-Black Tree 红黑树详解(附完整实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113820374">https://blog.csdn.net/weixin_44691608/article/details/113820374</a></td></tr>
     <tr><td>Sorting 排序算法: Insertion Sort 插入排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109365771">https://blog.csdn.net/weixin_44691608/article/details/109365771</a></td></tr>
     <tr><td>Sorting 排序算法: Merge Sort 归并排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109366500">https://blog.csdn.net/weixin_44691608/article/details/109366500</a></td></tr>
     <tr><td>Sorting 排序算法: Quick Sort 快速排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109375473">https://blog.csdn.net/weixin_44691608/article/details/109375473</a></td></tr>
@@ -207,6 +208,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] design_pattern/设计模式: Observer 观察者模式
 - [x] front_end/others/Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)
 - [x] design_pattern/设计模式: Mediator 中介者模式
+- [x] adt&algorithm/ADT: Red-Black Tree 红黑树详解(附完整实现)
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
