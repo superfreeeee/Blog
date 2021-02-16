@@ -110,6 +110,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Java 進階：ExecutorService 線程池<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107183108">https://blog.csdn.net/weixin_44691608/article/details/107183108</a></td></tr>
     <tr><td>Java 进阶：Reflect 反射机制（动态获取类内部结构和对象内容、调用方法）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111413301">https://blog.csdn.net/weixin_44691608/article/details/111413301</a></td></tr>
     <tr><td>Java 应用：Reflect 封装，一次实现使用字符串查找字段、调用方法、打破 private 限制<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111570524">https://blog.csdn.net/weixin_44691608/article/details/111570524</a></td></tr>
+    <tr><td>Java 踩坑笔记: YYYY-MM-dd 的误用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113823638">https://blog.csdn.net/weixin_44691608/article/details/113823638</a></td></tr>
     <tr>
         <td rowspan="8">back_end/spring</td>
         <td>SpringBoot 項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
@@ -160,7 +161,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>设计模式: Observer 观察者模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113757262">https://blog.csdn.net/weixin_44691608/article/details/113757262</a></td></tr>
     <tr><td>设计模式: Mediator 中介者模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113800491">https://blog.csdn.net/weixin_44691608/article/details/113800491</a></td></tr>
     <tr>
-        <td rowspan="14">adt&algorithm</td>
+        <td rowspan="15">adt&algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
     </tr>
     <tr><td>ADT: Queue 队列<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109409188">https://blog.csdn.net/weixin_44691608/article/details/109409188</a></td></tr>
@@ -209,6 +210,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/others/Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)
 - [x] design_pattern/设计模式: Mediator 中介者模式
 - [x] adt&algorithm/ADT: Red-Black Tree 红黑树详解(附完整实现)
+- [x] back_end/java/Java 踩坑笔记: YYYY-MM-dd 的误用
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
