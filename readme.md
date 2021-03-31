@@ -11,7 +11,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">Group 分组</th>
     <th align="left">Title 标题</th>
     <tr>
-        <td rowspan="16">front_end/javascript</td>
+        <td rowspan="17">front_end/javascript</td>
         <td>JS 基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
     </tr>
     <tr><td>JS 基礎：對象的可修改性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105915717">https://blog.csdn.net/weixin_44691608/article/details/105915717</a></td></tr>
@@ -29,6 +29,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 基础: 你真的了解 console 吗？<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111306844">https://blog.csdn.net/weixin_44691608/article/details/111306844</a></td></tr>
     <tr><td>JS 实战: Drag 点击拖曳效果<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110820996">https://blog.csdn.net/weixin_44691608/article/details/110820996</a></td></tr>
     <tr><td>JS 动画基础: 细说 requestAnimationFrame<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115315566">https://blog.csdn.net/weixin_44691608/article/details/115315566</a></td></tr>
+    <tr><td>JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115365321">https://blog.csdn.net/weixin_44691608/article/details/115365321</a></td></tr>
     <tr>
         <td rowspan="2">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
@@ -217,6 +218,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] design_pattern/设计模式: Proxy 代理模式
 ---
 - [x] front_end/javascript/JS 动画基础: 细说 requestAnimationFrame
+- [x] front_end/javascript/JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
