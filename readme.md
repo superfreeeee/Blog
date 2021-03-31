@@ -148,6 +148,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Cpp 進階：Map 映射表<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107115098">https://blog.csdn.net/weixin_44691608/article/details/107115098</a></td></tr>
     <tr><td>Cpp 進階：String 字符串<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107127829">https://blog.csdn.net/weixin_44691608/article/details/107127829</a></td></tr>
     <tr><td>Cpp 进阶：Smart Pointer 智能指针<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109728922">https://blog.csdn.net/weixin_44691608/article/details/109728922</a></td></tr>
+    <tr><td>C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115365340">https://blog.csdn.net/weixin_44691608/article/details/115365340</a></td></tr>
     <tr>
         <td rowspan="2">deployment/docker</td>
         <td>Docker：部署入門 + 常用指令<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107208251">https://blog.csdn.net/weixin_44691608/article/details/107208251</a></td>
@@ -219,6 +220,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 ---
 - [x] front_end/javascript/JS 动画基础: 细说 requestAnimationFrame
 - [x] front_end/javascript/JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)
+- [x] back_end/cpp/C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
