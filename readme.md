@@ -57,12 +57,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>CSS 基礎：Specificity權重（優先級）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106649186">https://blog.csdn.net/weixin_44691608/article/details/106649186</a></td></tr>
     <tr><td>CSS 進階：Media Query 媒體查詢<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106651135">https://blog.csdn.net/weixin_44691608/article/details/106651135</a></td></tr>
     <tr>
-        <td rowspan="4">front_end/html</td>
+        <td rowspan="5">front_end/html</td>
         <td>HTML 基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
     </tr>
     <tr><td>HTML 基礎：Input 輸入框<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106839246">https://blog.csdn.net/weixin_44691608/article/details/106839246</a></td></tr>
     <tr><td>Canvas 实战: 水波图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110413644">https://blog.csdn.net/weixin_44691608/article/details/110413644</a></td></tr>
     <tr><td>Canvas 实战: 实现纯前端图形验证码（Graph Verification Code）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111737964">https://blog.csdn.net/weixin_44691608/article/details/111737964</a></td></tr>
+    <tr><td>`＜script＞` 标签的加载和执行时机<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115380702">https://blog.csdn.net/weixin_44691608/article/details/115380702</a></td></tr>
     <tr>
         <td rowspan="5">front_end/node</td>
         <td>Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
@@ -205,6 +206,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
+---
 - 2/3: 105 篇
 - [x] adt&algorithm/ADT: AVL Tree 平衡二叉搜索树(附Java实现)
 - [x] design_pattern/设计模式: Builder Pattern 生成器模式(创建者模式)
@@ -212,15 +214,19 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] design_pattern/设计模式: Factory Method 工厂方法模式
 - [x] design_pattern/设计模式: Observer 观察者模式
 ---
+- 累计 110 篇
 - [x] front_end/others/Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)
 - [x] design_pattern/设计模式: Mediator 中介者模式
 - [x] adt&algorithm/ADT: Red-Black Tree 红黑树详解(附完整实现)
 - [x] back_end/java/Java 踩坑笔记: YYYY-MM-dd 的误用
 - [x] design_pattern/设计模式: Proxy 代理模式
 ---
+- 累计 115 篇
 - [x] front_end/javascript/JS 动画基础: 细说 requestAnimationFrame
 - [x] front_end/javascript/JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)
 - [x] back_end/cpp/C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)
+- [x] front_end/html/`＜script＞` 标签的加载和执行时机
+---
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
@@ -233,69 +239,20 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 | title | link |
 | ----- | ---- |
 
-### NumPy: function
 
-### TS: Configuration 配置
-
-### ESLint: Configuration 配置
-
-### HTML: SVG
-
-### Cpp: set
-
-### Cpp: list
-
-#### Cpp: priority
-
-### SpringBoot: Mybatis 詳解
-
-### SpringBoot: Configuration、Bean 詳解
-
-| title                                             | link                                               |
-| ------------------------------------------------- | -------------------------------------------------- |
-| SpringBoot - @Configuration、@Bean 注解的使用详解 | https://www.hangge.com/blog/cache/detail_2506.html |
-
-### SpringBoot Interceptor 攔截器
-
-| title                           | link                                               |
-| ------------------------------- | -------------------------------------------------- |
-| SpringBoot - 拦截器的注册和使用 | https://www.hangge.com/blog/cache/detail_2507.html |
-
-### SpringBoot Exception Handler 異常處理
-
-| title                               | link                                                             |
-| ----------------------------------- | ---------------------------------------------------------------- |
-| Error Handling for REST with Spring | https://www.baeldung.com/exception-handling-for-rest-with-spring |
-| SpringBoot 全局异常准备             | https://www.cnblogs.com/xuwujing/p/10933082.html                 |
-
-### Java DateTime
-
-| title                             | link                                            |
-| --------------------------------- | ----------------------------------------------- |
-| Java 8 的日期與時間(Date-Time)API | https://magiclen.org/java-8-date-time-api/      |
-| Java 日期时间-菜鸟教程            | https://www.runoob.com/java/java-date-time.html |
-
-### Java: java.util.function
-
-### Java: Thread
-
-### Java: Future
-
-### Java: 鎖
-
-### ES6 Reflect
+- ES6 Reflect
 
 | title            | link                                 |
 | ---------------- | ------------------------------------ |
 | Proxy 和 Reflect | http://caibaojian.com/es6/proxy.html |
 
-### fe_others: storybook
+- fe_others: storybook
 
 | title     | link                      |
 | --------- | ------------------------- |
 | storybook | https://storybook.js.org/ |
 
-### git conflict
+- git conflict
 
 | title                                     | link                                           |
 | ----------------------------------------- | ---------------------------------------------- |
@@ -304,47 +261,45 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 | Git-如何解決合併衝突                      | https://ithelp.ithome.com.tw/articles/10211792 |
 | Git-fast-forward 快轉模式                 | https://ithelp.ithome.com.tw/articles/10211795 |
 
-### webpack: babel-loader
+- webpack
+  - webpack: babel-loader
+  - webpack: html-webpack-plugin
+  - webpack: resolve-path-webpack-plugin
 
-### webpack: html-webpack-plugin
+- node: path
 
-### webpack: resolve-path-webpack-plugin
-
-### node: path
-
-### parcel
+- parcel
 
 | title                             | link                                             |
 | --------------------------------- | ------------------------------------------------ |
 | 前端构建工具之争——Webpack vs Gulp | https://juejin.im/entry/5a4470f85188252b145b5742 |
 | parcel 官方                       | https://parceljs.org/                            |
 
-### css length
+- css length
 
 | title                                | link                                                         |
 | ------------------------------------ | ------------------------------------------------------------ |
 | 徹底理解 UI 及 Web 的尺寸單位        | https://medium.com/uxabc/understanding-ui-units-8acdc0575388 |
 | 網頁和行動裝置介面設計的尺寸單位(三) | https://medium.com/@syuemingyu/b1324feff907                  |
 
-### css transition
+- css transition
 
 | title    | link                                                             |
 | -------- | ---------------------------------------------------------------- |
 | CSS 变换 | https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Transitions |
 
-### css animation
+- css animation
 
 | title          | link                                                            |
 | -------------- | --------------------------------------------------------------- |
 | CSS Animations | https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Animations |
 
-## unsolved links
+- unsolved links
 
 | title                          | link                                                                            |
 | ------------------------------ | ------------------------------------------------------------------------------- |
 | Pointfree 编程风格指南         | https://www.ruanyifeng.com/blog/2017/03/pointfree.html                          |
 | Pointfree Javascript           | http://lucasmreis.github.io/blog/pointfree-javascript/                          |
-| Favoring Curry                 | https://fr.umio.us/favoring-curry/                                              |
 | Curry and Function Composition | https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983 |
 | Thunk                          | https://en.wikipedia.org/wiki/Thunk                                             |
 | 浏览器渲染引擎「内核」         | https://github.com/zwwill/blog/issues/2                                         |
