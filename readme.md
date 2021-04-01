@@ -63,7 +63,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>HTML 基礎：Input 輸入框<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106839246">https://blog.csdn.net/weixin_44691608/article/details/106839246</a></td></tr>
     <tr><td>Canvas 实战: 水波图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110413644">https://blog.csdn.net/weixin_44691608/article/details/110413644</a></td></tr>
     <tr><td>Canvas 实战: 实现纯前端图形验证码（Graph Verification Code）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111737964">https://blog.csdn.net/weixin_44691608/article/details/111737964</a></td></tr>
-    <tr><td>`＜script＞` 标签的加载和执行时机<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115380702">https://blog.csdn.net/weixin_44691608/article/details/115380702</a></td></tr>
+    <tr><td>`&lt;script&gt;` 标签与 defer、async 属性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115380702">https://blog.csdn.net/weixin_44691608/article/details/115380702</a></td></tr>
     <tr>
         <td rowspan="5">front_end/node</td>
         <td>Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
@@ -142,7 +142,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>C 基础: Enum 枚举类型<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110928032">https://blog.csdn.net/weixin_44691608/article/details/110928032</a></td></tr>
     <tr><td>C 进阶: Var Args 可变参数<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110931705">https://blog.csdn.net/weixin_44691608/article/details/110931705</a></td></tr>
     <tr>
-        <td rowspan="5">back_end/cpp</td>
+        <td rowspan="6">back_end/cpp</td>
         <td>Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
     </tr>
     <tr><td>Cpp 進階：Vector 向量<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107045275">https://blog.csdn.net/weixin_44691608/article/details/107045275</a></td></tr>
@@ -225,7 +225,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/javascript/JS 动画基础: 细说 requestAnimationFrame
 - [x] front_end/javascript/JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)
 - [x] back_end/cpp/C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)
-- [x] front_end/html/`＜script＞` 标签的加载和执行时机
+- [x] front_end/html/`<script>` 标签与 defer、async 属性
 ---
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton

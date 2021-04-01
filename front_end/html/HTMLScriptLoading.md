@@ -1,10 +1,10 @@
-# `<script>` 标签的加载和执行时机
+# `<script>` 标签与 defer、async 属性
 
 @[TOC](文章目录)
 
 <!-- TOC -->
 
-- [`<script>` 标签的加载和执行时机](#script-标签的加载和执行时机)
+- [`<script>` 标签与 defer、async 属性](#script-标签与-deferasync-属性)
   - [简介](#简介)
   - [参考](#参考)
   - [完整示例代码](#完整示例代码)
