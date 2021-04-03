@@ -198,9 +198,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>编译原理: Subset Construction 子集构造法(幂集构造)(NFA转DFA)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110213913">https://blog.csdn.net/weixin_44691608/article/details/110213913</a></td></tr>
     <tr><td>编译原理: 最小化 DFA(划分) & 验证 DFA(Kleene 闭包)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110440659">https://blog.csdn.net/weixin_44691608/article/details/110440659</a></td></tr>
     <tr>
-        <td rowspan="1">network</td>
+        <td rowspan="2">network</td>
         <td>一次搞懂 URI、URL、URN<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111145088">https://blog.csdn.net/weixin_44691608/article/details/111145088</a></td>
     </tr>
+    <tr><td>Http 缓存: 强缓存与协商缓存<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115423858">https://blog.csdn.net/weixin_44691608/article/details/115423858</a></td></tr>
     <tr><td><br/><a href=""></a></td></tr>
 </table>
 
@@ -226,7 +227,9 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/javascript/JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)
 - [x] back_end/cpp/C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)
 - [x] front_end/html/`<script>` 标签与 defer、async 属性
+- [x] network/Http 缓存: 强缓存与协商缓存
 ---
+- 累计 120 篇
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
