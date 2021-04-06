@@ -30,6 +30,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 实战: Drag 点击拖曳效果<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110820996">https://blog.csdn.net/weixin_44691608/article/details/110820996</a></td></tr>
     <tr><td>JS 动画基础: 细说 requestAnimationFrame<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115315566">https://blog.csdn.net/weixin_44691608/article/details/115315566</a></td></tr>
     <tr><td>JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115365321">https://blog.csdn.net/weixin_44691608/article/details/115365321</a></td></tr>
+    <tr><td>JS 前端路由：单页面应用的路由原理和实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115462057">https://blog.csdn.net/weixin_44691608/article/details/115462057</a></td></tr>
     <tr>
         <td rowspan="2">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
@@ -230,6 +231,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] network/Http 缓存: 强缓存与协商缓存
 ---
 - 累计 120 篇
+- [x] front_end/javascript/JS 前端路由：单页面应用的路由原理和实现
 - [ ] design_pattern/Prototype
 - [ ] design_pattern/Singleton
 
