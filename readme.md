@@ -101,8 +101,9 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue 源码实现: Data Binding 双向数据绑定（使用 Object.defineProperty 实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111121845">https://blog.csdn.net/weixin_44691608/article/details/111121845</a></td></tr>
     <tr><td>Vue 源码实现: Reactive Data 响应式对象 Vue3 实现（使用 Proxy 实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111940483">https://blog.csdn.net/weixin_44691608/article/details/111940483</a></td></tr>
     <tr>
-        <td rowspan="1">front_end/react</td>
+        <td rowspan="2">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
+    <tr><td>React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116363154">https://blog.csdn.net/weixin_44691608/article/details/116363154</a></td></tr>
     </tr>
     <tr>
         <td rowspan="9">back_end/java</td>
@@ -239,8 +240,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/javascript/JS 前端路由：单页面应用的路由原理和实现
 - [x] others/encoding/Base64 & Base64URL 编码方案(附 js 代码实现)
 - [x] front_end/javascript/JS 动画：给网页下个雪吧
-- [ ] design_pattern/Prototype
-- [ ] design_pattern/Singleton
+- [x] front_end/react/React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)
 
 # 以下為預備內容
 
