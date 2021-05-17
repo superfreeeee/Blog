@@ -39,7 +39,7 @@
 - [结语](#结语)
 - [其他资源](#其他资源)
   - [参考连接](#参考连接)
-  - [完整代码参考](#完整代码参考)
+  - [阅读笔记参考](#阅读笔记参考)
 
 <!-- /TOC -->
 
@@ -1304,6 +1304,6 @@ export function stateMixin (Vue: Class<Component>) {
   </tr>
 </table>
 
-## 完整代码参考
+## 阅读笔记参考
 
 <a href="https://github.com/superfreeeee/Blog-code/tree/main/source_code_research/vue-2.6.12">https://github.com/superfreeeee/Blog-code/tree/main/source_code_research/vue-2.6.12</a>
