@@ -35,10 +35,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 基础: 从 5 种创建对象的方式看 new 操作符的作用与实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116931811">https://blog.csdn.net/weixin_44691608/article/details/116931811</a></td></tr>
     <tr><td>JS 基础: JavaScript 中 4 种继承方式 & instanceof 实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116965356">https://blog.csdn.net/weixin_44691608/article/details/116965356</a></td></tr>
     <tr>
-        <td rowspan="2">front_end/typescript</td>
+        <td rowspan="3">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
     </tr>
     <tr><td>TS 基礎：Interface接口<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872267">https://blog.csdn.net/weixin_44691608/article/details/105872267</a></td></tr>
+    <tr><td>TS 基础: 运用 TypeScript 进行开发的 5 种方式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117094833">https://blog.csdn.net/weixin_44691608/article/details/117094833</a></td></tr>
     <tr>
         <td rowspan="10">front_end/es6</td>
         <td>ES6 特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>
@@ -257,6 +258,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/vue/Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析(长文慎入！)
 ---
 - 累计 130 篇
+- [x] front_end/typescript/TS 基础: 运用 TypeScript 进行开发的 5 种方式
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 
 # 以下為預備內容
