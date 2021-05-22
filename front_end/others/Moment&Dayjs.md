@@ -33,7 +33,7 @@
 - [结语](#结语)
 - [其他资源](#其他资源)
   - [参考连接](#参考连接)
-  - [阅读笔记参考](#阅读笔记参考)
+  - [完整代码示例](#完整代码示例)
 
 <!-- /TOC -->
 
@@ -1030,6 +1030,6 @@ moment.js 算是比较早期，同时经过多次版本的更新，不断有新�
 | Moment.js官方推荐使用其它时间处理库代替 | [https://www.w3cschool.cn/article/b0266c23d158f0.html](https://www.w3cschool.cn/article/b0266c23d158f0.html) |
 |                                         | []()                                                                                                         |
 
-## 阅读笔记参考
+## 完整代码示例
 
 [https://github.com/superfreeeee/Blog-code/tree/main/front_end/others/moment-dayjs](https://github.com/superfreeeee/Blog-code/tree/main/front_end/others/moment-dayjs)

@@ -53,6 +53,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>ES6 特性：Proxy 代理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107025482">https://blog.csdn.net/weixin_44691608/article/details/107025482</a></td></tr>
     <tr><td>ES6 Promise 应用: 回调函数方法封装成 Promise + async/await 同步化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111878730">https://blog.csdn.net/weixin_44691608/article/details/111878730</a></td></tr>
     <tr><td>ES6 实战: 手写 Promise<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110474497">https://blog.csdn.net/weixin_44691608/article/details/110474497</a></td></tr>
+    <tr><td>ES7 提案: Decorators 装饰器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117180409">https://blog.csdn.net/weixin_44691608/article/details/117180409</a></td></tr>
     <tr>
         <td rowspan="6">front_end/css</td>
         <td>CSS 進階：Flex彈性盒子<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105980289">https://blog.csdn.net/weixin_44691608/article/details/105980289</a></td>
@@ -261,7 +262,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - 累计 130 篇
 - [x] front_end/typescript/TS 基础: 运用 TypeScript 进行开发的 5 种方式
 - [x] front_end/others/Moment.js & Day.js 时间日期类库
-- [ ] 
+- [x] front_end/es6/ES7 提案: Decorators 装饰器
 - [ ] 
 - [ ] 
 

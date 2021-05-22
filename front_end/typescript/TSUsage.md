@@ -22,7 +22,7 @@
 - [结语](#结语)
 - [其他资源](#其他资源)
   - [参考连接](#参考连接)
-  - [阅读笔记参考](#阅读笔记参考)
+  - [完整代码示例](#完整代码示例)
 
 <!-- /TOC -->
 
@@ -486,6 +486,6 @@ TypeScript 使得自由却混乱的 JS 得到类型的约束，同时也在一�
 | nodemon 首页                    | [https://nodemon.io/](https://nodemon.io/)                                                                                         |
 | nodemon - github                | [https://github.com/remy/nodemon](https://github.com/remy/nodemon)                                                                 |
 
-## 阅读笔记参考
+## 完整代码示例
 
 [https://github.com/superfreeeee/Blog-code/tree/main/front_end/typescript/ts_usage](https://github.com/superfreeeee/Blog-code/tree/main/front_end/typescript/ts_usage)
