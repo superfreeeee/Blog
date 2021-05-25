@@ -1,11 +1,11 @@
-# Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析(长文慎入！)
+# Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析
 
 @[TOC](文章目录)
 
 <!-- TOC -->
 
-- [Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析(长文慎入！)](#vue2-源码解析-mvvm-双向绑定2---虚拟-dom--diff-算法原理深度解析长文慎入)
-- [前言](#前言)
+- [Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析](#vue2-源码解析-mvvm-双向绑定2---虚拟-dom--diff-算法原理深度解析)
+- [前言(长文慎入！)](#前言长文慎入)
   - [回顾：MVVM 实现细化](#回顾mvvm-实现细化)
   - [Render Proxy 渲染代理](#render-proxy-渲染代理)
   - [Render Proxy 实现方案：虚拟 DOM](#render-proxy-实现方案虚拟-dom)
@@ -57,7 +57,7 @@
 
 <!-- /TOC -->
 
-# 前言
+# 前言(长文慎入！)
 
 前一篇 <a href="https://blog.csdn.net/weixin_44691608/article/details/116776465">Vue2 源码解析: MVVM 双向绑定1 - 响应式原理(数据观测/响应)</a> 解析 Vue2 使用 `Object.defineProperty` 为基础构建的响应式数据原理具体实现机制，本篇将来说明 MVVM 实现的第二阶段：**虚拟 DOM(Virtual DOM)**
 

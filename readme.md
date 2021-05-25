@@ -41,7 +41,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>TS 基礎：Interface接口<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872267">https://blog.csdn.net/weixin_44691608/article/details/105872267</a></td></tr>
     <tr><td>TS 基础: 运用 TypeScript 进行开发的 5 种方式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117094833">https://blog.csdn.net/weixin_44691608/article/details/117094833</a></td></tr>
     <tr>
-        <td rowspan="10">front_end/es6</td>
+        <td rowspan="11">front_end/es6</td>
         <td>ES6 特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>
     </tr>
     <tr><td>ES6 特性：DestructuringAssignment解構賦值<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105903245">https://blog.csdn.net/weixin_44691608/article/details/105903245</a></td></tr>
@@ -100,7 +100,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr><td>Webpack：clean-webpack-plugin 清理資源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106753972">https://blog.csdn.net/weixin_44691608/article/details/106753972</a></td></tr>
     <tr>
-        <td rowspan="7">front_end/vue</td>
+        <td rowspan="8">front_end/vue</td>
         <td>Vue 項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105879105">https://blog.csdn.net/weixin_44691608/article/details/105879105</a></td>
     </tr>
     <tr><td>Vue：Vuex 狀態管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106747207">https://blog.csdn.net/weixin_44691608/article/details/106747207</a></td></tr>
@@ -108,7 +108,8 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue 源码实现: Reactive Data 响应式对象 Vue3 实现（使用 Proxy 实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111940483">https://blog.csdn.net/weixin_44691608/article/details/111940483</a></td></tr>
     <tr><td>Vue 源码解析: 生命周期钩子全面剖析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116576241">https://blog.csdn.net/weixin_44691608/article/details/116576241</a></td></tr>
     <tr><td>Vue2 源码解析: MVVM 双向绑定1 - 响应式原理(数据观测/响应)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116776465">https://blog.csdn.net/weixin_44691608/article/details/116776465</a></td></tr>
-    <tr><td>Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析(长文慎入！)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117040247">https://blog.csdn.net/weixin_44691608/article/details/117040247</a></td></tr>
+    <tr><td>Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117040247">https://blog.csdn.net/weixin_44691608/article/details/117040247</a></td></tr>
+    <tr><td>Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117271041">https://blog.csdn.net/weixin_44691608/article/details/117271041</a></td></tr>
     <tr>
         <td rowspan="2">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
@@ -263,7 +264,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/typescript/TS 基础: 运用 TypeScript 进行开发的 5 种方式
 - [x] front_end/others/Moment.js & Day.js 时间日期类库
 - [x] front_end/es6/ES7 提案: Decorators 装饰器
-- [ ] 
+- [x] front_end/vue/Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现
 - [ ] 
 
 # 以下為預備內容
