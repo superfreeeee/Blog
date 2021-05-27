@@ -111,9 +111,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117040247">https://blog.csdn.net/weixin_44691608/article/details/117040247</a></td></tr>
     <tr><td>Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117271041">https://blog.csdn.net/weixin_44691608/article/details/117271041</a></td></tr>
     <tr>
-        <td rowspan="2">front_end/react</td>
+        <td rowspan="3">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
     <tr><td>React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116363154">https://blog.csdn.net/weixin_44691608/article/details/116363154</a></td></tr>
+    <tr><td>React 入门: 核心特性全面解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117343164">https://blog.csdn.net/weixin_44691608/article/details/117343164</a></td></tr>
     </tr>
     <tr>
         <td rowspan="9">back_end/java</td>
@@ -265,6 +266,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/others/Moment.js & Day.js 时间日期类库
 - [x] front_end/es6/ES7 提案: Decorators 装饰器
 - [x] front_end/vue/Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现
+- [x] front_end/react/React 入门: 核心特性全面解析
+---
+- 累计 135 篇
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 
 # 以下為預備內容
