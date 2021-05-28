@@ -79,6 +79,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Express 实战: 使用 express-ws 实现 WebSocket 协议<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110646361">https://blog.csdn.net/weixin_44691608/article/details/110646361</a></td></tr>
     <tr><td>Express 实战: 使用 express-static 处理静态资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111072904">https://blog.csdn.net/weixin_44691608/article/details/111072904</a></td></tr>
     <tr><td>Express 实战: 连接 MySQL 数据库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111772113">https://blog.csdn.net/weixin_44691608/article/details/111772113</a></td></tr>
+    <tr><td>Node API: Path 模块总整理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117355430">https://blog.csdn.net/weixin_44691608/article/details/117355430</a></td></tr>
     <tr>
         <td rowspan="7">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
@@ -269,7 +270,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/react/React 入门: 核心特性全面解析
 ---
 - 累计 135 篇
-- [ ] 
+- [x] front_end/node/Node API: Path 模块总整理
 - [ ] 
 - [ ] 
 - [ ] 
