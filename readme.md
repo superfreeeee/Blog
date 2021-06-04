@@ -96,10 +96,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr><td>Babel 应用: 利用 @babel/register 实现即时编译（在 Node 环境下使用 import/export ES6 语法）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111932754">https://blog.csdn.net/weixin_44691608/article/details/111932754</a></td></tr>
     <tr>
-        <td rowspan="2">front_end/webpack</td>
+        <td rowspan="3">front_end/webpack</td>
         <td>Webpack：入門<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106675550">https://blog.csdn.net/weixin_44691608/article/details/106675550</a></td>
     </tr>
     <tr><td>Webpack：clean-webpack-plugin 清理資源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106753972">https://blog.csdn.net/weixin_44691608/article/details/106753972</a></td></tr>
+    <tr><td>Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117558101">https://blog.csdn.net/weixin_44691608/article/details/117558101</a></td></tr>
     <tr>
         <td rowspan="8">front_end/vue</td>
         <td>Vue 項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105879105">https://blog.csdn.net/weixin_44691608/article/details/105879105</a></td>
@@ -281,6 +282,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/react/React 升级: Hook API 基础
 ---
 - 累计 140 篇
+- [x] front_end/webpack/Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+---
+- 累计 145 篇
 - [ ] 
 
 # 以下為預備內容
