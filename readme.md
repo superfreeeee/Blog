@@ -11,7 +11,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">Group 分组</th>
     <th align="left">Title 标题</th>
     <tr>
-        <td rowspan="21">front_end/javascript</td>
+        <td rowspan="22">front_end/javascript</td>
         <td>JS 基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
     </tr>
     <tr><td>JS 基礎：對象的可修改性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105915717">https://blog.csdn.net/weixin_44691608/article/details/105915717</a></td></tr>
@@ -34,6 +34,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 动画：给网页下个雪吧<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116242882">https://blog.csdn.net/weixin_44691608/article/details/116242882</a></td></tr>
     <tr><td>JS 基础: 从 5 种创建对象的方式看 new 操作符的作用与实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116931811">https://blog.csdn.net/weixin_44691608/article/details/116931811</a></td></tr>
     <tr><td>JS 基础: JavaScript 中 4 种继承方式 & instanceof 实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116965356">https://blog.csdn.net/weixin_44691608/article/details/116965356</a></td></tr>
+    <tr><td>JS 模块化: AMD 模块化方案的理解与应用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117675558">https://blog.csdn.net/weixin_44691608/article/details/117675558</a></td></tr>
     <tr>
         <td rowspan="3">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
@@ -283,12 +284,9 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 ---
 - 累计 140 篇
 - [x] front_end/webpack/Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享
+- [x] front_end/javascript/JS 模块化: AMD 模块化方案的理解与应用
 - [ ] 
 - [ ] 
-- [ ] 
-- [ ] 
----
-- 累计 145 篇
 - [ ] 
 
 # 以下為預備內容
