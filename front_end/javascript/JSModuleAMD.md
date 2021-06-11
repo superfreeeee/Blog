@@ -17,7 +17,7 @@
     - [2.1 引入 RequireJS](#21-引入-requirejs)
     - [2.2 AMD 模块规范](#22-amd-模块规范)
     - [2.3 Sample 1: 基本模块定义](#23-sample-1-基本模块定义)
-    - [2.4 Sample 2:](#24-sample-2)
+    - [2.4 Sample 2: 依赖其他模块](#24-sample-2-依赖其他模块)
     - [2.5 Sample 3: require 内置模块](#25-sample-3-require-内置模块)
     - [2.6 Sample 4: 默认参数 & CommonJS 风格模块](#26-sample-4-默认参数--commonjs-风格模块)
   - [3. 使用 Webpack 打包 AMD 模块](#3-使用-webpack-打包-amd-模块)
@@ -198,7 +198,7 @@ window.onload = function () {
 
 - `sample/sample4/index.html`
 
-```js
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -264,7 +264,7 @@ define(function () {
 
 ![](https://picures.oss-cn-beijing.aliyuncs.com/img/js_module_amd_sample4.png)
 
-### 2.4 Sample 2: 
+### 2.4 Sample 2: 依赖其他模块
 
 第二个示例我们演示当一个模块依赖于其他模块的用法(也就是前面提过的两个参数的用法)
 
