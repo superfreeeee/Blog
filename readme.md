@@ -110,7 +110,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117825727">https://blog.csdn.net/weixin_44691608/article/details/117825727</a></td>
     </tr>
     <tr>
-        <td rowspan="8">front_end/vue</td>
+        <td rowspan="9">front_end/vue</td>
         <td>Vue 項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105879105">https://blog.csdn.net/weixin_44691608/article/details/105879105</a></td>
     </tr>
     <tr><td>Vue：Vuex 狀態管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106747207">https://blog.csdn.net/weixin_44691608/article/details/106747207</a></td></tr>
@@ -120,6 +120,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue2 源码解析: MVVM 双向绑定1 - 响应式原理(数据观测/响应)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116776465">https://blog.csdn.net/weixin_44691608/article/details/116776465</a></td></tr>
     <tr><td>Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117040247">https://blog.csdn.net/weixin_44691608/article/details/117040247</a></td></tr>
     <tr><td>Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117271041">https://blog.csdn.net/weixin_44691608/article/details/117271041</a></td></tr>
+    <tr><td>Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117939400">https://blog.csdn.net/weixin_44691608/article/details/117939400</a></td></tr>
     <tr>
         <td rowspan="7">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
@@ -298,7 +299,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 ---
 - 累计 145 篇
 - [x] front_end/javascript/JS 基础: RegExp 正则表达式完整理解与应用
-- [ ] 
+- [x] front_end/vue/Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)
 - [ ] 
 - [ ] 
 - [ ] 

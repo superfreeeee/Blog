@@ -971,6 +971,7 @@ group('application: html', () => {
 
 | Title                                     | Link                                                                                                                                   |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| RegExr 正则表达式学习、测试平台           | [https://regexr.com/](https://regexr.com/)                                                                                             |
 | \[Python\] re正则表达式指南以及常用操作   | [https://www.cnblogs.com/bymo/p/7481583.html](https://www.cnblogs.com/bymo/p/7481583.html)                                             |
 | JavaScript RegExp 对象 - 菜鸟教程         | [https://www.runoob.com/jsref/jsref-obj-regexp.html](https://www.runoob.com/jsref/jsref-obj-regexp.html)                               |
 | JavaScript RegExp 参考手册 - w3school     | [https://www.w3school.com.cn/jsref/jsref_obj_regexp.asp](https://www.w3school.com.cn/jsref/jsref_obj_regexp.asp)                       |
