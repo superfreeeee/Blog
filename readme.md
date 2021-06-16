@@ -236,10 +236,31 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">others/encoding</td>
         <td>Base64 & Base64URL 编码方案(附 js 代码实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115651997">https://blog.csdn.net/weixin_44691608/article/details/115651997</a></td>
     </tr>
+    <tr>
+        <td rowspan="1">others/oop</td>
+        <td>OOP 面对对象: 一次搞懂到底怎么画 UML 类图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117972671">https://blog.csdn.net/weixin_44691608/article/details/117972671</a></td>
+    </tr>
     <tr><td><br/><a href=""></a></td></tr>
 </table>
 
 ## Update Log 更新日志
+
+---
+- 累计 140 篇
+- [x] front_end/webpack/Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享
+- [x] front_end/javascript/JS 模块化: AMD 模块化方案的理解与应用
+- [x] front_end/javascript/JS 模块化: CommonJS 与 ESM(ECMAScript Module) 的引用机制比较 & 循环依赖解决方式
+- [x] front_end/jest/Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试
+- [x] front_end/webpack/Webpack 实战: 多入口项目打包 & 代码拆分实战分享
+---
+- 累计 145 篇
+- [x] front_end/javascript/JS 基础: RegExp 正则表达式完整理解与应用
+- [x] front_end/vue/Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)
+- [x] front_end/webpack/Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)
+- [x] others/oop/OOP 面对对象: 一次搞懂到底怎么画 UML 类图
+- [ ] 
+
+### Recent 收折记录
 
 ---
 - 2/3: 105 篇
@@ -290,20 +311,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/react/React 高阶指引: Context 上下文 & 组件组合 & Render Props
 - [x] front_end/react/React 核心特性: 3 种创建 Refs 引用 & 2 种 Refs 转发的方法
 - [x] front_end/react/React 升级: Hook API 基础
----
-- 累计 140 篇
-- [x] front_end/webpack/Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享
-- [x] front_end/javascript/JS 模块化: AMD 模块化方案的理解与应用
-- [x] front_end/javascript/JS 模块化: CommonJS 与 ESM(ECMAScript Module) 的引用机制比较 & 循环依赖解决方式
-- [x] front_end/jest/Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试
-- [x] front_end/webpack/Webpack 实战: 多入口项目打包 & 代码拆分实战分享
----
-- 累计 145 篇
-- [x] front_end/javascript/JS 基础: RegExp 正则表达式完整理解与应用
-- [x] front_end/vue/Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)
-- [x] front_end/webpack/Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)
-- [ ] 
-- [ ] 
+
 
 # 以下為預備內容
 
