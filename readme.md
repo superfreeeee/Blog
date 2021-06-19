@@ -102,10 +102,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Webpack 实战: 多入口项目打包 & 代码拆分实战分享<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117862533">https://blog.csdn.net/weixin_44691608/article/details/117862533</a></td></tr>
     <tr><td>Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117953005">https://blog.csdn.net/weixin_44691608/article/details/117953005</a></td></tr>
     <tr>
-        <td rowspan="2">front_end/babel</td>
+        <td rowspan="3">front_end/babel</td>
         <td>Babel 入門：JavaScript 的下一代編譯器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106579653">https://blog.csdn.net/weixin_44691608/article/details/106579653</a></td>
     </tr>
     <tr><td>Babel 应用: 利用 @babel/register 实现即时编译（在 Node 环境下使用 import/export ES6 语法）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111932754">https://blog.csdn.net/weixin_44691608/article/details/111932754</a></td></tr>
+    <tr><td>Babel 实战: Node 环境下使用 Babel 开发的 4 种运行配置方案<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118059386">https://blog.csdn.net/weixin_44691608/article/details/118059386</a></td></tr>
     <tr>
         <td rowspan="1">front_end/jest</td>
         <td>Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117825727">https://blog.csdn.net/weixin_44691608/article/details/117825727</a></td>
@@ -238,7 +239,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr>
         <td rowspan="1">others/oop</td>
-        <td>OOP 面对对象: 一次搞懂到底怎么画 UML 类图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117972671">https://blog.csdn.net/weixin_44691608/article/details/117972671</a></td>
+        <td>OOP 面对对象: 一次搞懂 UML 类图到底怎么画<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117972671">https://blog.csdn.net/weixin_44691608/article/details/117972671</a></td>
     </tr>
     <tr><td><br/><a href=""></a></td></tr>
 </table>
@@ -246,72 +247,87 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 ## Update Log 更新日志
 
 ---
-- 累计 140 篇
-- [x] front_end/webpack/Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享
-- [x] front_end/javascript/JS 模块化: AMD 模块化方案的理解与应用
-- [x] front_end/javascript/JS 模块化: CommonJS 与 ESM(ECMAScript Module) 的引用机制比较 & 循环依赖解决方式
-- [x] front_end/jest/Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试
-- [x] front_end/webpack/Webpack 实战: 多入口项目打包 & 代码拆分实战分享
----
-- 累计 145 篇
-- [x] front_end/javascript/JS 基础: RegExp 正则表达式完整理解与应用
-- [x] front_end/vue/Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)
-- [x] front_end/webpack/Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)
-- [x] others/oop/OOP 面对对象: 一次搞懂到底怎么画 UML 类图
 - [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- 累计 155 篇
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- 累计 160 篇
 
 ### Recent 收折记录
 
----
 - 2/3: 105 篇
+---
 - [x] adt&algorithm/ADT: AVL Tree 平衡二叉搜索树(附Java实现)
 - [x] design_pattern/设计模式: Builder Pattern 生成器模式(创建者模式)
 - [x] design_pattern/设计模式: Abstract Factory 抽象工厂模式
 - [x] design_pattern/设计模式: Factory Method 工厂方法模式
 - [x] design_pattern/设计模式: Observer 观察者模式
----
 - 累计 110 篇
+---
 - [x] front_end/others/Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)
 - [x] design_pattern/设计模式: Mediator 中介者模式
 - [x] adt&algorithm/ADT: Red-Black Tree 红黑树详解(附完整实现)
 - [x] back_end/java/Java 踩坑笔记: YYYY-MM-dd 的误用
 - [x] design_pattern/设计模式: Proxy 代理模式
----
 - 累计 115 篇
+---
 - [x] front_end/javascript/JS 动画基础: 细说 requestAnimationFrame
 - [x] front_end/javascript/JS 函数式编程: 高阶函数之柯里化(currying)和反柯里化(uncurrying)
 - [x] back_end/cpp/C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)
 - [x] front_end/html/`<script>` 标签与 defer、async 属性
 - [x] network/Http 缓存: 强缓存与协商缓存
----
 - 累计 120 篇
+---
 - [x] front_end/javascript/JS 前端路由：单页面应用的路由原理和实现
 - [x] others/encoding/Base64 & Base64URL 编码方案(附 js 代码实现)
 - [x] front_end/javascript/JS 动画：给网页下个雪吧
 - [x] front_end/react/React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)
 - [x] front_end/css/CSS 预处理器: Sass/Scss & Less
----
 - 累计 125 篇
+---
 - [x] front_end/vue/Vue 源码解析: 生命周期钩子全面剖析
 - [x] front_end/vue/Vue2 源码解析: MVVM 双向绑定1 - 响应式原理(数据观测/响应)
 - [x] front_end/javascript/JS 基础: 从 5 种创建对象的方式看 new 操作符的作用与实现
 - [x] front_end/javascript/JS 基础: JavaScript 中 4 种继承方式 & instanceof 实现
 - [x] front_end/vue/Vue2 源码解析: MVVM 双向绑定2 - 虚拟 DOM & diff 算法原理深度解析(长文慎入！)
----
 - 累计 130 篇
+---
 - [x] front_end/typescript/TS 基础: 运用 TypeScript 进行开发的 5 种方式
 - [x] front_end/others/Moment.js & Day.js 时间日期类库
 - [x] front_end/es6/ES7 提案: Decorators 装饰器
 - [x] front_end/vue/Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现
 - [x] front_end/react/React 入门: 核心特性全面解析
----
 - 累计 135 篇
+---
 - [x] front_end/node/Node API: Path 模块总整理
 - [x] front_end/react/React 高级指引: 从状态提升到高阶组件(HOC)
 - [x] front_end/react/React 高阶指引: Context 上下文 & 组件组合 & Render Props
 - [x] front_end/react/React 核心特性: 3 种创建 Refs 引用 & 2 种 Refs 转发的方法
 - [x] front_end/react/React 升级: Hook API 基础
-
+- 累计 140 篇
+---
+- [x] front_end/webpack/Webpack 插件: webpackbar & progress-bar-webpack-plugin 进度条插件分享
+- [x] front_end/javascript/JS 模块化: AMD 模块化方案的理解与应用
+- [x] front_end/javascript/JS 模块化: CommonJS 与 ESM(ECMAScript Module) 的引用机制比较 & 循环依赖解决方式
+- [x] front_end/jest/Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试
+- [x] front_end/webpack/Webpack 实战: 多入口项目打包 & 代码拆分实战分享
+- 累计 145 篇
+---
+- [x] front_end/javascript/JS 基础: RegExp 正则表达式完整理解与应用
+- [x] front_end/vue/Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)
+- [x] front_end/webpack/Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)
+- [x] others/oop/OOP 面对对象: 一次搞懂 UML 类图到底怎么画
+- [x] front_end/babel/Babel 实战: Node 环境下使用 Babel 开发的 4 种运行配置方案
+- 累计 150 篇
+---
 
 # 以下為預備內容
 
