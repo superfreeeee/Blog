@@ -187,7 +187,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr><td>Docker: Mac 上的 Ubuntu 环境搭建<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109676334">https://blog.csdn.net/weixin_44691608/article/details/109676334</a></td></tr>
     <tr>
-        <td rowspan="9">design_pattern</td>
+        <td rowspan="10">design_pattern</td>
         <td>設計模式：Strategy Pattern 策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
     </tr>
     <tr><td>设计模式: Builder Pattern 生成器模式(创建者模式)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113695438">https://blog.csdn.net/weixin_44691608/article/details/113695438</a></td></tr>
@@ -198,6 +198,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>设计模式: Proxy 代理模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113910812">https://blog.csdn.net/weixin_44691608/article/details/113910812</a></td></tr>
     <tr><td>设计模式: Creational 创建型的 5 种设计模式总汇(TS 实现版本)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118078424">https://blog.csdn.net/weixin_44691608/article/details/118078424</a></td></tr>
     <tr><td>设计模式: Structural 结构型共 7 种模式总汇(TS实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118109582">https://blog.csdn.net/weixin_44691608/article/details/118109582</a></td></tr>
+    <tr><td>设计模式: 11 种 Behaviroal 行为型设计模式总汇<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118414919">https://blog.csdn.net/weixin_44691608/article/details/118414919</a></td></tr>
     <tr>
         <td rowspan="15">adt&algorithm</td>
         <td>ADT: Stack 栈<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109400531">https://blog.csdn.net/weixin_44691608/article/details/109400531</a></td>
@@ -251,7 +252,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 ---
 - [x] design_pattern/设计模式: Creational 创建型的 5 种设计模式总汇(TS 实现版本)
 - [x] design_pattern/设计模式: Structural 结构型共 7 种模式总汇(TS实现)
-- [ ] 
+- [x] design_pattern/设计模式: 11 种 Behaviroal 行为型设计模式总汇
 - [ ] 
 - [ ] 
 - 累计 155 篇
