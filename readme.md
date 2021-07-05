@@ -106,11 +106,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Webpack 实战: 多入口项目打包 & 代码拆分实战分享<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117862533">https://blog.csdn.net/weixin_44691608/article/details/117862533</a></td></tr>
     <tr><td>Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117953005">https://blog.csdn.net/weixin_44691608/article/details/117953005</a></td></tr>
     <tr>
-        <td rowspan="3">front_end/babel</td>
+        <td rowspan="4">front_end/babel</td>
         <td>Babel 入門：JavaScript 的下一代編譯器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106579653">https://blog.csdn.net/weixin_44691608/article/details/106579653</a></td>
     </tr>
     <tr><td>Babel 应用: 利用 @babel/register 实现即时编译（在 Node 环境下使用 import/export ES6 语法）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111932754">https://blog.csdn.net/weixin_44691608/article/details/111932754</a></td></tr>
     <tr><td>Babel 实战: Node 环境下使用 Babel 开发的 4 种运行配置方案<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118059386">https://blog.csdn.net/weixin_44691608/article/details/118059386</a></td></tr>
+    <tr><td>Babel 踩坑笔记: babel 命令失效(/bin/sh: babel: command not found)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118492548">https://blog.csdn.net/weixin_44691608/article/details/118492548</a></td></tr>
     <tr>
         <td rowspan="1">front_end/jest</td>
         <td>Jest 入门: Jest 核心 API & 多环境运行配置实现前端测试<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117825727">https://blog.csdn.net/weixin_44691608/article/details/117825727</a></td>
@@ -253,20 +254,20 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
----
-- [x] design_pattern/设计模式: Creational 创建型的 5 种设计模式总汇(TS 实现版本)
-- [x] design_pattern/设计模式: Structural 结构型共 7 种模式总汇(TS实现)
-- [x] design_pattern/设计模式: 11 种 Behaviroal 行为型设计模式总汇
-- [x] front_end/node/Node 实战: 从无到有创建一个自己专属的 CLI 脚手架
-- [ ] 
-- 累计 155 篇
----
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 - 累计 160 篇
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- 累计 165 篇
+---
 
 ### Recent 收折记录
 
@@ -334,6 +335,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] others/oop/OOP 面对对象: 一次搞懂 UML 类图到底怎么画
 - [x] front_end/babel/Babel 实战: Node 环境下使用 Babel 开发的 4 种运行配置方案
 - 累计 150 篇
+---
+- [x] design_pattern/设计模式: Creational 创建型的 5 种设计模式总汇(TS 实现版本)
+- [x] design_pattern/设计模式: Structural 结构型共 7 种模式总汇(TS实现)
+- [x] design_pattern/设计模式: 11 种 Behaviroal 行为型设计模式总汇
+- [x] front_end/node/Node 实战: 从无到有创建一个自己专属的 CLI 脚手架
+- [x] front_end/babel/Babel 踩坑笔记: babel 命令失效(/bin/sh: babel: command not found)
+- 累计 155 篇
 ---
 
 # 以下為預備內容
