@@ -129,7 +129,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117271041">https://blog.csdn.net/weixin_44691608/article/details/117271041</a></td></tr>
     <tr><td>Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117939400">https://blog.csdn.net/weixin_44691608/article/details/117939400</a></td></tr>
     <tr>
-        <td rowspan="7">front_end/react</td>
+        <td rowspan="8">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
     <tr><td>React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116363154">https://blog.csdn.net/weixin_44691608/article/details/116363154</a></td></tr>
     <tr><td>React 入门: 核心特性全面解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117343164">https://blog.csdn.net/weixin_44691608/article/details/117343164</a></td></tr>
@@ -137,6 +137,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>React 高阶指引: Context 上下文 & 组件组合 & Render Props<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117458645">https://blog.csdn.net/weixin_44691608/article/details/117458645</a></td></tr>
     <tr><td>React 核心特性: 3 种创建 Refs 引用 & 2 种 Refs 转发的方法<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117478115">https://blog.csdn.net/weixin_44691608/article/details/117478115</a></td></tr>
     <tr><td>React 升级: Hook API 基础<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117533917">https://blog.csdn.net/weixin_44691608/article/details/117533917</a></td></tr>
+    <tr><td>React 应用: 在 React 中使用 redux 的 3 种 方式 + 异步更新 + 中间件(TS实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118633998">https://blog.csdn.net/weixin_44691608/article/details/118633998</a></td></tr>
     </tr>
     <tr>
         <td rowspan="9">back_end/java</td>
@@ -254,7 +255,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
-- [ ] 
+- [x] front_end/react/React 应用: 在 React 中使用 redux 的 3 种 方式 + 异步更新 + 中间件(TS实现)
 - [ ] 
 - [ ] 
 - [ ] 
