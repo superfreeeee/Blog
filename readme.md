@@ -230,10 +230,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>NASM: Register 寄存器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109851814">https://blog.csdn.net/weixin_44691608/article/details/109851814</a></td>
     </tr>
     <tr>
-        <td rowspan="2">others/tools</td>
+        <td rowspan="3">others/tools</td>
         <td>Make 构建工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109843763">https://blog.csdn.net/weixin_44691608/article/details/109843763</a></td>
     </tr>
     <tr><td>Git 实战: 利用 rebase 让你的提交/合并记录更清晰<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118740059">https://blog.csdn.net/weixin_44691608/article/details/118740059</a></td></tr>
+    <tr><td>Git 实战: 利用 stash 保存当前未完成工作<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118742696">https://blog.csdn.net/weixin_44691608/article/details/118742696</a></td></tr>
     <tr>
         <td rowspan="3">others/compiler</td>
         <td>编译原理: Thompson 构造法（正则表达式 转 NFA）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110195743">https://blog.csdn.net/weixin_44691608/article/details/110195743</a></td>
@@ -258,13 +259,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
-- [x] front_end/react/React 应用: 在 React 中使用 redux 的 3 种 方式 + 异步更新 + 中间件(TS实现)
-- [x] front_end/react/React 路由: react-router-dom 前端路由 + connected-react-router 与 redux 连用
-- [x] front_end/react/React Hook: 高级 Hook API
-- [x] others/tools/Git 实战: 利用 rebase 让你的提交/合并记录更清晰
-- [ ] 
-- 累计 160 篇
----
 - [ ] 
 - [ ] 
 - [ ] 
@@ -346,6 +340,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/node/Node 实战: 从无到有创建一个自己专属的 CLI 脚手架
 - [x] front_end/babel/Babel 踩坑笔记: babel 命令失效(/bin/sh: babel: command not found)
 - 累计 155 篇
+---
+- [x] front_end/react/React 应用: 在 React 中使用 redux 的 3 种 方式 + 异步更新 + 中间件(TS实现)
+- [x] front_end/react/React 路由: react-router-dom 前端路由 + connected-react-router 与 redux 连用
+- [x] front_end/react/React Hook: 高级 Hook API
+- [x] others/tools/Git 实战: 利用 rebase 让你的提交/合并记录更清晰
+- [x] others/tools/Git 实战: 利用 stash 保存当前未完成工作
+- 累计 160 篇
 ---
 
 # 以下為預備內容

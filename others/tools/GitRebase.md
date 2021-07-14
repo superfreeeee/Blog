@@ -16,6 +16,7 @@
   - [实验三：rebase 应用之二 - 合并分支](#实验三rebase-应用之二---合并分支)
     - [3.1 提交记录](#31-提交记录)
     - [3.2 图解说明](#32-图解说明)
+  - [总结](#总结)
 - [结语](#结语)
 - [其他资源](#其他资源)
   - [参考连接](#参考连接)
@@ -230,6 +231,11 @@ $ git rebase master
 ![](https://picures.oss-cn-beijing.aliyuncs.com/img/git_rebase_graph3_rebase_merge4.png)
 
 如此一来就能使得整个提交记录就好像线性一样
+
+## 总结
+
+- `git rebase -i HEAD~n` 重新操作最新的 n 条记录
+- `git rebase other-branch` 将当前分支改为基于 other-branch 分支
 
 # 结语
 
