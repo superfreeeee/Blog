@@ -233,11 +233,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>NASM: Register 寄存器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109851814">https://blog.csdn.net/weixin_44691608/article/details/109851814</a></td>
     </tr>
     <tr>
-        <td rowspan="3">others/tools</td>
+        <td rowspan="4">others/tools</td>
         <td>Make 构建工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109843763">https://blog.csdn.net/weixin_44691608/article/details/109843763</a></td>
     </tr>
     <tr><td>Git 实战: 利用 rebase 让你的提交/合并记录更清晰<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118740059">https://blog.csdn.net/weixin_44691608/article/details/118740059</a></td></tr>
     <tr><td>Git 实战: 利用 stash 保存当前未完成工作<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118742696">https://blog.csdn.net/weixin_44691608/article/details/118742696</a></td></tr>
+    <tr><td>Git 实战: 删除本地 & 远程分支<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119056575">https://blog.csdn.net/weixin_44691608/article/details/119056575</a></td></tr>
     <tr>
         <td rowspan="3">others/compiler</td>
         <td>编译原理: Thompson 构造法（正则表达式 转 NFA）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110195743">https://blog.csdn.net/weixin_44691608/article/details/110195743</a></td>
@@ -265,7 +266,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/others/前端工作流: 自动化 Code Lint 使你的项目代码更规范
 - [x] front_end/javascript/JS 实战: 一文了解 5 种文件上传场景(React + Koa 实现)
 - [x] front_end/react/React 优化: 到底怎么用 useCallback 才是正确的？
-- [ ] 
+- [x] others/tools/Git 实战: 删除本地 & 远程分支
 - [ ] 
 - 累计 165 篇
 ---
