@@ -11,7 +11,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">Group 分组</th>
     <th align="left">Title 标题</th>
     <tr>
-        <td rowspan="25">front_end/javascript</td>
+        <td rowspan="26">front_end/javascript</td>
         <td>JS 基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
     </tr>
     <tr><td>JS 基礎：對象的可修改性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105915717">https://blog.csdn.net/weixin_44691608/article/details/105915717</a></td></tr>
@@ -38,6 +38,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 模块化: CommonJS 与 ESM(ECMAScript Module) 的引用机制比较 & 循环依赖解决方式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117718502">https://blog.csdn.net/weixin_44691608/article/details/117718502</a></td></tr>
     <tr><td>JS 基础: RegExp 正则表达式完整理解与应用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117938967">https://blog.csdn.net/weixin_44691608/article/details/117938967</a></td></tr>
     <tr><td>JS 实战: 一文了解 5 种文件上传场景(React + Koa 实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119046366">https://blog.csdn.net/weixin_44691608/article/details/119046366</a></td></tr>
+    <tr><td>JS 事件: Composition Input 组合输入事件(中文输入事件监听)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119223374">https://blog.csdn.net/weixin_44691608/article/details/119223374</a></td></tr>
     <tr>
         <td rowspan="3">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
@@ -263,12 +264,19 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
-- [x] front_end/others/前端工作流: 自动化 Code Lint 使你的项目代码更规范
-- [x] front_end/javascript/JS 实战: 一文了解 5 种文件上传场景(React + Koa 实现)
-- [x] front_end/react/React 优化: 到底怎么用 useCallback 才是正确的？
-- [x] others/tools/Git 实战: 删除本地 & 远程分支
 - [ ] 
-- 累计 165 篇
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- 累计 170 篇
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- 累计 175 篇
 ---
 
 ### Recent 收折记录
@@ -351,6 +359,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] others/tools/Git 实战: 利用 rebase 让你的提交/合并记录更清晰
 - [x] others/tools/Git 实战: 利用 stash 保存当前未完成工作
 - 累计 160 篇
+---
+- [x] front_end/others/前端工作流: 自动化 Code Lint 使你的项目代码更规范
+- [x] front_end/javascript/JS 实战: 一文了解 5 种文件上传场景(React + Koa 实现)
+- [x] front_end/react/React 优化: 到底怎么用 useCallback 才是正确的？
+- [x] others/tools/Git 实战: 删除本地 & 远程分支
+- [x] front_end/javascript/JS 事件: Composition Input 组合输入事件(中文输入事件监听)
+- 累计 165 篇
 ---
 
 # 以下為預備內容
