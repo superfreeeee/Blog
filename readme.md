@@ -60,7 +60,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>ES6 实战: 手写 Promise<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110474497">https://blog.csdn.net/weixin_44691608/article/details/110474497</a></td></tr>
     <tr><td>ES7 提案: Decorators 装饰器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117180409">https://blog.csdn.net/weixin_44691608/article/details/117180409</a></td></tr>
     <tr>
-        <td rowspan="6">front_end/css</td>
+        <td rowspan="7">front_end/css</td>
         <td>CSS 進階：Flex彈性盒子<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105980289">https://blog.csdn.net/weixin_44691608/article/details/105980289</a></td>
     </tr>
     <tr><td>CSS 進階：Grid格線佈局<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106562271">https://blog.csdn.net/weixin_44691608/article/details/106562271</a></td></tr>
@@ -68,6 +68,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>CSS 基礎：Specificity權重（優先級）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106649186">https://blog.csdn.net/weixin_44691608/article/details/106649186</a></td></tr>
     <tr><td>CSS 進階：Media Query 媒體查詢<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106651135">https://blog.csdn.net/weixin_44691608/article/details/106651135</a></td></tr>
     <tr><td>CSS 预处理器: Sass/Scss & Less<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116473753">https://blog.csdn.net/weixin_44691608/article/details/116473753</a></td></tr>
+    <tr><td>CSS 应用: 文本溢出省略效果(单行/多行)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119234565">https://blog.csdn.net/weixin_44691608/article/details/119234565</a></td></tr>
     <tr>
         <td rowspan="5">front_end/html</td>
         <td>HTML 基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
@@ -264,7 +265,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 
 ## Update Log 更新日志
 
-- [ ] 
+- [x] front_end/css/CSS 应用: 文本溢出省略效果(单行/多行)
 - [ ] 
 - [ ] 
 - [ ] 
