@@ -40,11 +40,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 实战: 一文了解 5 种文件上传场景(React + Koa 实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119046366">https://blog.csdn.net/weixin_44691608/article/details/119046366</a></td></tr>
     <tr><td>JS 事件: Composition Input 组合输入事件(中文输入事件监听)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119223374">https://blog.csdn.net/weixin_44691608/article/details/119223374</a></td></tr>
     <tr>
-        <td rowspan="3">front_end/typescript</td>
+        <td rowspan="4">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
     </tr>
     <tr><td>TS 基礎：Interface接口<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872267">https://blog.csdn.net/weixin_44691608/article/details/105872267</a></td></tr>
     <tr><td>TS 基础: 运用 TypeScript 进行开发的 5 种方式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117094833">https://blog.csdn.net/weixin_44691608/article/details/117094833</a></td></tr>
+    <tr><td>TS 踩坑笔记: 箭头函数添加泛型报错(Error: JSX element ‘T‘ has no corresponding closing tag.ts(17008))<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119518370">https://blog.csdn.net/weixin_44691608/article/details/119518370</a></td></tr>
     <tr>
         <td rowspan="11">front_end/es6</td>
         <td>ES6 特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>
@@ -271,8 +272,8 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
 - [x] front_end/css/CSS 应用: 文本溢出省略效果(单行/多行)
 - [x] front_end/css/CSS 滚动条: 自定义滚动条样式
 - [x] front_end/webpack/Webpack: CSS 到 Sass/Scss 与 CSS Module
-- [x]front_end/others/Redux 源码解析: 从源码的角度了解 redux-thunk 到底怎么用
-- [ ]
+- [x] front_end/others/Redux 源码解析: 从源码的角度了解 redux-thunk 到底怎么用
+- [x] front_end/typescript/TS 踩坑笔记: 箭头函数添加泛型报错(Error: JSX element ‘T‘ has no corresponding closing tag.ts(17008))
 - 累计 170 篇
 
 ---
