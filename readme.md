@@ -72,13 +72,14 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>CSS 应用: 文本溢出省略效果(单行/多行)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119234565">https://blog.csdn.net/weixin_44691608/article/details/119234565</a></td></tr>
     <tr><td>CSS 滚动条: 自定义滚动条样式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119236084">https://blog.csdn.net/weixin_44691608/article/details/119236084</a></td></tr>
     <tr>
-        <td rowspan="5">front_end/html</td>
+        <td rowspan="6">front_end/html</td>
         <td>HTML 基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
     </tr>
     <tr><td>HTML 基礎：Input 輸入框<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106839246">https://blog.csdn.net/weixin_44691608/article/details/106839246</a></td></tr>
     <tr><td>Canvas 实战: 水波图<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110413644">https://blog.csdn.net/weixin_44691608/article/details/110413644</a></td></tr>
     <tr><td>Canvas 实战: 实现纯前端图形验证码（Graph Verification Code）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111737964">https://blog.csdn.net/weixin_44691608/article/details/111737964</a></td></tr>
     <tr><td>`&lt;script&gt;` 标签与 defer、async 属性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115380702">https://blog.csdn.net/weixin_44691608/article/details/115380702</a></td></tr>
+    <tr><td>HTML5 新特性: Web Worker 的创建与使用(webpack + TS 环境)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119839000">https://blog.csdn.net/weixin_44691608/article/details/119839000</a></td></tr>
     <tr>
         <td rowspan="3">front_end/node</td>
         <td>Node：入門 + 建構 Web server<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107141361">https://blog.csdn.net/weixin_44691608/article/details/107141361</a></td>
