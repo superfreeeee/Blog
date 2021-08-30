@@ -94,7 +94,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Express 实战: 使用 express-static 处理静态资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111072904">https://blog.csdn.net/weixin_44691608/article/details/111072904</a></td></tr>
     <tr><td>Express 实战: 连接 MySQL 数据库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111772113">https://blog.csdn.net/weixin_44691608/article/details/111772113</a></td></tr>
     <tr>
-        <td rowspan="9">front_end/others</td>
+        <td rowspan="8">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
     </tr>
     <tr><td>js-cookie：轻量级 cookie 框架<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106472130">https://blog.csdn.net/weixin_44691608/article/details/106472130</a></td></tr>
@@ -104,7 +104,6 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113765479">https://blog.csdn.net/weixin_44691608/article/details/113765479</a></td></tr>
     <tr><td>Moment.js & Day.js 时间日期类库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117139194">https://blog.csdn.net/weixin_44691608/article/details/117139194</a></td></tr>
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
-    <tr><td>front_end/others/Redux 源码解析: 从源码的角度了解 redux-thunk 到底怎么用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119517532">https://blog.csdn.net/weixin_44691608/article/details/119517532</a></td></tr>
     <tr>
         <td rowspan="7">front_end/webpack</td>
         <td>Webpack：入門<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106675550">https://blog.csdn.net/weixin_44691608/article/details/106675550</a></td>
@@ -139,7 +138,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue2 源码解析: MVVM 双向绑定3 - 模版编译实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117271041">https://blog.csdn.net/weixin_44691608/article/details/117271041</a></td></tr>
     <tr><td>Vue 踩坑笔记: 引入 ElementUI 时打包失败修复记录(ERROR in ./node_modules/element-ui/lib/theme-chalk/index.css)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117939400">https://blog.csdn.net/weixin_44691608/article/details/117939400</a></td></tr>
     <tr>
-        <td rowspan="12">front_end/react</td>
+        <td rowspan="11">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
     </tr>
     <tr><td>React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116363154">https://blog.csdn.net/weixin_44691608/article/details/116363154</a></td></tr>
@@ -152,8 +151,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>React 路由: react-router-dom 前端路由 + connected-react-router 与 redux 连用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118658567">https://blog.csdn.net/weixin_44691608/article/details/118658567</a></td></tr>
     <tr><td>React Hook: 高级 Hook API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118719312">https://blog.csdn.net/weixin_44691608/article/details/118719312</a></td></tr>
     <tr><td>React 优化: 到底怎么用 useCallback 才是正确的？<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119054522">https://blog.csdn.net/weixin_44691608/article/details/119054522</a></td></tr>
-    <tr><td>React Redux 进阶: Hooks 版本用法 & Custom Context 局部 Store 实践<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119982035">https://blog.csdn.net/weixin_44691608/article/details/119982035</a></td></tr>
     </tr>
+    <tr>
+        <td rowspan="3">front_end/redux</td>
+        <td>Redux 源码解析: 从源码的角度了解 redux-thunk 到底怎么用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119517532">https://blog.csdn.net/weixin_44691608/article/details/119517532</a></td>
+    </tr>
+    <tr><td>React Redux 进阶: Hooks 版本用法 & Custom Context 局部 Store 实践<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119982035">https://blog.csdn.net/weixin_44691608/article/details/119982035</a></td></tr>
+    <tr><td>Redux 源码解析(一): createStore API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120008551">https://blog.csdn.net/weixin_44691608/article/details/120008551</a></td></tr>
     <tr>
         <td rowspan="1">front_end/scheme</td>
         <td>技术方案实践: 服务端 api 接入的实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119858489">https://blog.csdn.net/weixin_44691608/article/details/119858489</a></td>
