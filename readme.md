@@ -164,6 +164,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">front_end/scheme</td>
         <td>技术方案实践: 服务端 api 接入的实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119858489">https://blog.csdn.net/weixin_44691608/article/details/119858489</a></td>
     </tr>
+    <tr><td>技术方案实践: 前端轮询方案实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120336427">https://blog.csdn.net/weixin_44691608/article/details/120336427</a></td></tr>
     <tr>
         <td rowspan="9">back_end/java</td>
         <td>Java 基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
