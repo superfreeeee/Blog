@@ -105,7 +105,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Moment.js & Day.js 时间日期类库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117139194">https://blog.csdn.net/weixin_44691608/article/details/117139194</a></td></tr>
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
     <tr>
-        <td rowspan="7">front_end/webpack</td>
+        <td rowspan="8">front_end/webpack</td>
         <td>Webpack：入門<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106675550">https://blog.csdn.net/weixin_44691608/article/details/106675550</a></td>
     </tr>
     <tr><td>Webpack：clean-webpack-plugin 清理資源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106753972">https://blog.csdn.net/weixin_44691608/article/details/106753972</a></td></tr>
@@ -114,6 +114,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Webpack 踩坑笔记: webpack-dev-server 启动命令失败(Error: Cannot find module ‘webpack-cli/bin/config-yargs‘)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117953005">https://blog.csdn.net/weixin_44691608/article/details/117953005</a></td></tr>
     <tr><td>Webpack: CSS 到 Sass/Scss 与 CSS Module<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119494496">https://blog.csdn.net/weixin_44691608/article/details/119494496</a></td></tr>
     <tr><td>Webpack 实战: 本地 mock 开发模式实践<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119704876">https://blog.csdn.net/weixin_44691608/article/details/119704876</a></td></tr>
+    <tr><td>Webpack 实践: 前端 SDK 开发（使用 webpack 打包 library）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120346688">https://blog.csdn.net/weixin_44691608/article/details/120346688</a></td></tr>
     <tr>
         <td rowspan="4">front_end/babel</td>
         <td>Babel 入門：JavaScript 的下一代編譯器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106579653">https://blog.csdn.net/weixin_44691608/article/details/106579653</a></td>
@@ -161,7 +162,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Redux 源码解析(二): bindActionCreators & combineReducers API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120031460">https://blog.csdn.net/weixin_44691608/article/details/120031460</a></td></tr>
     <tr><td>Redux 源码解析(三): compose & applyMiddleware API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120051587">https://blog.csdn.net/weixin_44691608/article/details/120051587</a></td></tr>
     <tr>
-        <td rowspan="1">front_end/scheme</td>
+        <td rowspan="2">front_end/scheme</td>
         <td>技术方案实践: 服务端 api 接入的实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119858489">https://blog.csdn.net/weixin_44691608/article/details/119858489</a></td>
     </tr>
     <tr><td>技术方案实践: 前端轮询方案实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120336427">https://blog.csdn.net/weixin_44691608/article/details/120336427</a></td></tr>
