@@ -156,7 +156,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     </tr>
     <tr><td>技术方案实践: 前端轮询方案实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120336427">https://blog.csdn.net/weixin_44691608/article/details/120336427</a></td></tr>
     <tr>
-        <td rowspan="9">front_end/others</td>
+        <td rowspan="10">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
     </tr>
     <tr><td>js-cookie：轻量级 cookie 框架<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106472130">https://blog.csdn.net/weixin_44691608/article/details/106472130</a></td></tr>
@@ -167,6 +167,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Moment.js & Day.js 时间日期类库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117139194">https://blog.csdn.net/weixin_44691608/article/details/117139194</a></td></tr>
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
     <tr><td>Npm 发布: 发布一个自己的 npm 三方包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120353321">https://blog.csdn.net/weixin_44691608/article/details/120353321</a></td></tr>
+    <tr><td>Lerna 项目启动（Monorepo 实践）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120374913">https://blog.csdn.net/weixin_44691608/article/details/120374913</a></td></tr>
     <tr>
         <td rowspan="9">back_end/java</td>
         <td>Java 基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
