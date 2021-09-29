@@ -220,10 +220,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Cpp 进阶：Smart Pointer 智能指针<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109728922">https://blog.csdn.net/weixin_44691608/article/details/109728922</a></td></tr>
     <tr><td>C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115365340">https://blog.csdn.net/weixin_44691608/article/details/115365340</a></td></tr>
     <tr>
-        <td rowspan="2">deployment/docker</td>
+        <td rowspan="3">deployment/docker</td>
         <td>Docker：部署入門 + 常用指令<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107208251">https://blog.csdn.net/weixin_44691608/article/details/107208251</a></td>
     </tr>
     <tr><td>Docker: Mac 上的 Ubuntu 环境搭建<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109676334">https://blog.csdn.net/weixin_44691608/article/details/109676334</a></td></tr>
+    <tr><td>Jenkins 自动化部署 SpringBoot 项目配置<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120546203">https://blog.csdn.net/weixin_44691608/article/details/120546203</a></td></tr>
     <tr>
         <td rowspan="10">design_pattern</td>
         <td>設計模式：Strategy Pattern 策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
