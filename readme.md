@@ -152,11 +152,12 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Redux 源码解析(二): bindActionCreators & combineReducers API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120031460">https://blog.csdn.net/weixin_44691608/article/details/120031460</a></td></tr>
     <tr><td>Redux 源码解析(三): compose & applyMiddleware API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120051587">https://blog.csdn.net/weixin_44691608/article/details/120051587</a></td></tr>
     <tr>
-        <td rowspan="3">front_end/scheme</td>
+        <td rowspan="4">front_end/scheme</td>
         <td>技术方案实践: 服务端 api 接入的实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119858489">https://blog.csdn.net/weixin_44691608/article/details/119858489</a></td>
     </tr>
     <tr><td>技术方案实践: 前端轮询方案实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120336427">https://blog.csdn.net/weixin_44691608/article/details/120336427</a></td></tr>
     <tr><td>技术方案实践: EventEmitter 和 Observable 对象实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120383933">https://blog.csdn.net/weixin_44691608/article/details/120383933</a></td></tr>
+    <tr><td>技术方案实践: 音频播放器封装<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120596528">https://blog.csdn.net/weixin_44691608/article/details/120596528</a></td></tr>
     <tr>
         <td rowspan="10">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
