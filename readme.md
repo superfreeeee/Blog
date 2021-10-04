@@ -184,7 +184,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Java 应用：Reflect 封装，一次实现使用字符串查找字段、调用方法、打破 private 限制<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111570524">https://blog.csdn.net/weixin_44691608/article/details/111570524</a></td></tr>
     <tr><td>Java 踩坑笔记: YYYY-MM-dd 的误用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113823638">https://blog.csdn.net/weixin_44691608/article/details/113823638</a></td></tr>
     <tr>
-        <td rowspan="9">back_end/spring</td>
+        <td rowspan="10">back_end/spring</td>
         <td>SpringBoot 項目啟動<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106079234">https://blog.csdn.net/weixin_44691608/article/details/106079234</a></td>
     </tr>
     <tr><td>Spring Boot：SpringMVC Web服務端框架<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106692801">https://blog.csdn.net/weixin_44691608/article/details/106692801</a></td></tr>
@@ -195,6 +195,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Spring Cloud 实战: 使用 Netflix Ribbon 实现服务发现 & 负载均衡(Service Discovery & Load Balancing)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111361970">https://blog.csdn.net/weixin_44691608/article/details/111361970</a></td></tr>
     <tr><td>Spring Cloud 实战: Open Feign 强化版的 Ribbon，实现更优雅的声明式服务发现/调用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111914915">https://blog.csdn.net/weixin_44691608/article/details/111914915</a></td></tr>
     <tr><td>SpringBoot 部署: 项目打包 & 手动部署到阿里云服务器上<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120517833">https://blog.csdn.net/weixin_44691608/article/details/120517833</a></td></tr>
+    <tr><td>SpringBoot 实战: 静态资源分发配置<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120610330">https://blog.csdn.net/weixin_44691608/article/details/120610330</a></td></tr>
     <tr>
         <td rowspan="1">back_end/python</td>
         <td>Python: 模块化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109360032">https://blog.csdn.net/weixin_44691608/article/details/109360032</a></td>
