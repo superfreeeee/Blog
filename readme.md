@@ -47,7 +47,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>TS 基础: 运用 TypeScript 进行开发的 5 种方式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117094833">https://blog.csdn.net/weixin_44691608/article/details/117094833</a></td></tr>
     <tr><td>TS 踩坑笔记: 箭头函数添加泛型报错(Error: JSX element ‘T‘ has no corresponding closing tag.ts(17008))<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119518370">https://blog.csdn.net/weixin_44691608/article/details/119518370</a></td></tr>
     <tr>
-        <td rowspan="11">front_end/es6</td>
+        <td rowspan="12">front_end/es6</td>
         <td>ES6 特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>
     </tr>
     <tr><td>ES6 特性：DestructuringAssignment解構賦值<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105903245">https://blog.csdn.net/weixin_44691608/article/details/105903245</a></td></tr>
@@ -60,6 +60,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>ES6 Promise 应用: 回调函数方法封装成 Promise + async/await 同步化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111878730">https://blog.csdn.net/weixin_44691608/article/details/111878730</a></td></tr>
     <tr><td>ES6 实战: 手写 Promise<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110474497">https://blog.csdn.net/weixin_44691608/article/details/110474497</a></td></tr>
     <tr><td>ES7 提案: Decorators 装饰器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117180409">https://blog.csdn.net/weixin_44691608/article/details/117180409</a></td></tr>
+    <tr><td>ES6 特性: 模版字符串 Template String<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120628640">https://blog.csdn.net/weixin_44691608/article/details/120628640</a></td></tr>
     <tr>
         <td rowspan="8">front_end/css</td>
         <td>CSS 進階：Flex彈性盒子<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105980289">https://blog.csdn.net/weixin_44691608/article/details/105980289</a></td>
