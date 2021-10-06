@@ -230,6 +230,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Jenkins 自动化部署 SpringBoot 项目配置<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120546203">https://blog.csdn.net/weixin_44691608/article/details/120546203</a></td></tr>
     <tr><td>Docker 使用: docker-compose 实现按配置启动容器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120624526">https://blog.csdn.net/weixin_44691608/article/details/120624526</a></td></tr>
     <tr>
+        <td rowspan="1">deployment/nginx</td>
+        <td>Nginx 实战: 部署 React 前端项目<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120624970">https://blog.csdn.net/weixin_44691608/article/details/120624970</a></td>
+    </tr>
+    <tr>
         <td rowspan="10">design_pattern</td>
         <td>設計模式：Strategy Pattern 策略模式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105982881">https://blog.csdn.net/weixin_44691608/article/details/105982881</a></td>
     </tr>
