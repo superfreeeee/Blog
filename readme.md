@@ -174,6 +174,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Npm 发布: 发布一个自己的 npm 三方包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120353321">https://blog.csdn.net/weixin_44691608/article/details/120353321</a></td></tr>
     <tr><td>Lerna 项目启动（Monorepo 实践）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120374913">https://blog.csdn.net/weixin_44691608/article/details/120374913</a></td></tr>
     <tr>
+        <td rowspan="1">front_end/wasm</td>
+        <td>WASM 初探: JS 调用 C 模块<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120649157">https://blog.csdn.net/weixin_44691608/article/details/120649157</a></td>
+    </tr>
+    <tr>
         <td rowspan="9">back_end/java</td>
         <td>Java 基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
     </tr>
