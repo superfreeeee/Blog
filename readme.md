@@ -300,6 +300,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td rowspan="1">others/oop</td>
         <td>OOP 面对对象: 一次搞懂 UML 类图到底怎么画<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117972671">https://blog.csdn.net/weixin_44691608/article/details/117972671</a></td>
     </tr>
+    <tr>
+        <td rowspan="1">others/life</td>
+        <td>手把手带你清理电脑版微信冗余资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120686545">https://blog.csdn.net/weixin_44691608/article/details/120686545</a></td>
+    </tr>
     <tr><td><br/><a href=""></a></td></tr>
 </table>
 
