@@ -307,9 +307,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>手把手带你清理电脑版微信冗余资源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120686545">https://blog.csdn.net/weixin_44691608/article/details/120686545</a></td>
     </tr>
     <tr>
-        <td rowspan="1">others/opengl</td>
+        <td rowspan="2">others/opengl</td>
         <td>OpenGL 学习实录1: 基于 MacOS + Clion 配置 OpenGL 运行环境<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120806889">https://blog.csdn.net/weixin_44691608/article/details/120806889</a></td>
     </tr>
+    <tr><td>OpenGL 学习实录2: 基础绘制初试<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120807296">https://blog.csdn.net/weixin_44691608/article/details/120807296</a></td></tr>
     <tr><td><br/><a href=""></a></td></tr>
 </table>
 
