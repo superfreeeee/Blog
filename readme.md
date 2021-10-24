@@ -290,10 +290,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>编译原理: Subset Construction 子集构造法(幂集构造)(NFA转DFA)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110213913">https://blog.csdn.net/weixin_44691608/article/details/110213913</a></td></tr>
     <tr><td>编译原理: 最小化 DFA(划分) & 验证 DFA(Kleene 闭包)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110440659">https://blog.csdn.net/weixin_44691608/article/details/110440659</a></td></tr>
     <tr>
-        <td rowspan="2">others/network</td>
+        <td rowspan="3">others/network</td>
         <td>一次搞懂 URI、URL、URN<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111145088">https://blog.csdn.net/weixin_44691608/article/details/111145088</a></td>
     </tr>
     <tr><td>Http 缓存: 强缓存与协商缓存<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115423858">https://blog.csdn.net/weixin_44691608/article/details/115423858</a></td></tr>
+    <tr><td>服务器 SSH 访问配置(主机别名 + 免密登陆)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120942954">https://blog.csdn.net/weixin_44691608/article/details/120942954</a></td></tr>
     <tr>
         <td rowspan="1">others/encoding</td>
         <td>Base64 & Base64URL 编码方案(附 js 代码实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115651997">https://blog.csdn.net/weixin_44691608/article/details/115651997</a></td>
