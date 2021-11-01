@@ -64,7 +64,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>ES7 提案: Decorators 装饰器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117180409">https://blog.csdn.net/weixin_44691608/article/details/117180409</a></td></tr>
     <tr><td>ES6 特性: 模版字符串 Template String<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120628640">https://blog.csdn.net/weixin_44691608/article/details/120628640</a></td></tr>
     <tr>
-        <td rowspan="10">front_end/css</td>
+        <td rowspan="11">front_end/css</td>
         <td>CSS 進階：Flex彈性盒子<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105980289">https://blog.csdn.net/weixin_44691608/article/details/105980289</a></td>
     </tr>
     <tr><td>CSS 進階：Grid格線佈局<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106562271">https://blog.csdn.net/weixin_44691608/article/details/106562271</a></td></tr>
@@ -76,6 +76,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>CSS 滚动条: 自定义滚动条样式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119236084">https://blog.csdn.net/weixin_44691608/article/details/119236084</a></td></tr>
     <tr><td>CSS in JS: styled-components 实践<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120639439">https://blog.csdn.net/weixin_44691608/article/details/120639439</a></td></tr>
     <tr><td>CSS 实用工具: Google Fonts API 引入免费字体库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121019327">https://blog.csdn.net/weixin_44691608/article/details/121019327</a></td></tr>
+    <tr><td>CSS 实战: Loading 动画<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121091627">https://blog.csdn.net/weixin_44691608/article/details/121091627</a></td></tr>
     <tr>
         <td rowspan="7">front_end/html</td>
         <td>HTML 基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
