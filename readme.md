@@ -165,7 +165,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>技术方案实践: EventEmitter 和 Observable 对象实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120383933">https://blog.csdn.net/weixin_44691608/article/details/120383933</a></td></tr>
     <tr><td>技术方案实践: 音频播放器封装<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120596528">https://blog.csdn.net/weixin_44691608/article/details/120596528</a></td></tr>
     <tr>
-        <td rowspan="11">front_end/others</td>
+        <td rowspan="12">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
     </tr>
     <tr><td>js-cookie：轻量级 cookie 框架<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106472130">https://blog.csdn.net/weixin_44691608/article/details/106472130</a></td></tr>
@@ -178,6 +178,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Npm 发布: 发布一个自己的 npm 三方包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120353321">https://blog.csdn.net/weixin_44691608/article/details/120353321</a></td></tr>
     <tr><td>Lerna 项目启动（Monorepo 实践）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120374913">https://blog.csdn.net/weixin_44691608/article/details/120374913</a></td></tr>
     <tr><td>Clipboard.js 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121073183">https://blog.csdn.net/weixin_44691608/article/details/121073183</a></td></tr>
+    <tr><td>tiny-emitter 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121074232">https://blog.csdn.net/weixin_44691608/article/details/121074232</a></td></tr>
     <tr>
         <td rowspan="1">front_end/wasm</td>
         <td>WASM 初探: JS 调用 C 模块<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120649157">https://blog.csdn.net/weixin_44691608/article/details/120649157</a></td>
