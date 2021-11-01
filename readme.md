@@ -101,7 +101,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Express 实战: 连接 MySQL 数据库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/111772113">https://blog.csdn.net/weixin_44691608/article/details/111772113</a></td></tr>
     <tr><td>Koa 项目启动: 从脚手架到自定义项目（&连接 mysql 数据库）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120402465">https://blog.csdn.net/weixin_44691608/article/details/120402465</a></td></tr>
     <tr>
-        <td rowspan="8">front_end/webpack</td>
+        <td rowspan="9">front_end/webpack</td>
         <td>Webpack：入門<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106675550">https://blog.csdn.net/weixin_44691608/article/details/106675550</a></td>
     </tr>
     <tr><td>Webpack：clean-webpack-plugin 清理資源<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106753972">https://blog.csdn.net/weixin_44691608/article/details/106753972</a></td></tr>
@@ -111,6 +111,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Webpack: CSS 到 Sass/Scss 与 CSS Module<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119494496">https://blog.csdn.net/weixin_44691608/article/details/119494496</a></td></tr>
     <tr><td>Webpack 实战: 本地 mock 开发模式实践<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119704876">https://blog.csdn.net/weixin_44691608/article/details/119704876</a></td></tr>
     <tr><td>Webpack 实践: 前端 SDK 开发（使用 webpack 打包 library）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120346688">https://blog.csdn.net/weixin_44691608/article/details/120346688</a></td></tr>
+    <tr><td>Webpack 插件分享: webpack-bundle-analyzer 打包文件分析工具<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121084355">https://blog.csdn.net/weixin_44691608/article/details/121084355</a></td></tr>
     <tr>
         <td rowspan="4">front_end/babel</td>
         <td>Babel 入門：JavaScript 的下一代編譯器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106579653">https://blog.csdn.net/weixin_44691608/article/details/106579653</a></td>
