@@ -11,7 +11,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">Group 分组</th>
     <th align="left">Title 标题</th>
     <tr>
-        <td rowspan="29">front_end/javascript</td>
+        <td rowspan="30">front_end/javascript</td>
         <td>JS 基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
     </tr>
     <tr><td>JS 基礎：對象的可修改性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105915717">https://blog.csdn.net/weixin_44691608/article/details/105915717</a></td></tr>
@@ -42,6 +42,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS 进阶: 深入理解键盘事件 Keyboard Event<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120792586">https://blog.csdn.net/weixin_44691608/article/details/120792586</a></td></tr>
     <tr><td>JS 实战: 前端图片下载实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121024144">https://blog.csdn.net/weixin_44691608/article/details/121024144</a></td></tr>
     <tr><td>JS: web 上的文件操作<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121177297">https://blog.csdn.net/weixin_44691608/article/details/121177297</a></td></tr>
+    <tr><td>JS API: Fullscreen 全屏 API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121232146">https://blog.csdn.net/weixin_44691608/article/details/121232146</a></td></tr>
     <tr>
         <td rowspan="4">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
