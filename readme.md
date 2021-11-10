@@ -197,9 +197,10 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
         <td>UI 实现分享: Setting 页面<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121018554">https://blog.csdn.net/weixin_44691608/article/details/121018554</a></td>
     </tr>
     <tr>
-        <td rowspan="1">back_end/rust</td>
+        <td rowspan="2">back_end/rust</td>
         <td>Rust 基础: Module 模块系统<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121245768">https://blog.csdn.net/weixin_44691608/article/details/121245768</a></td>
     </tr>
+    <tr><td>Rust 基础: 三方库依赖 & 自定义三方库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121246554">https://blog.csdn.net/weixin_44691608/article/details/121246554</a></td></tr>
     <tr>
         <td rowspan="9">back_end/java</td>
         <td>Java 基礎：Enum 枚舉<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106899527">https://blog.csdn.net/weixin_44691608/article/details/106899527</a></td>
