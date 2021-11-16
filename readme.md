@@ -183,7 +183,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Moment.js & Day.js 时间日期类库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117139194">https://blog.csdn.net/weixin_44691608/article/details/117139194</a></td></tr>
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
     <tr>
-        <td rowspan="6">front_end/library_source_code</td>
+        <td rowspan="7">front_end/library_source_code</td>
         <td>Clipboard.js 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121073183">https://blog.csdn.net/weixin_44691608/article/details/121073183</a></td>
     </tr>
     <tr><td>tiny-emitter 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121074232">https://blog.csdn.net/weixin_44691608/article/details/121074232</a></td></tr>
@@ -191,6 +191,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>good-listener 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121077328">https://blog.csdn.net/weixin_44691608/article/details/121077328</a></td></tr>
     <tr><td>delegate 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121079107">https://blog.csdn.net/weixin_44691608/article/details/121079107</a></td></tr>
     <tr><td>balanced-match 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121356293">https://blog.csdn.net/weixin_44691608/article/details/121356293</a></td></tr>
+    <tr><td>brace-expansion 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121361324">https://blog.csdn.net/weixin_44691608/article/details/121361324</a></td></tr>
     <tr>
         <td rowspan="1">front_end/wasm</td>
         <td>WASM 初探: JS 调用 C 模块<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120649157">https://blog.csdn.net/weixin_44691608/article/details/120649157</a></td>
