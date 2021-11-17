@@ -54,11 +54,12 @@ module.exports.win32 = win32;
 
 ## 参考连接
 
-| Title                                  | Link                                                                                                 |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| path-is-absolute - npm                 | [https://www.npmjs.com/package/path-is-absolute](https://www.npmjs.com/package/path-is-absolute)     |
-| sindresorhus/path-is-absolute - Github | [https://github.com/sindresorhus/path-is-absolute](https://github.com/sindresorhus/path-is-absolute) |
+| Title                                  | Link                                                                                                                     |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| path-is-absolute - npm                 | [https://www.npmjs.com/package/path-is-absolute](https://www.npmjs.com/package/path-is-absolute)                         |
+| sindresorhus/path-is-absolute - Github | [https://github.com/sindresorhus/path-is-absolute](https://github.com/sindresorhus/path-is-absolute)                     |
+| path.isAbsolute - NodeJS               | [https://nodejs.org/api/path.html#path_path_isabsolute_path](https://nodejs.org/api/path.html#path_path_isabsolute_path) |
 
 ## 阅读笔记参考
 
-[]()
+[https://github.com/superfreeeee/Blog-code/tree/main/source_code_research/path-is-absolute-2.0.0](https://github.com/superfreeeee/Blog-code/tree/main/source_code_research/path-is-absolute-2.0.0)
