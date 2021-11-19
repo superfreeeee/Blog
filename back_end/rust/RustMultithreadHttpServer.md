@@ -34,7 +34,7 @@ Rust 语言内置提供了 `TcpListener` 的结构体，来实现监听 TCP 的�
 
 首先我们使用 `TcpListener` 建立一个监听实例，监听本地上的 8080 端口
 
-```rs
+```rust
 fn main() -> io::Result<()> {
     let addr = "127.0.0.1:8080";
     let listener = TcpListener::bind(addr)?;
@@ -44,7 +44,7 @@ fn main() -> io::Result<()> {
 
 接下来我们可以调用 `incoming` 方法，会接收到一个 `Result<TcpStream>` 类型的 TCP 流，然后我们传入 `handle_client` 方法进行处理
 
-```rs
+```rust
     let mut stream_id = 0;
 
     for stream in listener.incoming() {
@@ -63,7 +63,7 @@ fn main() -> io::Result<()> {
 
 最后就是我们的 `handle_client` 处理函数，处理比较简陋，完全没有检查 Http 信息，只是简单响应 Http 请求罢了
 
-```rs
+```rust
 fn handle_client(mut stream: TcpStream, id: i32) {
     println!("handle stream({}) ...\n", id);
     let mut buffer = [0u8; 512];
@@ -104,7 +104,7 @@ fn handle_client(mut stream: TcpStream, id: i32) {
 
 - `/src/pool.rs`
 
-```rs
+```rust
 pub struct ThreadPool {
     workers: Vec<Worker>,
     sender: mpsc::Sender<Job>,
@@ -115,7 +115,7 @@ pub struct ThreadPool {
 
 接下来则是线程池的方法实现
 
-```rs
+```rust
 impl ThreadPool {
     pub fn new(size: usize) -> Self {
         assert!(size > 0);
@@ -139,7 +139,7 @@ impl ThreadPool {
 
 对于构造函数，我们就是根据 `size` 参数决定创建多少个 Worker，并使用 `Arc<Mutext<Receiver>>` 来包裹 Receiver 对象，来保证他的线程安全
 
-```rs
+```rust
     pub fn execute<F>(&self, f: F) where F: FnOnce() + Send + 'static {
         self.sender.send(Box::new(f)).unwrap();
     }
@@ -152,7 +152,7 @@ impl ThreadPool {
 
 前面提过线程池创建了对应线程池容量的工人队列，每个工人会维护一个线程持续执行
 
-```rs
+```rust
 pub struct Worker {
     id: usize,
     thread: thread::JoinHandle<()>,
@@ -161,7 +161,7 @@ pub struct Worker {
 
 接下来我们会直接在构造函数里面启动一个线程，然后从 `receiver` 接受任务来执行
 
-```rs
+```rust
 impl Worker {
     fn new(id: usize, receiver: Arc<Mutex<mpsc::Receiver<Job>>>) -> Worker {
         let thread = thread::spawn(move || {
@@ -196,7 +196,7 @@ type Job = Box<dyn FnOnce() + Send + 'static>;
 
 最后我们只要稍稍的将 TCP 服务的处理函数包装成一个任务(匿名函数)，并传入线程池进行处理就可以啦
 
-```rs
+```rust
 fn main() -> io::Result<()> {
     // ...
     let pool = ThreadPool::new(4);

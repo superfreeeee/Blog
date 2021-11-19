@@ -42,7 +42,7 @@ class Object {
 
 当然，作为与 C 语言同层级的现代语言，Rust 也提供了相应的析构函数写法，以一个特殊的 `Trait - Drop` 的形式提供，实现方式如下
 
-```rs
+```rust
 impl Drop for AStruct {
     fn drop(&mut self) {
         // do something before drop
@@ -54,7 +54,7 @@ impl Drop for AStruct {
 
 下面我们来看看代码实现，先定义两个结构体，又是熟悉的 Point 和 Rectangle
 
-```rs
+```rust
 #[derive(Debug)]
 struct Point {
     x: i32,
@@ -72,7 +72,7 @@ struct Rectangle {
 
 然后为这两个结构体实现一个一样的 Drop 特性
 
-```rs
+```rust
 use std::fmt::Debug;
 use std::mem::size_of_val;
 
@@ -99,7 +99,7 @@ impl Drop for Rectangle {
 
 - Sample1：两个 Point
 
-```rs
+```rust
 fn main() {
     let point = Point { x: -1, y: -1 };
     println!("point = {:?}", point);
@@ -120,7 +120,7 @@ point = Point { x: 0, y: 0 }
 
 - Sample2：Rectangle 与 Box
 
-```rs
+```rust
 fn main() {
     let rect = Rectangle {
         top_left: Point { x: 1, y: 1 },
@@ -153,7 +153,7 @@ box_rect = Rectangle { top_left: Point { x: 3, y: 3 }, bottom_right: Point { x: 
 
 实际上我们依赖自动回收已经很够了，同时 Rust 的资源利用跟踪机制实在是非常的好，所以我们会用到主动回收的时机是在少之又少，也是一个全局提供的 `drop` 函数
 
-```rs
+```rust
 fn main() {
     let point = Point { x: -1, y: -1 };
     println!("point = {:?}", point);

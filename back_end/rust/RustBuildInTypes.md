@@ -45,7 +45,7 @@
 
 首先是基础类型的创建
 
-```rs
+```rust
 #[derive(Debug, Copy, Clone)]
 struct Point {
     x: i32,
@@ -61,7 +61,7 @@ struct Rectangle {
 
 接下来我们使用 `std::mem::size_of_val` 来区别 Box 指针与一般栈上变量的占用空间区别
 
-```rs
+```rust
 fn test_alloc() {
     println!(">>>>> test allocation");
 
@@ -87,7 +87,7 @@ sizeof(rect) = 16
 
 普通的栈上变量理所当然就是整个数据块的大小，分别是两个 `i32` 和两个 `Point` 的大小，占用 8B 和 16B
 
-```rs
+```rust
     // Point on heap
     let box_point = Box::from(point);
     println!("box_point = {:?}", box_point);
@@ -121,7 +121,7 @@ sizeof(box_rect) = 8
 
 - `/src/box_test.rs`
 
-```rs
+```rust
 fn test_mut() {
     println!(">>>>> test mutability");
 
@@ -152,7 +152,7 @@ box_point = Point { x: 1, y: 1 }
 
 第二种我们还可以修改 Box 的指针，让他指向一个新的 Point 对象
 
-```rs
+```rust
     // rebind 'Box<Point>'
     *box_point = Point { x: 2, y: 2 };
     println!("point = {:?}", point);
@@ -170,7 +170,7 @@ box_point = Point { x: 2, y: 2 }
 
 由于 Rust 的所有权定义，我们可以明确辨别原始数据与引用数据的问题，也就是说 `Box<Point>`，永远都是持有一份自己的 Point 对象；因此我们想要引用别的数据时，其实也就是将引用的变量赋值给 Box 就能形成类似的效果
 
-```rs
+```rust
     // assign 'Box<&mut Point>'
     let box_point_ref = Box::from(&mut point);
     box_point_ref.x = 3;
@@ -205,7 +205,7 @@ Option 存在两种变体：`Some<T>(value)` 和 `None`，下面我们来看看�
 
 - `/src/option_test.rs`
 
-```rs
+```rust
 fn div(a: i32, b: i32) -> Option<f64> {
     if b == 0 {
         None
@@ -243,7 +243,7 @@ fn test_return() {
 
 - `/src/option_test.rs`
 
-```rs
+```rust
 fn match_option(option: Option<i32>) {
     match option {
         Some(val) => println!("match val = {}", val),
@@ -268,7 +268,7 @@ match val = 4
 
 `match` 的语法就不多说了，自己看。本质上我们直接使用
 
-```rs
+```rust
 match option {
     Some(val) => {/* ... */}
     None => {/*  ... */}
@@ -277,7 +277,7 @@ match option {
 
 的定型就能够分别处理 Some 的返回类型与 None 的返回类型
 
-```rs
+```rust
 
 fn match_assign_option(option: Option<i32>) -> i32 {
     if let Some(val) = option {
@@ -302,7 +302,7 @@ val = 5
 
 这在不需要处理 None 的时候将非常好用，如
 
-```rs
+```rust
 if let Some(val) = option {
     // do something with val
 }
@@ -314,7 +314,7 @@ if let Some(val) = option {
 
 - `/src/option_test.rs`
 
-```rs
+```rust
 fn unwrap_option(option: Option<i32>) -> i32 {
     option.unwrap()
 }
@@ -322,7 +322,7 @@ fn unwrap_option(option: Option<i32>) -> i32 {
 
 首先我们定义一个函数直接返回解包的结果
 
-```rs
+```rust
 fn unwrap_print_option(f: fn() -> i32) {
     if let Ok(val) = panic::catch_unwind(f) {
         println!("val = {}", val);
@@ -332,7 +332,7 @@ fn unwrap_print_option(f: fn() -> i32) {
 
 接下来我们使用 `panic::catch_unwind` 来接住 panic，并打印结果，如果有的话
 
-```rs
+```rust
 // Option 透过 unwrap 解构
 fn test_unwrap() {
     println!(">>>>> test Option.unwrap");
@@ -362,7 +362,7 @@ val = 6
 
 直接用 `unwrap` 很烦，不小心就抛出了个 panic，而使用 `?` 不同，如果是 none 的话他也会返回，这时候我们就可以使用更简洁的语法
 
-```rs
+```rust
 fn create_option(x: i32) -> Option<i32> {
     if x >= 0 {
         Some(x)
@@ -421,7 +421,7 @@ get positive integer: 0
 
 首先先定义好异常类型
 
-```rs
+```rust
 #[derive(Debug)]
 enum MathError {
     DivisionByZero,
@@ -434,7 +434,7 @@ type MathResult = Result<f64, MathError>;
 
 定义三个运算函数，并使用别名定义 `MathResult` 类型，作为一个更具体的 Result 类型（这也是 Rsut 里面常用的手段）
 
-```rs
+```rust
 // 除法
 fn div(x: f64, y: f64) -> MathResult {
     if y == 0.0 {
@@ -465,7 +465,7 @@ fn ln(x: f64) -> MathResult {
 
 三个函数都会返回一个 `MathResult`，也就是可能产生异常的方法，最后我们一样用多层的 match 一一解析
 
-```rs
+```rust
 // sqrt(ln(x / y)) 测试
 fn test_ops(x: f64, y: f64) -> MathResult {
     match div(x, y) {
@@ -498,7 +498,7 @@ fn test_ops_result(x: f64, y: f64) {
 
 并额外定义一个打印结果的函数，下面就可以测试一下
 
-```rs
+```rust
 pub fn test() {
     println!(">>>>> test 1");
     test_ops_result(1.0, 0.0);
@@ -522,7 +522,7 @@ sqrt(ln(5 / 2)) = 0.9572307620809911
 
 但是我们还是很懒，我们回头看一下 `test_ops` 函数
 
-```rs
+```rust
 // sqrt(ln(x / y)) 测试
 fn test_ops(x: f64, y: f64) -> MathResult {
     match div(x, y) {
@@ -548,7 +548,7 @@ fn test_ops(x: f64, y: f64) -> MathResult {
 
 - `/src/result_test.rs`
 
-```rs
+```rust
 fn test_ops_simple(x: f64, y: f64) -> MathResult {
     let ratio = div(x, y)?;
     let ln = ln(ratio)?;
@@ -560,7 +560,7 @@ fn test_ops_simple(x: f64, y: f64) -> MathResult {
 
 使用 `?` 解包，简直清爽的不要不要的，甚至你想搞一点写成
 
-```rs
+```rust
 fn test_ops_simple(x: f64, y: f64) -> MathResult {
     Ok(sqrt(ln(div(x, y)?)?)?)
 }
@@ -568,7 +568,7 @@ fn test_ops_simple(x: f64, y: f64) -> MathResult {
 
 也可以，下面一样测试一下输出就行啦
 
-```rs
+```rust
 fn test_ops_result_simple(x: f64, y: f64) {
     match test_ops_simple(x, y) {
         Err(e) => {
@@ -581,7 +581,7 @@ fn test_ops_result_simple(x: f64, y: f64) {
 }
 ```
 
-```rs
+```rust
 pub fn test() {
     println!("\n>>>>> test 2");
     test_ops_result_simple(1.0, 0.0);

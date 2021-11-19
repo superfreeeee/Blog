@@ -48,7 +48,7 @@ rand = "0.8.0"
 
 - `/app/src/main.rs`
 
-```rs
+```rust
 extern crate rand;
 
 fn main() {
@@ -81,7 +81,7 @@ $ cargo new lib --lib
 
 注意三方库的主入口为 `lib.rs`
 
-```rs
+```rust
 pub fn test_fn() {
     println!("invoke test_fn from lib");
 }
@@ -106,7 +106,7 @@ lib = { path = "../lib" }
 
 - `/app/src/main.rs`
 
-```rs
+```rust
 extern crate lib;
 
 fn main() {

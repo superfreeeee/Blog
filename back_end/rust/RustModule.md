@@ -32,7 +32,7 @@ Rust 默认的入口为 `main.rs`，我们可以直接在文件内创建新的�
 
 - `/src/main.rs`
 
-```rs
+```rust
 mod mod_a {
     pub fn f() {
         println!("invoke f in mod_a");
@@ -62,7 +62,7 @@ invoke g in mod_a
 
 - `/src/mod_b.rs`
 
-```rs
+```rust
 pub fn f() {
     println!("invoke f in mod_b");
 }
@@ -72,7 +72,7 @@ pub fn f() {
 
 - `/src/main.rs`
 
-```rs
+```rust
 mod mod_b;
 
 fn main() {
@@ -92,7 +92,7 @@ invoke f in mod_b
 
 - `/src/mod_c/mod.rs`
 
-```rs
+```rust
 pub fn f() {
     println!("invoke f in mod_c");
 }
@@ -100,7 +100,7 @@ pub fn f() {
 
 - `/src/main.rs`
 
-```rs
+```rust
 mod mod_c;
 
 fn main() {
@@ -120,7 +120,7 @@ invoke f in mod_c
 
 - `/src/mod_c/mod_d.rs`
 
-```rs
+```rust
 pub fn f() {
     println!("invoke f in mod_d");
 }
@@ -128,7 +128,7 @@ pub fn f() {
 
 - `/src/mod_c/mod.rs`
 
-```rs
+```rust
 pub mod mod_d;
 ```
 
@@ -136,7 +136,7 @@ pub mod mod_d;
 
 - `/src/main.rs`
 
-```rs
+```rust
 mod mod_c;
 
 fn main() {
@@ -146,7 +146,7 @@ fn main() {
 
 或是可以使用 use 关键字
 
-```rs
+```rust
 mod mod_c;
 fn main() {
     use mod_c::mod_d;
