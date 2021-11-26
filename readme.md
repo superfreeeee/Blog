@@ -11,7 +11,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">Group 分组</th>
     <th align="left">Title 标题</th>
     <tr>
-        <td rowspan="31">front_end/javascript</td>
+        <td rowspan="32">front_end/javascript</td>
         <td>JS 基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
     </tr>
     <tr><td>JS 基礎：對象的可修改性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105915717">https://blog.csdn.net/weixin_44691608/article/details/105915717</a></td></tr>
@@ -44,6 +44,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS: web 上的文件操作<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121177297">https://blog.csdn.net/weixin_44691608/article/details/121177297</a></td></tr>
     <tr><td>JS API: Fullscreen 全屏 API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121232146">https://blog.csdn.net/weixin_44691608/article/details/121232146</a></td></tr>
     <tr><td>JS Web API: NetworkInformation 网络状况 API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121427365">https://blog.csdn.net/weixin_44691608/article/details/121427365</a></td></tr>
+    <tr><td>JS Web API: Stream API 解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121557249">https://blog.csdn.net/weixin_44691608/article/details/121557249</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="4">front_end/typescript</td>
