@@ -275,7 +275,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>C 基础: Enum 枚举类型<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110928032">https://blog.csdn.net/weixin_44691608/article/details/110928032</a></td></tr>
     <tr><td>C 进阶: Var Args 可变参数<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110931705">https://blog.csdn.net/weixin_44691608/article/details/110931705</a></td></tr>
     <tr>
-        <td rowspan="6">back_end/cpp</td>
+        <td rowspan="7">back_end/cpp</td>
         <td>Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
     </tr>
     <tr><td>Cpp 進階：Vector 向量<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107045275">https://blog.csdn.net/weixin_44691608/article/details/107045275</a></td></tr>
@@ -283,6 +283,8 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Cpp 進階：String 字符串<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107127829">https://blog.csdn.net/weixin_44691608/article/details/107127829</a></td></tr>
     <tr><td>Cpp 进阶：Smart Pointer 智能指针<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109728922">https://blog.csdn.net/weixin_44691608/article/details/109728922</a></td></tr>
     <tr><td>C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115365340">https://blog.csdn.net/weixin_44691608/article/details/115365340</a></td></tr>
+    <tr><td>C++: SDL2 开发环境配置（Mac+CLion）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121643872">https://blog.csdn.net/weixin_44691608/article/details/121643872</a></td></tr>
+    <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="4">deployment/docker</td>
         <td>Docker：部署入門 + 常用指令<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107208251">https://blog.csdn.net/weixin_44691608/article/details/107208251</a></td>

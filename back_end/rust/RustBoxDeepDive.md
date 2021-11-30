@@ -25,7 +25,7 @@
 
 [Rust 内置类型: Box、Option、Result](https://blog.csdn.net/weixin_44691608/article/details/121316161)
 
-- Box 为一种特别的引用类型，实际数据存储在栈上
+- Box 为一种特别的引用类型，实际数据存储在堆上
 - Box 作为引用类型默认实现了 `Deref` 特性来实现数据访问（获取真实数据引用）
 
 ## 2. 自定义模拟 Box 类型
