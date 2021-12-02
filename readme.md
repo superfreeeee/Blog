@@ -277,7 +277,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>C 基础: Enum 枚举类型<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110928032">https://blog.csdn.net/weixin_44691608/article/details/110928032</a></td></tr>
     <tr><td>C 进阶: Var Args 可变参数<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/110931705">https://blog.csdn.net/weixin_44691608/article/details/110931705</a></td></tr>
     <tr>
-        <td rowspan="7">back_end/cpp</td>
+        <td rowspan="8">back_end/cpp</td>
         <td>Cpp 基礎：Constructor 各類構造函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106958805">https://blog.csdn.net/weixin_44691608/article/details/106958805</a></td>
     </tr>
     <tr><td>Cpp 進階：Vector 向量<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107045275">https://blog.csdn.net/weixin_44691608/article/details/107045275</a></td></tr>
@@ -286,6 +286,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Cpp 进阶：Smart Pointer 智能指针<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109728922">https://blog.csdn.net/weixin_44691608/article/details/109728922</a></td></tr>
     <tr><td>C++ 实验笔记: cin 之如何在命令行中输入结束符号(EOF)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/115365340">https://blog.csdn.net/weixin_44691608/article/details/115365340</a></td></tr>
     <tr><td>C++: SDL2 开发环境配置（Mac+CLion）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121643872">https://blog.csdn.net/weixin_44691608/article/details/121643872</a></td></tr>
+    <tr><td>WASM 初探: JS 调用 C 模块<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120649157">https://blog.csdn.net/weixin_44691608/article/details/120649157</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="4">deployment/docker</td>
@@ -330,7 +331,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Sorting 排序算法: Counting Sort 计数排序<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109613185">https://blog.csdn.net/weixin_44691608/article/details/109613185</a></td></tr>
     <tr><td>Tree 树算法: BST-Traversal 二叉(搜索)树的遍历<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109607288">https://blog.csdn.net/weixin_44691608/article/details/109607288</a></td></tr>
     <tr>
-        <td rowspan="1">os/nasm</td>
+        <td rowspan="1">os/assembly</td>
         <td>NASM: Register 寄存器<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109851814">https://blog.csdn.net/weixin_44691608/article/details/109851814</a></td>
     </tr>
     <tr>
