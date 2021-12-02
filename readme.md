@@ -190,7 +190,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Moment.js & Day.js 时间日期类库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117139194">https://blog.csdn.net/weixin_44691608/article/details/117139194</a></td></tr>
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
     <tr>
-        <td rowspan="13">front_end/library_source_code</td>
+        <td rowspan="14">front_end/library_source_code</td>
         <td>Clipboard.js 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121073183">https://blog.csdn.net/weixin_44691608/article/details/121073183</a></td>
     </tr>
     <tr><td>tiny-emitter 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121074232">https://blog.csdn.net/weixin_44691608/article/details/121074232</a></td></tr>
@@ -205,6 +205,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>path-is-absolute 源码解析(Deprecated)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121392020">https://blog.csdn.net/weixin_44691608/article/details/121392020</a></td></tr>
     <tr><td>inflight 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121397659">https://blog.csdn.net/weixin_44691608/article/details/121397659</a></td></tr>
     <tr><td>is-path-cwd 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121398045">https://blog.csdn.net/weixin_44691608/article/details/121398045</a></td></tr>
+    <tr><td>mime 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121688693">https://blog.csdn.net/weixin_44691608/article/details/121688693</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="1">front_end/wasm</td>
