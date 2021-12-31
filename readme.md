@@ -230,7 +230,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Lerna 项目启动（Monorepo 实践）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120374913">https://blog.csdn.net/weixin_44691608/article/details/120374913</a></td></tr>
     <tr><td>Yarn 踩坑笔记: 安装异常 资源错误缓存处理(Error: SyntaxError: Invalid or unexpected token)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121347090">https://blog.csdn.net/weixin_44691608/article/details/121347090</a></td></tr>
     <tr>
-        <td rowspan="8">back_end/rust</td>
+        <td rowspan="9">back_end/rust</td>
         <td>Rust 基础: Module 模块系统<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121245768">https://blog.csdn.net/weixin_44691608/article/details/121245768</a></td>
     </tr>
     <tr><td>Rust 基础: 三方库依赖 & 自定义三方库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121246554">https://blog.csdn.net/weixin_44691608/article/details/121246554</a></td></tr>
@@ -240,6 +240,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Rust: Box 智能指针进阶 - Rc、RefCell、Weak<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121609307">https://blog.csdn.net/weixin_44691608/article/details/121609307</a></td></tr>
     <tr><td>Rust Closure 闭包解析（匿名函数）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121644534">https://blog.csdn.net/weixin_44691608/article/details/121644534</a></td></tr>
     <tr><td>Rust 构建 Wasm 模块<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121682417">https://blog.csdn.net/weixin_44691608/article/details/121682417</a></td></tr>
+    <tr><td>Rust: Cargo Workspaces 多项目（即 Monorepo）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122254087">https://blog.csdn.net/weixin_44691608/article/details/122254087</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="9">back_end/java</td>
