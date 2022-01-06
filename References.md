@@ -53,7 +53,7 @@
 | React        | https://zh-hans.reactjs.org/ | 响应式框架 |
 | React Router | https://reactrouter.com/     | 前端路由   |
 | Recoil       |                              | 状态管理   |
-| Next         | https://www.nextjs.cn/       | for React  |
+| Next         | https://www.nextjs.cn/       | 服务端渲染 |
 |              |                              |            |
 
 
