@@ -152,6 +152,8 @@
 | Skypack  |                                                            |
 | Umi      |                                                            |
 | Ice      |                                                            |
+| esbuild  |                                                            |
+| Rome     |                                                            |
 |          |                                                            |
 
 ### Webpack 体系
