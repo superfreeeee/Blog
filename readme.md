@@ -154,7 +154,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue: 深入理解 v-model 工作原理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122264183">https://blog.csdn.net/weixin_44691608/article/details/122264183</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="12">front_end/react</td>
+        <td rowspan="13">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
     </tr>
     <tr><td>React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116363154">https://blog.csdn.net/weixin_44691608/article/details/116363154</a></td></tr>
@@ -168,6 +168,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>React 优化: 到底怎么用 useCallback 才是正确的？<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119054522">https://blog.csdn.net/weixin_44691608/article/details/119054522</a></td></tr>
     <tr><td>react-intersection-observer 源码解析二连发<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121145194">https://blog.csdn.net/weixin_44691608/article/details/121145194</a></td></tr>
     <tr><td>React 代码拆分: 从 react-loadable 到 Suspense + lazy 组合<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122355873">https://blog.csdn.net/weixin_44691608/article/details/122355873</a></td></tr>
+    <tr><td>React 状态管理: Recoil - Facebook 状态管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122503562">https://blog.csdn.net/weixin_44691608/article/details/122503562</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     </tr>
     <tr>
