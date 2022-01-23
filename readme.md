@@ -282,9 +282,11 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>SpringBoot 实战: 静态资源分发配置<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120610330">https://blog.csdn.net/weixin_44691608/article/details/120610330</a></td></tr>
     <tr><td>SpringBoot 实战: 跨域配置（添加 Cors 跨域策略实现）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120610348">https://blog.csdn.net/weixin_44691608/article/details/120610348</a></td></tr>
     <tr>
-        <td rowspan="1">back_end/python</td>
+        <td rowspan="2">back_end/python</td>
         <td>Python: 模块化<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109360032">https://blog.csdn.net/weixin_44691608/article/details/109360032</a></td>
     </tr>
+    <tr><td>Flask 踩坑笔记: localhost:5000 无法访问/host,port 配置无效(Error: Failed to load resource: the server responded<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122654314">https://blog.csdn.net/weixin_44691608/article/details/122654314</a></td></tr>
+    <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="2">back_end/numpy</td>
         <td>NumPy：起步 + 創建數組<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106873111">https://blog.csdn.net/weixin_44691608/article/details/106873111</a></td>
