@@ -87,7 +87,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>CSS 实战: 纯 CSS 画三角形<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122291245">https://blog.csdn.net/weixin_44691608/article/details/122291245</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="8">front_end/html</td>
+        <td rowspan="9">front_end/html</td>
         <td>HTML 基礎：Form 表單<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106803022">https://blog.csdn.net/weixin_44691608/article/details/106803022</a></td>
     </tr>
     <tr><td>HTML 基礎：Input 輸入框<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106839246">https://blog.csdn.net/weixin_44691608/article/details/106839246</a></td></tr>
@@ -97,6 +97,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>HTML5 新特性: Web Worker 的创建与使用(webpack + TS 环境)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119839000">https://blog.csdn.net/weixin_44691608/article/details/119839000</a></td></tr>
     <tr><td>深入 Canvas: 基础 2D API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120796926">https://blog.csdn.net/weixin_44691608/article/details/120796926</a></td></tr>
     <tr><td>HTML 进阶: Web Components 原生组件技术<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122286040">https://blog.csdn.net/weixin_44691608/article/details/122286040</a></td></tr>
+    <tr><td>HTML 踩坑笔记: video 标签 autoplay 属性失效(Error: Uncaught (in promise) DOMException: play() failed)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122653682">https://blog.csdn.net/weixin_44691608/article/details/122653682</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="3">front_end/node</td>
