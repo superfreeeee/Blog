@@ -235,12 +235,13 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>UI 实现分享: 动态导航栏<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121525547">https://blog.csdn.net/weixin_44691608/article/details/121525547</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="4">front_end/Npm</td>
+        <td rowspan="5">front_end/Npm</td>
         <td>Npm 发布: 发布一个自己的 npm 三方包<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120353321">https://blog.csdn.net/weixin_44691608/article/details/120353321</a></td>
     </tr>
     <tr><td>Lerna 项目启动（Monorepo 实践）<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120374913">https://blog.csdn.net/weixin_44691608/article/details/120374913</a></td></tr>
     <tr><td>Yarn 踩坑笔记: 安装异常 资源错误缓存处理(Error: SyntaxError: Invalid or unexpected token)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121347090">https://blog.csdn.net/weixin_44691608/article/details/121347090</a></td></tr>
     <tr><td>Pnpm Workspace: 单仓库多项目(monorepo)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122379051">https://blog.csdn.net/weixin_44691608/article/details/122379051</a></td></tr>
+    <tr><td>Yarn 升级: v3 都出了不要再用 yarn1 了<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122659937">https://blog.csdn.net/weixin_44691608/article/details/122659937</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="9">back_end/rust</td>
