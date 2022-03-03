@@ -313,7 +313,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>WASM 初探: JS 调用 C 模块<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120649157">https://blog.csdn.net/weixin_44691608/article/details/120649157</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="8">deployment/docker</td>
+        <td rowspan="9">deployment/docker</td>
         <td>Docker：部署入門 + 常用指令<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/107208251">https://blog.csdn.net/weixin_44691608/article/details/107208251</a></td>
     </tr>
     <tr><td>Docker: Mac 上的 Ubuntu 环境搭建<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/109676334">https://blog.csdn.net/weixin_44691608/article/details/109676334</a></td></tr>
@@ -323,6 +323,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>细说 Nginx: 静态资源服务器基础 - server,location,root<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123166831">https://blog.csdn.net/weixin_44691608/article/details/123166831</a></td></tr>
     <tr><td>细说 Nginx: 负载均衡 Load Balance<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123171405">https://blog.csdn.net/weixin_44691608/article/details/123171405</a></td></tr>
     <tr><td>Docker: 部署 Nginx 反向代理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123187168">https://blog.csdn.net/weixin_44691608/article/details/123187168</a></td></tr>
+    <tr><td>Nginx 踩坑笔记: 部署 React/Vue 前端应用路由 404 Not Found(Error: 404 Not Found | Nginx 1.21.6)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123253317">https://blog.csdn.net/weixin_44691608/article/details/123253317</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="10">design_pattern</td>
