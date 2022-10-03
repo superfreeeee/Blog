@@ -178,7 +178,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     </tr>
     <tr>
-        <td rowspan="6">front_end/redux</td>
+        <td rowspan="7">front_end/redux</td>
         <td>Redux 应用: 在 React 中使用 redux 的 3 种 方式 + 异步更新 + 中间件(TS实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118633998">https://blog.csdn.net/weixin_44691608/article/details/118633998</a></td>
     </tr>
     <tr><td>Redux 源码解析: 从源码的角度了解 redux-thunk 到底怎么用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119517532">https://blog.csdn.net/weixin_44691608/article/details/119517532</a></td></tr>
@@ -186,6 +186,8 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Redux 源码解析(一): createStore API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120008551">https://blog.csdn.net/weixin_44691608/article/details/120008551</a></td></tr>
     <tr><td>Redux 源码解析(二): bindActionCreators & combineReducers API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120031460">https://blog.csdn.net/weixin_44691608/article/details/120031460</a></td></tr>
     <tr><td>Redux 源码解析(三): compose & applyMiddleware API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120051587">https://blog.csdn.net/weixin_44691608/article/details/120051587</a></td></tr>
+    <tr><td>细说 Redux Toolkit 1 : 重新回顾 Redux<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127152138">https://blog.csdn.net/weixin_44691608/article/details/127152138</a></td></tr>
+    <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="5">front_end/scheme</td>
         <td>技术方案实践: 服务端 api 接入的实现 & 思考<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119858489">https://blog.csdn.net/weixin_44691608/article/details/119858489</a></td>
@@ -194,6 +196,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>技术方案实践: EventEmitter 和 Observable 对象实现<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120383933">https://blog.csdn.net/weixin_44691608/article/details/120383933</a></td></tr>
     <tr><td>技术方案实践: 音频播放器封装<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120596528">https://blog.csdn.net/weixin_44691608/article/details/120596528</a></td></tr>
     <tr><td>技术方案分享: gulp + webpack 联合编译三方库发布版本<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121346369">https://blog.csdn.net/weixin_44691608/article/details/121346369</a></td></tr>
+    <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="8">front_end/others</td>
         <td>Axios：前端 HTTP 請求<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106077323">https://blog.csdn.net/weixin_44691608/article/details/106077323</a></td>
@@ -205,6 +208,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Axios 应用: 实现后端接口封装 & 重复请求回避(撤销请求)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/113765479">https://blog.csdn.net/weixin_44691608/article/details/113765479</a></td></tr>
     <tr><td>Moment.js & Day.js 时间日期类库<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117139194">https://blog.csdn.net/weixin_44691608/article/details/117139194</a></td></tr>
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
+    <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="20">front_end/library_source_code</td>
         <td>Clipboard.js 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121073183">https://blog.csdn.net/weixin_44691608/article/details/121073183</a></td>

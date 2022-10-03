@@ -148,7 +148,7 @@
 | Parcel   | https://zh.parceljs.org/                                   | 通用             |
 | Rollup   | https://rollupjs.org/guide/zh/                             | 通用（三方库）   |
 | Vite     | https://www.vitejs.net/                                    | 打包工具         |
-| Snowpack |                                                            |
+| Snowpack | https://www.snowpack.dev/                                  |
 | Skypack  |                                                            |
 | Umi      |                                                            |
 | Ice      |                                                            |
@@ -258,7 +258,9 @@
 | fs-extra          | https://github.com/jprichardson/node-fs-extra      | fs 扩展             |
 | clipboard         | https://clipboardjs.com/                           | 剪贴板              |
 | Gitgraph          | https://gitgraphjs.com/#0                          | Git 分支图          |
-|                   |                                                    |                     |
+| yargs             | http://yargs.js.org/                               |                     |
+| rimraf            |                                                    |                     |
+| cachedir          |                                                    |                     |
 
 ## 游戏框架
 
