@@ -178,7 +178,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     </tr>
     <tr>
-        <td rowspan="7">front_end/redux</td>
+        <td rowspan="8">front_end/redux</td>
         <td>Redux 应用: 在 React 中使用 redux 的 3 种 方式 + 异步更新 + 中间件(TS实现)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118633998">https://blog.csdn.net/weixin_44691608/article/details/118633998</a></td>
     </tr>
     <tr><td>Redux 源码解析: 从源码的角度了解 redux-thunk 到底怎么用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119517532">https://blog.csdn.net/weixin_44691608/article/details/119517532</a></td></tr>
@@ -187,6 +187,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Redux 源码解析(二): bindActionCreators & combineReducers API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120031460">https://blog.csdn.net/weixin_44691608/article/details/120031460</a></td></tr>
     <tr><td>Redux 源码解析(三): compose & applyMiddleware API<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/120051587">https://blog.csdn.net/weixin_44691608/article/details/120051587</a></td></tr>
     <tr><td>细说 Redux Toolkit 1 : 重新回顾 Redux<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127152138">https://blog.csdn.net/weixin_44691608/article/details/127152138</a></td></tr>
+    <tr><td>细说 Redux Toolkit 2 : 基础用法<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127196622">https://blog.csdn.net/weixin_44691608/article/details/127196622</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="5">front_end/scheme</td>

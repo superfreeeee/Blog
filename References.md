@@ -37,14 +37,14 @@
 
 ## 客户端响应式框架
 
-| Name      | Link                      |
-| --------- | ------------------------- |
-| React     |                           |
-| Vue       |                           |
-| Angular   | https://angular.cn/       |
-| Svelte    | https://www.sveltejs.cn/  |
-| Bootstrap | https://getbootstrap.com/ |
-|           |                           |
+| Name      | Link                            |
+| --------- | ------------------------------- |
+| React     | https://zh-hans.reactjs.org/    |
+| Vue       | https://cn.vuejs.org/index.html |
+| Angular   | https://angular.cn/             |
+| Svelte    | https://www.sveltejs.cn/        |
+| Bootstrap | https://getbootstrap.com/       |
+|           |                                 |
 
 ### React 体系
 
