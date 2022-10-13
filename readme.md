@@ -49,12 +49,14 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS: 自定义右键操作列表 Context Menu<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123263818">https://blog.csdn.net/weixin_44691608/article/details/123263818</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="4">front_end/typescript</td>
+        <td rowspan="5">front_end/typescript</td>
         <td>TS 基礎：類型定義<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872189">https://blog.csdn.net/weixin_44691608/article/details/105872189</a></td>
     </tr>
     <tr><td>TS 基礎：Interface接口<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872267">https://blog.csdn.net/weixin_44691608/article/details/105872267</a></td></tr>
     <tr><td>TS 基础: 运用 TypeScript 进行开发的 5 种方式<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/117094833">https://blog.csdn.net/weixin_44691608/article/details/117094833</a></td></tr>
     <tr><td>TS 踩坑笔记: 箭头函数添加泛型报错(Error: JSX element ‘T‘ has no corresponding closing tag.ts(17008))<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/119518370">https://blog.csdn.net/weixin_44691608/article/details/119518370</a></td></tr>
+    <tr><td>TS 进阶: Utility Types 工具类型<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127299877">https://blog.csdn.net/weixin_44691608/article/details/127299877</a></td></tr>
+    <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="12">front_end/es6</td>
         <td>ES6 特性：ArrowFunction箭頭函數<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105896750">https://blog.csdn.net/weixin_44691608/article/details/105896750</a></td>

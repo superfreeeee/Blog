@@ -4,12 +4,12 @@
 
 <!-- TOC -->
 
-- [踩坑笔记: (Error: )](#踩坑笔记-error-)
+- [TS 踩坑笔记: 箭头函数添加泛型报错(Error: JSX element 'T' has no corresponding closing tag.ts(17008))](#ts-踩坑笔记-箭头函数添加泛型报错error-jsx-element-t-has-no-corresponding-closing-tagts17008)
 - [前言](#前言)
 - [正文](#正文)
   - [项目背景](#项目背景)
   - [问题描述](#问题描述)
-  - [解决方案](#解决方案)
+  - [解决方案：加逗号](#解决方案加逗号)
 - [结语](#结语)
 - [其他资源](#其他资源)
   - [参考连接](#参考连接)
