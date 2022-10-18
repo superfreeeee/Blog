@@ -162,7 +162,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>Vue: 深入理解 v-model 工作原理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122264183">https://blog.csdn.net/weixin_44691608/article/details/122264183</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="15">front_end/react</td>
+        <td rowspan="16">front_end/react</td>
         <td>React 項目啟動：create-react-app<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/106516736">https://blog.csdn.net/weixin_44691608/article/details/106516736</a></td>
     </tr>
     <tr><td>React 项目启动2：使用 webpack 手动创建 React 项目(附加 React Router + Redux)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/116363154">https://blog.csdn.net/weixin_44691608/article/details/116363154</a></td></tr>
@@ -179,6 +179,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>React 状态管理: Recoil - Facebook 状态管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122503562">https://blog.csdn.net/weixin_44691608/article/details/122503562</a></td></tr>
     <tr><td>React Router 升级 v6: Redirect 重定向替代方案<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123256986">https://blog.csdn.net/weixin_44691608/article/details/123256986</a></td></tr>
     <tr><td>React SSR: 基于 express 自构建 SSR 服务端渲染<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127349795">https://blog.csdn.net/weixin_44691608/article/details/127349795</a></td></tr>
+    <tr><td>React 进阶: useSyncExternalStore API 外部状态管理<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127399728">https://blog.csdn.net/weixin_44691608/article/details/127399728</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     </tr>
     <tr>
