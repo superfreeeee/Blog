@@ -217,7 +217,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>前端工作流: 自动化 Code Lint 使你的项目代码更规范<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/118883229">https://blog.csdn.net/weixin_44691608/article/details/118883229</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="20">front_end/library_source_code</td>
+        <td rowspan="21">front_end/library_source_code</td>
         <td>Clipboard.js 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121073183">https://blog.csdn.net/weixin_44691608/article/details/121073183</a></td>
     </tr>
     <tr><td>tiny-emitter 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121074232">https://blog.csdn.net/weixin_44691608/article/details/121074232</a></td></tr>
@@ -239,6 +239,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>lru-cache 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121722250">https://blog.csdn.net/weixin_44691608/article/details/121722250</a></td></tr>
     <tr><td>single-line-log 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121738878">https://blog.csdn.net/weixin_44691608/article/details/121738878</a></td></tr>
     <tr><td>semver 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121747721">https://blog.csdn.net/weixin_44691608/article/details/121747721</a></td></tr>
+    <tr><td>Zustand 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127438349">https://blog.csdn.net/weixin_44691608/article/details/127438349</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="1">front_end/wasm</td>
