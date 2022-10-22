@@ -13,7 +13,7 @@
     - [Express 体系](#express-体系)
     - [Koa 体系](#koa-体系)
   - [CSS 预处理器](#css-预处理器)
-  - [Compiler 编译工具](#compiler-编译工具)
+  - [Compiler 编译相关](#compiler-编译相关)
     - [Babel 体系](#babel-体系)
   - [Bundler 打包工具](#bundler-打包工具)
     - [Webpack 体系](#webpack-体系)
@@ -23,6 +23,8 @@
   - [UI 组件库](#ui-组件库)
   - [测试框架](#测试框架)
   - [时间处理](#时间处理)
+  - [Node/Npm 能力增强](#nodenpm-能力增强)
+  - [小工具 & 语法糖](#小工具--语法糖)
   - [其他 & 三方工具库](#其他--三方工具库)
   - [游戏框架](#游戏框架)
     - [Docs 教学文档](#docs-教学文档)
@@ -121,14 +123,17 @@
 | Sass | https://sass-lang.com/    |
 |      |                           |
 
-## Compiler 编译工具
+## Compiler 编译相关
 
-| Name       | Link                                            | Usage    |
-| ---------- | ----------------------------------------------- | -------- |
-| Babel      | https://babeljs.io/<br/>https://www.babeljs.cn/ | ES 通用  |
-| TypeScript |                                                 | TS to ES |
-| SWC        |                                                 |
-|            |                                                 |
+| Name       | Link                                            | Usage                                       |
+| ---------- | ----------------------------------------------- | ------------------------------------------- |
+| Babel      | https://babeljs.io/<br/>https://www.babeljs.cn/ | ECMAScript 集大成(parser,traverse,generate) |
+| TypeScript |                                                 | TS to ES                                    |
+| SWC        | https://swc.rs/                                 | Rust 版的 Babel                             |
+| Pegjs      | https://pegjs.org/                              | JavaScript Parser 生成器                    |
+| toml       | https://github.com/BinaryMuse/toml-node         | toml parser                                 |
+| Acorn      | https://github.com/acornjs/acorn                | js parser                                   |
+|            |                                                 |                                             |
 
 ### Babel 体系
 
@@ -240,6 +245,22 @@
 | dayjs  | https://dayjs.fenxianglu.cn/ |
 |        |                              |
 
+## Node/Npm 能力增强
+
+| Name        | Link                                          | Usage                     |
+| ----------- | --------------------------------------------- | ------------------------- |
+| npm-run-all | https://github.com/mysticatea/npm-run-all     | 支持在 npm 下运行多条指令 |
+| fs-extra    | https://github.com/jprichardson/node-fs-extra | fs 扩展                   |
+| napi-rs     | https://napi.rs/                              | Node.js 原生库增强        |
+|             |                                               |                           |
+
+## 小工具 & 语法糖
+| Name         | Link | Usage |
+| ------------ | ---- | ----- |
+| rimraf       |      |       |
+| try-to-catch |      |       |
+|              |      |       |
+
 ## 其他 & 三方工具库
 
 | Name              | Link                                               | Usage               |
@@ -255,12 +276,11 @@
 | JQuery            | https://jquery.com/<br/>https://www.jquery123.com/ | DOM 操作库          |
 | JSZip             | https://stuk.github.io/jszip/                      | 多文件压缩          |
 | SparkMD5          | https://github.com/satazor/js-spark-md5            | MD5 算法特征值生成  |
-| fs-extra          | https://github.com/jprichardson/node-fs-extra      | fs 扩展             |
 | clipboard         | https://clipboardjs.com/                           | 剪贴板              |
 | Gitgraph          | https://gitgraphjs.com/#0                          | Git 分支图          |
 | yargs             | http://yargs.js.org/                               |                     |
-| rimraf            |                                                    |                     |
 | cachedir          |                                                    |                     |
+|                   |                                                    |                     |
 
 ## 游戏框架
 
