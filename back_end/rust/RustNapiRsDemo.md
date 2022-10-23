@@ -54,7 +54,7 @@ pnpm i -g @napi-rs/cli
 
 - `build.rs`
 
-```rs
+```rust
 extern crate napi_build;
 
 fn main() {
@@ -66,7 +66,7 @@ fn main() {
 
 - `/src/lib.rs`
 
-```rs
+```rust
 #![deny(clippy::all)]
 
 #[macro_use]
