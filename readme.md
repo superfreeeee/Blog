@@ -11,7 +11,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <th align="left">Group 分组</th>
     <th align="left">Title 标题</th>
     <tr>
-        <td rowspan="34">front_end/javascript</td>
+        <td rowspan="35">front_end/javascript</td>
         <td>JS 基礎：Object.DefineProperty<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105872149">https://blog.csdn.net/weixin_44691608/article/details/105872149</a></td>
     </tr>
     <tr><td>JS 基礎：對象的可修改性<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/105915717">https://blog.csdn.net/weixin_44691608/article/details/105915717</a></td></tr>
@@ -47,6 +47,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>JS Web API: Stream API 解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121557249">https://blog.csdn.net/weixin_44691608/article/details/121557249</a></td></tr>
     <tr><td>JS 缓存: Service Worker 实现离线应用<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/122321383">https://blog.csdn.net/weixin_44691608/article/details/122321383</a></td></tr>
     <tr><td>JS: 自定义右键操作列表 Context Menu<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/123263818">https://blog.csdn.net/weixin_44691608/article/details/123263818</a></td></tr>
+    <tr><td>JS 基础: 取消 Ajax 请求(fetch abort)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127594853">https://blog.csdn.net/weixin_44691608/article/details/127594853</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="7">front_end/typescript</td>

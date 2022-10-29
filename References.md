@@ -17,6 +17,7 @@
     - [Babel 体系](#babel-体系)
   - [Bundler 打包工具](#bundler-打包工具)
     - [Webpack 体系](#webpack-体系)
+    - [Rollup 体系](#rollup-体系)
   - [前端工程化](#前端工程化)
   - [可视化图形库](#可视化图形库)
   - [CDN 分发网络](#cdn-分发网络)
@@ -178,6 +179,12 @@
 | babel-loader         |                                                  | Loader - 引入 babel          |
 |                      |                                                  |                              |
 
+### Rollup 体系
+
+| Name                 | Link                                               | Usage        |
+| -------------------- | -------------------------------------------------- | ------------ |
+| @rollup/plugin-buble | https://www.npmjs.com/package/@rollup/plugin-buble | ES6 语法转换 |
+|                      |                                                    |              |
 
 ## 前端工程化
 
@@ -232,10 +239,18 @@
 
 ## 测试框架
 
-| Name | Link               |
-| ---- | ------------------ |
-| jest | https://jestjs.io/ |
-|      |                    |
+| Name       | Link                                      | Usage                               |
+| ---------- | ----------------------------------------- | ----------------------------------- |
+| Jest       | https://jestjs.io/                        | 轻量级预配置测试框架 test framework |
+| Mocha      | https://mochajs.org/                      | 重量级可配置测试框架 test runner    |
+| ava        |                                           |                                     |
+| Jasmine    |                                           |                                     |
+| Karma      |                                           |                                     |
+| Tape       |                                           |                                     |
+| Sinon      | https://sinonjs.org/                      | stub/mock 库                        |
+| chai       | https://www.chaijs.com/                   | assertion 库                        |
+| supertest  | https://github.com/visionmedia/supertest  | 高层抽象的 http 测试库              |
+| superatent | https://github.com/visionmedia/superagent | 低层抽象的 http 测试库              |
 
 ## 时间处理
 
@@ -280,6 +295,9 @@
 | Gitgraph          | https://gitgraphjs.com/#0                          | Git 分支图          |
 | yargs             | http://yargs.js.org/                               |                     |
 | cachedir          |                                                    |                     |
+| immer             | https://immerjs.github.io/immer/                   | immutable state     |
+| immutable.js      | https://immutable-js.com/                          | immutable state     |
+| Rxjs              | https://rxjs.dev/                                  | async 基础工具库    |
 |                   |                                                    |                     |
 
 ## 游戏框架
