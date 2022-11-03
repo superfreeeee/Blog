@@ -221,7 +221,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>RxJS 实战: 基于 BehaviorSubject 实现状态管理 & 结合 React<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127679008">https://blog.csdn.net/weixin_44691608/article/details/127679008</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
-        <td rowspan="21">front_end/library_source_code</td>
+        <td rowspan="22">front_end/library_source_code</td>
         <td>Clipboard.js 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121073183">https://blog.csdn.net/weixin_44691608/article/details/121073183</a></td>
     </tr>
     <tr><td>tiny-emitter 源码解析<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121074232">https://blog.csdn.net/weixin_44691608/article/details/121074232</a></td></tr>
@@ -244,6 +244,7 @@ CSDN 主頁連結：<a href="https://blog.csdn.net/weixin_44691608">超悠閒的
     <tr><td>single-line-log 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121738878">https://blog.csdn.net/weixin_44691608/article/details/121738878</a></td></tr>
     <tr><td>semver 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/121747721">https://blog.csdn.net/weixin_44691608/article/details/121747721</a></td></tr>
     <tr><td>Zustand 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127438349">https://blog.csdn.net/weixin_44691608/article/details/127438349</a></td></tr>
+    <tr><td>defer-promise 源码解析(Npm library)<br/><a href="https://blog.csdn.net/weixin_44691608/article/details/127679466">https://blog.csdn.net/weixin_44691608/article/details/127679466</a></td></tr>
     <!-- <tr><td><br/><a href=""></a></td></tr> -->
     <tr>
         <td rowspan="1">front_end/wasm</td>
